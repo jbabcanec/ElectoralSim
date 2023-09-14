@@ -1,6 +1,8 @@
 function updateStateData(newData) {
   stateData = newData;
   console.log('State data updated');
+  updateSummaryPanel();
+  updateStatePanel();
 }
 
 function setupYearChangeListener() {

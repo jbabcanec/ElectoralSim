@@ -26,7 +26,7 @@ const stateData2016 = {
   MS: { population: 2988726, electoralVotes: 6, votes: { Clinton: 0, Trump: 6 } },
   MO: { population: 6093000, electoralVotes: 10, votes: { Clinton: 0, Trump: 10 } },
   MT: { population: 1042520, electoralVotes: 3, votes: { Clinton: 0, Trump: 3 } },
-  NE: { population: 1907116, electoralVotes: 5, votes: { Clinton: 1, Trump: 4 } },
+  NE: { population: 1907116, electoralVotes: 5, votes: { Clinton: 0, Trump: 5 } },
   NV: { population: 2940058, electoralVotes: 6, votes: { Clinton: 6, Trump: 0 } },
   NH: { population: 1334795, electoralVotes: 4, votes: { Clinton: 4, Trump: 0 } },
   NJ: { population: 8944469, electoralVotes: 14, votes: { Clinton: 14, Trump: 0 } },
