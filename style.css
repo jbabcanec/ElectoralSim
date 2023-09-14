@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.container {
+  padding: 20px;
+}
+
+.content {
+    display: flex;
+}
+
+#mapContainer {
+    width: 70%; /* Adjust this value to find the optimal width */
+    max-width: 70%; /* Ensuring it doesn't grow beyond this */
+    overflow: auto; /* Introduce scrollbars if content is larger than container */
+}
+
+#right-panel-container {
+    display: flex;
+    flex-direction: column;
+    width: 20%; /* Adjust as per your preference */
+}
+
+#side-panel, #summary-panel {
+    width: 100%; 
+    font-size: 0.9em; 
+    padding: 10px; 
+}
+
+#side-panel h2, #summary-panel h2 {
+    font-size: 1.2em; 
+    margin-bottom: 10px; 
+}
+
+#side-panel p, #summary-panel p {
+    margin-bottom: 5px; 
+}
+
+
+#options-container {
+    margin-bottom: 20px; /* This creates space between the options container and other elements below it, such as the map */
+}
+
+#options-container {
+    margin-top: 30px; /* Add space between the options container and the map */
+}
