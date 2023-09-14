@@ -12,8 +12,8 @@ body {
 }
 
 #mapContainer {
-    width: 70%; /* Adjust this value to find the optimal width */
-    max-width: 70%; /* Ensuring it doesn't grow beyond this */
+    width: 80%; /* Adjust this value to find the optimal width */
+    max-width: 80%; /* Ensuring it doesn't grow beyond this */
     overflow: auto; /* Introduce scrollbars if content is larger than container */
 }
 

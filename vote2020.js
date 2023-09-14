@@ -1,4 +1,4 @@
-const stateData = {
+const stateData2020 = {
   AL: { population: 5024279, electoralVotes: 9, votes: { Biden: 0, Trump: 9 } },
   AK: { population: 731545, electoralVotes: 3, votes: { Biden: 0, Trump: 3 } },
   AZ: { population: 7151502, electoralVotes: 11, votes: { Biden: 11, Trump: 0 } },
@@ -51,3 +51,11 @@ const stateData = {
   WI: { population: 5893718, electoralVotes: 10, votes: { Biden: 10, Trump: 0 } },
   WY: { population: 576851, electoralVotes: 3, votes: { Biden: 0, Trump: 3 } },
 };
+
+window.stateData2020 = stateData2020;
+
+if (window.updateStateData) {
+  window.updateStateData(stateData2020);
+}
+
+console.log('vote2020.js script loaded');
