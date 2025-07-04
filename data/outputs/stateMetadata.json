@@ -1,0 +1,308 @@
+{
+  "Delaware": {
+    "name": "Delaware",
+    "abbreviation": "DE",
+    "admissionYear": 1787,
+    "firstElection": 1788
+  },
+  "Pennsylvania": {
+    "name": "Pennsylvania",
+    "abbreviation": "PA",
+    "admissionYear": 1787,
+    "firstElection": 1788
+  },
+  "New Jersey": {
+    "name": "New Jersey",
+    "abbreviation": "NJ",
+    "admissionYear": 1787,
+    "firstElection": 1788
+  },
+  "Georgia": {
+    "name": "Georgia",
+    "abbreviation": "GA",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "Connecticut": {
+    "name": "Connecticut",
+    "abbreviation": "CT",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "Massachusetts": {
+    "name": "Massachusetts",
+    "abbreviation": "MA",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "Maryland": {
+    "name": "Maryland",
+    "abbreviation": "MD",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "South Carolina": {
+    "name": "South Carolina",
+    "abbreviation": "SC",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "New Hampshire": {
+    "name": "New Hampshire",
+    "abbreviation": "NH",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "Virginia": {
+    "name": "Virginia",
+    "abbreviation": "VA",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "New York": {
+    "name": "New York",
+    "abbreviation": "NY",
+    "admissionYear": 1788,
+    "firstElection": 1788
+  },
+  "North Carolina": {
+    "name": "North Carolina",
+    "abbreviation": "NC",
+    "admissionYear": 1789,
+    "firstElection": 1792
+  },
+  "Rhode Island": {
+    "name": "Rhode Island",
+    "abbreviation": "RI",
+    "admissionYear": 1790,
+    "firstElection": 1792
+  },
+  "Vermont": {
+    "name": "Vermont",
+    "abbreviation": "VT",
+    "admissionYear": 1791,
+    "firstElection": 1792
+  },
+  "Kentucky": {
+    "name": "Kentucky",
+    "abbreviation": "KY",
+    "admissionYear": 1792,
+    "firstElection": 1792
+  },
+  "Tennessee": {
+    "name": "Tennessee",
+    "abbreviation": "TN",
+    "admissionYear": 1796,
+    "firstElection": 1796
+  },
+  "Ohio": {
+    "name": "Ohio",
+    "abbreviation": "OH",
+    "admissionYear": 1803,
+    "firstElection": 1804
+  },
+  "Louisiana": {
+    "name": "Louisiana",
+    "abbreviation": "LA",
+    "admissionYear": 1812,
+    "firstElection": 1812
+  },
+  "Indiana": {
+    "name": "Indiana",
+    "abbreviation": "IN",
+    "admissionYear": 1816,
+    "firstElection": 1816
+  },
+  "Mississippi": {
+    "name": "Mississippi",
+    "abbreviation": "MS",
+    "admissionYear": 1817,
+    "firstElection": 1820
+  },
+  "Illinois": {
+    "name": "Illinois",
+    "abbreviation": "IL",
+    "admissionYear": 1818,
+    "firstElection": 1820
+  },
+  "Alabama": {
+    "name": "Alabama",
+    "abbreviation": "AL",
+    "admissionYear": 1819,
+    "firstElection": 1820
+  },
+  "Maine": {
+    "name": "Maine",
+    "abbreviation": "ME",
+    "admissionYear": 1820,
+    "firstElection": 1820
+  },
+  "Missouri": {
+    "name": "Missouri",
+    "abbreviation": "MO",
+    "admissionYear": 1821,
+    "firstElection": 1824
+  },
+  "Arkansas": {
+    "name": "Arkansas",
+    "abbreviation": "AR",
+    "admissionYear": 1836,
+    "firstElection": 1836
+  },
+  "Michigan": {
+    "name": "Michigan",
+    "abbreviation": "MI",
+    "admissionYear": 1837,
+    "firstElection": 1840
+  },
+  "Florida": {
+    "name": "Florida",
+    "abbreviation": "FL",
+    "admissionYear": 1845,
+    "firstElection": 1848
+  },
+  "Texas": {
+    "name": "Texas",
+    "abbreviation": "TX",
+    "admissionYear": 1845,
+    "firstElection": 1848
+  },
+  "Iowa": {
+    "name": "Iowa",
+    "abbreviation": "IA",
+    "admissionYear": 1846,
+    "firstElection": 1848
+  },
+  "Wisconsin": {
+    "name": "Wisconsin",
+    "abbreviation": "WI",
+    "admissionYear": 1848,
+    "firstElection": 1848
+  },
+  "California": {
+    "name": "California",
+    "abbreviation": "CA",
+    "admissionYear": 1850,
+    "firstElection": 1852
+  },
+  "Minnesota": {
+    "name": "Minnesota",
+    "abbreviation": "MN",
+    "admissionYear": 1858,
+    "firstElection": 1860
+  },
+  "Oregon": {
+    "name": "Oregon",
+    "abbreviation": "OR",
+    "admissionYear": 1859,
+    "firstElection": 1860
+  },
+  "Kansas": {
+    "name": "Kansas",
+    "abbreviation": "KS",
+    "admissionYear": 1861,
+    "firstElection": 1864
+  },
+  "West Virginia": {
+    "name": "West Virginia",
+    "abbreviation": "WV",
+    "admissionYear": 1863,
+    "firstElection": 1864
+  },
+  "Nevada": {
+    "name": "Nevada",
+    "abbreviation": "NV",
+    "admissionYear": 1864,
+    "firstElection": 1864
+  },
+  "Nebraska": {
+    "name": "Nebraska",
+    "abbreviation": "NE",
+    "admissionYear": 1867,
+    "firstElection": 1868
+  },
+  "Colorado": {
+    "name": "Colorado",
+    "abbreviation": "CO",
+    "admissionYear": 1876,
+    "firstElection": 1876
+  },
+  "North Dakota": {
+    "name": "North Dakota",
+    "abbreviation": "ND",
+    "admissionYear": 1889,
+    "firstElection": 1892
+  },
+  "South Dakota": {
+    "name": "South Dakota",
+    "abbreviation": "SD",
+    "admissionYear": 1889,
+    "firstElection": 1892
+  },
+  "Montana": {
+    "name": "Montana",
+    "abbreviation": "MT",
+    "admissionYear": 1889,
+    "firstElection": 1892
+  },
+  "Washington": {
+    "name": "Washington",
+    "abbreviation": "WA",
+    "admissionYear": 1889,
+    "firstElection": 1892
+  },
+  "Idaho": {
+    "name": "Idaho",
+    "abbreviation": "ID",
+    "admissionYear": 1890,
+    "firstElection": 1892
+  },
+  "Wyoming": {
+    "name": "Wyoming",
+    "abbreviation": "WY",
+    "admissionYear": 1890,
+    "firstElection": 1892
+  },
+  "Utah": {
+    "name": "Utah",
+    "abbreviation": "UT",
+    "admissionYear": 1896,
+    "firstElection": 1896
+  },
+  "Oklahoma": {
+    "name": "Oklahoma",
+    "abbreviation": "OK",
+    "admissionYear": 1907,
+    "firstElection": 1908
+  },
+  "New Mexico": {
+    "name": "New Mexico",
+    "abbreviation": "NM",
+    "admissionYear": 1912,
+    "firstElection": 1912
+  },
+  "Arizona": {
+    "name": "Arizona",
+    "abbreviation": "AZ",
+    "admissionYear": 1912,
+    "firstElection": 1912
+  },
+  "Alaska": {
+    "name": "Alaska",
+    "abbreviation": "AK",
+    "admissionYear": 1959,
+    "firstElection": 1960
+  },
+  "Hawaii": {
+    "name": "Hawaii",
+    "abbreviation": "HI",
+    "admissionYear": 1959,
+    "firstElection": 1960
+  },
+  "District of Columbia": {
+    "name": "District of Columbia",
+    "abbreviation": "DC",
+    "admissionYear": 1961,
+    "firstElection": 1964
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "Republican": "#E81B23",
+  "Democratic": "#3333FF",
+  "Democratic-Republican": "#008000",
+  "Federalist": "#EA9978",
+  "Whig": "#F0DC82",
+  "National Republican": "#E0CDA9",
+  "Progressive": "#FF6347",
+  "American Independent": "#808080",
+  "States Rights": "#F4C430",
+  "Liberal Republican": "#FFD700",
+  "Populist": "#ACE1AF",
+  "Liberal Republican/Democratic": "#4682B4",
+  "None": "#D3D3D3",
+  "Did Not Vote": "#808080",
+  "Unknown": "#C0C0C0"
+}

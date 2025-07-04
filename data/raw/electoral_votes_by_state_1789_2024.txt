@@ -1,0 +1,2421 @@
+Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast,Notes
+1789,Connecticut,7,George Washington,7,,,69,Each elector had 2 votes
+1789,Delaware,3,George Washington,3,,,69,Each elector had 2 votes
+1789,Georgia,3,George Washington,3,,,69,2 electors did not vote
+1789,Maryland,8,George Washington,6,,,69,2 electors did not vote
+1789,Massachusetts,10,George Washington,10,,,69,Included Maine district
+1789,New Hampshire,5,George Washington,5,,,69,Each elector had 2 votes
+1789,New Jersey,6,George Washington,6,,,69,Each elector had 2 votes
+1789,New York,0,No Vote,0,,,69,Legislature deadlocked
+1789,North Carolina,0,Not Voting,0,,,69,Had not ratified Constitution
+1789,Pennsylvania,10,George Washington,10,,,69,Each elector had 2 votes
+1789,Rhode Island,0,Not Voting,0,,,69,Had not ratified Constitution
+1789,South Carolina,7,George Washington,7,,,69,Each elector had 2 votes
+1789,Virginia,12,George Washington,10,,,69,2 electors did not vote
+1789,Vermont,0,Not a State,0,,,69,Became state in 1791
+
+1792,Connecticut,9,George Washington,9,,,132,All electors unanimous for Washington
+1792,Delaware,3,George Washington,3,,,132,All electors unanimous for Washington
+1792,Georgia,4,George Washington,4,,,132,All electors unanimous for Washington
+1792,Kentucky,4,George Washington,4,,,132,New state admitted 1792
+1792,Maryland,10,George Washington,8,,,132,2 electors did not vote
+1792,Massachusetts,16,George Washington,16,,,132,Included Maine district
+1792,New Hampshire,6,George Washington,6,,,132,All electors unanimous for Washington
+1792,New Jersey,7,George Washington,7,,,132,All electors unanimous for Washington
+1792,New York,12,George Washington,12,,,132,All electors unanimous for Washington
+1792,North Carolina,12,George Washington,12,,,132,All electors unanimous for Washington
+1792,Pennsylvania,15,George Washington,15,,,132,All electors unanimous for Washington
+1792,Rhode Island,4,George Washington,4,,,132,All electors unanimous for Washington
+1792,South Carolina,8,George Washington,8,,,132,All electors unanimous for Washington
+1792,Vermont,4,George Washington,3,,,132,1 elector did not vote
+1792,Virginia,21,George Washington,21,,,132,All electors unanimous for Washington
+
+1796,Connecticut,9,John Adams,9,Thomas Jefferson,0,138,Adams Federalist
+1796,Delaware,3,John Adams,3,Thomas Jefferson,0,138,Adams Federalist
+1796,Georgia,4,Thomas Jefferson,4,John Adams,0,138,Jefferson Democratic-Republican
+1796,Kentucky,4,Thomas Jefferson,4,John Adams,0,138,Jefferson Democratic-Republican
+1796,Maryland,10,John Adams,7,Thomas Jefferson,4,138,Split vote
+1796,Massachusetts,16,John Adams,16,Thomas Jefferson,0,138,Adams home state
+1796,New Hampshire,6,John Adams,6,Thomas Jefferson,0,138,Adams Federalist
+1796,New Jersey,7,John Adams,7,Thomas Jefferson,0,138,Adams Federalist
+1796,New York,12,John Adams,12,Thomas Jefferson,0,138,Adams Federalist
+1796,North Carolina,12,Thomas Jefferson,11,John Adams,1,138,Split vote
+1796,Pennsylvania,15,Thomas Jefferson,14,John Adams,1,138,Split vote
+1796,Rhode Island,4,John Adams,4,Thomas Jefferson,0,138,Adams Federalist
+1796,South Carolina,8,Thomas Jefferson,8,John Adams,0,138,Jefferson Democratic-Republican
+1796,Tennessee,3,Thomas Jefferson,3,John Adams,0,138,New state admitted 1796
+1796,Vermont,4,John Adams,4,Thomas Jefferson,0,138,Adams Federalist
+1796,Virginia,21,Thomas Jefferson,20,John Adams,1,138,Jefferson home state
+
+1800,Connecticut,9,John Adams,9,Thomas Jefferson,0,138,Adams Federalist
+1800,Delaware,3,John Adams,3,Thomas Jefferson,0,138,Adams Federalist
+1800,Georgia,4,Thomas Jefferson,4,John Adams,0,138,Jefferson Democratic-Republican
+1800,Kentucky,4,Thomas Jefferson,4,John Adams,0,138,Jefferson Democratic-Republican
+1800,Maryland,10,John Adams,5,Thomas Jefferson,5,138,Split vote
+1800,Massachusetts,16,John Adams,16,Thomas Jefferson,0,138,Adams home state
+1800,New Hampshire,6,John Adams,6,Thomas Jefferson,0,138,Adams Federalist
+1800,New Jersey,7,John Adams,7,Thomas Jefferson,0,138,Adams Federalist
+1800,New York,12,Thomas Jefferson,12,John Adams,0,138,Jefferson Democratic-Republican
+1800,North Carolina,12,Thomas Jefferson,8,John Adams,4,138,Split vote
+1800,Pennsylvania,15,Thomas Jefferson,8,John Adams,7,138,Split vote
+1800,Rhode Island,4,John Adams,4,Thomas Jefferson,0,138,Split vote
+1800,South Carolina,8,Thomas Jefferson,8,John Adams,0,138,Jefferson Democratic-Republican
+1800,Tennessee,3,Thomas Jefferson,3,John Adams,0,138,Jefferson Democratic-Republican
+1800,Vermont,4,John Adams,4,Thomas Jefferson,0,138,Adams Federalist
+1800,Virginia,21,Thomas Jefferson,21,John Adams,0,138,Jefferson home state
+
+1804,Connecticut,9,Thomas Jefferson,0,Charles Pinckney,9,176,12th Amendment in effect
+1804,Delaware,3,Thomas Jefferson,0,Charles Pinckney,3,176,Federalist
+1804,Georgia,6,Thomas Jefferson,6,Charles Pinckney,0,176,Democratic-Republican
+1804,Kentucky,8,Thomas Jefferson,8,Charles Pinckney,0,176,Democratic-Republican
+1804,Maryland,11,Thomas Jefferson,9,Charles Pinckney,2,176,Split vote
+1804,Massachusetts,19,Thomas Jefferson,0,Charles Pinckney,19,176,Federalist
+1804,New Hampshire,7,Thomas Jefferson,0,Charles Pinckney,7,176,Federalist
+1804,New Jersey,8,Thomas Jefferson,8,Charles Pinckney,0,176,Democratic-Republican
+1804,New York,19,Thomas Jefferson,19,Charles Pinckney,0,176,Democratic-Republican
+1804,North Carolina,14,Thomas Jefferson,14,Charles Pinckney,0,176,Democratic-Republican
+1804,Ohio,3,Thomas Jefferson,3,Charles Pinckney,0,176,New state admitted 1803
+1804,Pennsylvania,20,Thomas Jefferson,20,Charles Pinckney,0,176,Democratic-Republican
+1804,Rhode Island,4,Thomas Jefferson,4,Charles Pinckney,0,176,Democratic-Republican
+1804,South Carolina,10,Thomas Jefferson,10,Charles Pinckney,0,176,Democratic-Republican
+1804,Tennessee,5,Thomas Jefferson,5,Charles Pinckney,0,176,Democratic-Republican
+1804,Vermont,6,Thomas Jefferson,6,Charles Pinckney,0,176,Democratic-Republican
+1804,Virginia,24,Thomas Jefferson,24,Charles Pinckney,0,176,Jefferson home state
+
+1808,Connecticut,9,James Madison,0,Charles Pinckney,9,176,Federalist
+1808,Delaware,3,James Madison,0,Charles Pinckney,3,176,Federalist
+1808,Georgia,6,James Madison,6,Charles Pinckney,0,176,Democratic-Republican
+1808,Kentucky,8,James Madison,7,Charles Pinckney,0,176,1 faithless elector
+1808,Maryland,11,James Madison,9,Charles Pinckney,2,176,Split vote
+1808,Massachusetts,19,James Madison,0,Charles Pinckney,19,176,Federalist
+1808,New Hampshire,7,James Madison,0,Charles Pinckney,7,176,Federalist
+1808,New Jersey,8,James Madison,8,Charles Pinckney,0,176,Democratic-Republican
+1808,New York,19,James Madison,13,Charles Pinckney,6,176,Split vote
+1808,North Carolina,14,James Madison,11,Charles Pinckney,3,176,Split vote
+1808,Ohio,3,James Madison,3,Charles Pinckney,0,176,Democratic-Republican
+1808,Pennsylvania,20,James Madison,20,Charles Pinckney,0,176,Democratic-Republican
+1808,Rhode Island,4,James Madison,0,Charles Pinckney,4,176,Federalist
+1808,South Carolina,10,James Madison,10,Charles Pinckney,0,176,Democratic-Republican
+1808,Tennessee,5,James Madison,5,Charles Pinckney,0,176,Democratic-Republican
+1808,Vermont,6,James Madison,6,Charles Pinckney,0,176,Democratic-Republican
+1808,Virginia,24,James Madison,24,Charles Pinckney,0,176,Madison home state
+
+1812,Connecticut,9,James Madison,0,DeWitt Clinton,9,218,Federalist
+1812,Delaware,3,James Madison,0,DeWitt Clinton,3,218,Federalist
+1812,Georgia,8,James Madison,8,DeWitt Clinton,0,218,Democratic-Republican
+1812,Kentucky,12,James Madison,12,DeWitt Clinton,0,218,Democratic-Republican
+1812,Louisiana,3,James Madison,3,DeWitt Clinton,0,218,New state admitted 1812
+1812,Maryland,11,James Madison,6,DeWitt Clinton,5,218,Split vote
+1812,Massachusetts,22,James Madison,0,DeWitt Clinton,22,218,Federalist
+1812,New Hampshire,8,James Madison,0,DeWitt Clinton,8,218,Federalist
+1812,New Jersey,8,James Madison,0,DeWitt Clinton,8,218,Federalist
+1812,New York,29,James Madison,0,DeWitt Clinton,29,218,Clinton home state
+1812,North Carolina,15,James Madison,15,DeWitt Clinton,0,218,Democratic-Republican
+1812,Ohio,8,James Madison,7,DeWitt Clinton,0,218,1 elector did not vote
+1812,Pennsylvania,25,James Madison,25,DeWitt Clinton,0,218,Democratic-Republican
+1812,Rhode Island,4,James Madison,0,DeWitt Clinton,4,218,Federalist
+1812,South Carolina,11,James Madison,11,DeWitt Clinton,0,218,Democratic-Republican
+1812,Tennessee,8,James Madison,8,DeWitt Clinton,0,218,Democratic-Republican
+1812,Vermont,8,James Madison,8,DeWitt Clinton,0,218,Democratic-Republican
+1812,Virginia,25,James Madison,25,DeWitt Clinton,0,218,Madison home state
+
+1816,Connecticut,9,James Monroe,0,Rufus King,9,221,Federalist
+1816,Delaware,3,James Monroe,0,Rufus King,3,221,Federalist
+1816,Georgia,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,Indiana,3,James Monroe,3,Rufus King,0,221,New state admitted 1816
+1816,Kentucky,12,James Monroe,12,Rufus King,0,221,Democratic-Republican
+1816,Louisiana,3,James Monroe,3,Rufus King,0,221,Democratic-Republican
+1816,Maryland,11,James Monroe,8,Rufus King,0,221,3 electors did not vote
+1816,Massachusetts,22,James Monroe,0,Rufus King,22,221,Federalist
+1816,New Hampshire,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,New Jersey,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,New York,29,James Monroe,29,Rufus King,0,221,Democratic-Republican
+1816,North Carolina,15,James Monroe,15,Rufus King,0,221,Democratic-Republican
+1816,Ohio,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,Pennsylvania,25,James Monroe,25,Rufus King,0,221,Democratic-Republican
+1816,Rhode Island,4,James Monroe,4,Rufus King,0,221,Democratic-Republican
+1816,South Carolina,11,James Monroe,11,Rufus King,0,221,Democratic-Republican
+1816,Tennessee,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,Vermont,8,James Monroe,8,Rufus King,0,221,Democratic-Republican
+1816,Virginia,25,James Monroe,25,Rufus King,0,221,Monroe home state
+
+1820,Alabama,3,James Monroe,3,John Q. Adams,0,235,New state admitted 1819
+1820,Connecticut,9,James Monroe,9,John Q. Adams,0,235,Effectively unopposed
+1820,Delaware,4,James Monroe,3,John Q. Adams,0,235,1 elector did not vote
+1820,Georgia,8,James Monroe,8,John Q. Adams,0,235,Effectively unopposed
+1820,Illinois,3,James Monroe,3,John Q. Adams,0,235,New state admitted 1818
+1820,Indiana,3,James Monroe,3,John Q. Adams,0,235,Effectively unopposed
+1820,Kentucky,12,James Monroe,12,John Q. Adams,0,235,Effectively unopposed
+1820,Louisiana,3,James Monroe,3,John Q. Adams,0,235,Effectively unopposed
+1820,Maine,9,James Monroe,9,John Q. Adams,0,235,New state admitted 1820
+1820,Maryland,11,James Monroe,11,John Q. Adams,0,235,Effectively unopposed
+1820,Massachusetts,15,James Monroe,15,John Q. Adams,0,235,Effectively unopposed
+1820,Mississippi,3,James Monroe,2,John Q. Adams,0,235,New state 1817; 1 elector did not vote
+1820,Missouri,3,James Monroe,3,John Q. Adams,0,235,New state 1821; disputed
+1820,New Hampshire,8,James Monroe,7,John Q. Adams,1,235,1 faithless elector
+1820,New Jersey,8,James Monroe,8,John Q. Adams,0,235,Effectively unopposed
+1820,New York,29,James Monroe,29,John Q. Adams,0,235,Effectively unopposed
+1820,North Carolina,15,James Monroe,15,John Q. Adams,0,235,Effectively unopposed
+1820,Ohio,8,James Monroe,8,John Q. Adams,0,235,Effectively unopposed
+1820,Pennsylvania,25,James Monroe,24,John Q. Adams,0,235,1 elector did not vote
+1820,Rhode Island,4,James Monroe,4,John Q. Adams,0,235,Effectively unopposed
+1820,South Carolina,11,James Monroe,11,John Q. Adams,0,235,Effectively unopposed
+1820,Tennessee,8,James Monroe,7,John Q. Adams,0,235,1 elector did not vote
+1820,Vermont,8,James Monroe,8,John Q. Adams,0,235,Effectively unopposed
+1820,Virginia,25,James Monroe,25,John Q. Adams,0,235,Monroe home state
+
+1824,Alabama,5,Andrew Jackson,5,John Q. Adams,0,261,No majority; House decides
+1824,Connecticut,8,John Q. Adams,8,Andrew Jackson,0,261,Adams wins state
+1824,Delaware,3,William Crawford,1,Andrew Jackson,1,261,Split vote
+1824,Georgia,9,William Crawford,9,Andrew Jackson,0,261,Crawford home state
+1824,Illinois,3,Andrew Jackson,2,John Q. Adams,1,261,Split vote
+1824,Indiana,5,Andrew Jackson,5,John Q. Adams,0,261,Jackson plurality
+1824,Kentucky,14,Henry Clay,14,Andrew Jackson,0,261,Clay home state
+1824,Louisiana,5,Andrew Jackson,3,John Q. Adams,2,261,Split vote
+1824,Maine,9,John Q. Adams,9,Andrew Jackson,0,261,Adams wins state
+1824,Maryland,11,Andrew Jackson,7,John Q. Adams,3,261,Split vote
+1824,Massachusetts,15,John Q. Adams,15,Andrew Jackson,0,261,Adams home state
+1824,Mississippi,3,Andrew Jackson,3,John Q. Adams,0,261,Jackson plurality
+1824,Missouri,3,Henry Clay,3,Andrew Jackson,0,261,Clay wins state
+1824,New Hampshire,8,John Q. Adams,8,Andrew Jackson,0,261,Adams wins state
+1824,New Jersey,8,Andrew Jackson,8,John Q. Adams,0,261,Jackson plurality
+1824,New York,36,John Q. Adams,26,Andrew Jackson,5,261,Complex split
+1824,North Carolina,15,Andrew Jackson,15,John Q. Adams,0,261,Jackson plurality
+1824,Ohio,16,Henry Clay,16,Andrew Jackson,0,261,Clay wins state
+1824,Pennsylvania,28,Andrew Jackson,28,John Q. Adams,0,261,Jackson plurality
+1824,Rhode Island,4,John Q. Adams,4,Andrew Jackson,0,261,Adams wins state
+1824,South Carolina,11,Andrew Jackson,11,John Q. Adams,0,261,Jackson plurality
+1824,Tennessee,11,Andrew Jackson,11,John Q. Adams,0,261,Jackson home state
+1824,Vermont,7,John Q. Adams,7,Andrew Jackson,0,261,Adams wins state
+1824,Virginia,24,William Crawford,24,Andrew Jackson,0,261,Crawford wins state
+
+1828,Alabama,5,Andrew Jackson,5,John Q. Adams,0,261,Jackson Democrat
+1828,Connecticut,8,John Q. Adams,8,Andrew Jackson,0,261,Adams National Republican
+1828,Delaware,3,John Q. Adams,3,Andrew Jackson,0,261,Adams National Republican
+1828,Georgia,9,Andrew Jackson,9,John Q. Adams,0,261,Jackson Democrat
+1828,Illinois,3,Andrew Jackson,3,John Q. Adams,0,261,Jackson Democrat
+1828,Indiana,5,Andrew Jackson,5,John Q. Adams,0,261,Jackson Democrat
+1828,Kentucky,14,Andrew Jackson,14,John Q. Adams,0,261,Jackson Democrat
+1828,Louisiana,5,Andrew Jackson,5,John Q. Adams,0,261,Jackson Democrat
+1828,Maine,9,John Q. Adams,8,Andrew Jackson,1,261,Split vote
+1828,Maryland,11,John Q. Adams,6,Andrew Jackson,5,261,Split vote
+1828,Massachusetts,15,John Q. Adams,15,Andrew Jackson,0,261,Adams home state
+1828,Mississippi,3,Andrew Jackson,3,John Q. Adams,0,261,Jackson Democrat
+1828,Missouri,3,Andrew Jackson,3,John Q. Adams,0,261,Jackson Democrat
+1828,New Hampshire,8,John Q. Adams,8,Andrew Jackson,0,261,Adams National Republican
+1828,New Jersey,8,John Q. Adams,8,Andrew Jackson,0,261,Adams National Republican
+1828,New York,36,Andrew Jackson,20,John Q. Adams,16,261,Split vote
+1828,North Carolina,15,Andrew Jackson,15,John Q. Adams,0,261,Jackson Democrat
+1828,Ohio,16,Andrew Jackson,16,John Q. Adams,0,261,Jackson Democrat
+1828,Pennsylvania,28,Andrew Jackson,28,John Q. Adams,0,261,Jackson Democrat
+1828,Rhode Island,4,John Q. Adams,4,Andrew Jackson,0,261,Adams National Republican
+1828,South Carolina,11,Andrew Jackson,11,John Q. Adams,0,261,Jackson Democrat
+1828,Tennessee,11,Andrew Jackson,11,John Q. Adams,0,261,Jackson home state
+1828,Vermont,7,John Q. Adams,7,Andrew Jackson,0,261,Adams National Republican
+1828,Virginia,24,Andrew Jackson,24,John Q. Adams,0,261,Jackson Democrat
+
+1832,Alabama,7,Andrew Jackson,7,Henry Clay,0,286,Jackson Democrat
+1832,Connecticut,8,Henry Clay,8,Andrew Jackson,0,286,Clay National Republican
+1832,Delaware,3,Henry Clay,3,Andrew Jackson,0,286,Clay National Republican
+1832,Georgia,11,Andrew Jackson,11,Henry Clay,0,286,Jackson Democrat
+1832,Illinois,5,Andrew Jackson,5,Henry Clay,0,286,Jackson Democrat
+1832,Indiana,9,Andrew Jackson,9,Henry Clay,0,286,Jackson Democrat
+1832,Kentucky,15,Henry Clay,15,Andrew Jackson,0,286,Clay home state
+1832,Louisiana,5,Andrew Jackson,5,Henry Clay,0,286,Jackson Democrat
+1832,Maine,10,Andrew Jackson,10,Henry Clay,0,286,Jackson Democrat
+1832,Maryland,10,Henry Clay,5,Andrew Jackson,3,286,Split vote
+1832,Massachusetts,14,Henry Clay,14,Andrew Jackson,0,286,Clay National Republican
+1832,Mississippi,4,Andrew Jackson,4,Henry Clay,0,286,Jackson Democrat
+1832,Missouri,4,Andrew Jackson,4,Henry Clay,0,286,Jackson Democrat
+1832,New Hampshire,7,Andrew Jackson,7,Henry Clay,0,286,Jackson Democrat
+1832,New Jersey,8,Andrew Jackson,8,Henry Clay,0,286,Jackson Democrat
+1832,New York,42,Andrew Jackson,42,Henry Clay,0,286,Jackson Democrat
+1832,North Carolina,15,Andrew Jackson,15,Henry Clay,0,286,Jackson Democrat
+1832,Ohio,21,Andrew Jackson,21,Henry Clay,0,286,Jackson Democrat
+1832,Pennsylvania,30,Andrew Jackson,30,Henry Clay,0,286,Jackson Democrat
+1832,Rhode Island,4,Henry Clay,4,Andrew Jackson,0,286,Clay National Republican
+1832,South Carolina,11,John Floyd,11,Andrew Jackson,0,286,Nullifier Party
+1832,Tennessee,15,Andrew Jackson,15,Henry Clay,0,286,Jackson home state
+1832,Vermont,7,William Wirt,7,Andrew Jackson,0,286,Anti-Masonic
+1832,Virginia,23,Andrew Jackson,23,Henry Clay,0,286,Jackson Democrat
+
+1836,Alabama,7,Martin Van Buren,7,Hugh White,0,294,Van Buren Democrat
+1836,Arkansas,3,Martin Van Buren,3,Hugh White,0,294,New state admitted 1836
+1836,Connecticut,8,Martin Van Buren,8,William Harrison,0,294,Van Buren Democrat
+1836,Delaware,3,William Harrison,3,Martin Van Buren,0,294,Harrison Whig
+1836,Georgia,11,Hugh White,11,Martin Van Buren,0,294,White Whig
+1836,Illinois,5,Martin Van Buren,5,William Harrison,0,294,Van Buren Democrat
+1836,Indiana,9,William Harrison,9,Martin Van Buren,0,294,Harrison Whig
+1836,Kentucky,15,William Harrison,15,Martin Van Buren,0,294,Harrison Whig
+1836,Louisiana,5,Martin Van Buren,5,Hugh White,0,294,Van Buren Democrat
+1836,Maine,10,Martin Van Buren,10,William Harrison,0,294,Van Buren Democrat
+1836,Maryland,10,William Harrison,10,Martin Van Buren,0,294,Harrison Whig
+1836,Massachusetts,14,Daniel Webster,14,Martin Van Buren,0,294,Webster Whig
+1836,Michigan,3,Martin Van Buren,3,William Harrison,0,294,New state admitted 1837
+1836,Mississippi,4,Martin Van Buren,4,Hugh White,0,294,Van Buren Democrat
+1836,Missouri,4,Martin Van Buren,4,Hugh White,0,294,Van Buren Democrat
+1836,New Hampshire,7,Martin Van Buren,7,William Harrison,0,294,Van Buren Democrat
+1836,New Jersey,8,William Harrison,8,Martin Van Buren,0,294,Harrison Whig
+1836,New York,42,Martin Van Buren,42,William Harrison,0,294,Van Buren home state
+1836,North Carolina,15,Martin Van Buren,15,Hugh White,0,294,Van Buren Democrat
+1836,Ohio,21,William Harrison,21,Martin Van Buren,0,294,Harrison home state
+1836,Pennsylvania,30,Martin Van Buren,30,William Harrison,0,294,Van Buren Democrat
+1836,Rhode Island,4,Martin Van Buren,4,William Harrison,0,294,Van Buren Democrat
+1836,South Carolina,11,Willie Mangum,11,Martin Van Buren,0,294,Mangum Whig
+1836,Tennessee,15,Hugh White,15,Martin Van Buren,0,294,White home state
+1836,Vermont,7,William Harrison,7,Martin Van Buren,0,294,Harrison Whig
+1836,Virginia,23,Martin Van Buren,23,William Harrison,0,294,Van Buren Democrat
+
+1840,Alabama,7,William Harrison,7,Martin Van Buren,0,294,Harrison Whig
+1840,Arkansas,3,Martin Van Buren,3,William Harrison,0,294,Van Buren Democrat
+1840,Connecticut,8,William Harrison,8,Martin Van Buren,0,294,Harrison Whig
+1840,Delaware,3,William Harrison,3,Martin Van Buren,0,294,Harrison Whig
+1840,Georgia,11,William Harrison,11,Martin Van Buren,0,294,Harrison Whig
+1840,Illinois,5,Martin Van Buren,5,William Harrison,0,294,Van Buren Democrat
+1840,Indiana,9,William Harrison,9,Martin Van Buren,0,294,Harrison Whig
+1840,Kentucky,15,William Harrison,15,Martin Van Buren,0,294,Harrison Whig
+1840,Louisiana,5,William Harrison,5,Martin Van Buren,0,294,Harrison Whig
+1840,Maine,10,William Harrison,10,Martin Van Buren,0,294,Harrison Whig
+1840,Maryland,10,William Harrison,10,Martin Van Buren,0,294,Harrison Whig
+1840,Massachusetts,14,William Harrison,14,Martin Van Buren,0,294,Harrison Whig
+1840,Michigan,3,William Harrison,3,Martin Van Buren,0,294,Harrison Whig
+1840,Mississippi,4,William Harrison,4,Martin Van Buren,0,294,Harrison Whig
+1840,Missouri,4,Martin Van Buren,4,William Harrison,0,294,Van Buren Democrat
+1840,New Hampshire,7,Martin Van Buren,7,William Harrison,0,294,Van Buren Democrat
+1840,New Jersey,8,William Harrison,8,Martin Van Buren,0,294,Harrison Whig
+1840,New York,42,William Harrison,42,Martin Van Buren,0,294,Harrison Whig
+1840,North Carolina,15,William Harrison,15,Martin Van Buren,0,294,Harrison Whig
+1840,Ohio,21,William Harrison,21,Martin Van Buren,0,294,Harrison home state
+1840,Pennsylvania,30,William Harrison,30,Martin Van Buren,0,294,Harrison Whig
+1840,Rhode Island,4,William Harrison,4,Martin Van Buren,0,294,Harrison Whig
+1840,South Carolina,11,Martin Van Buren,11,William Harrison,0,294,Van Buren Democrat
+1840,Tennessee,15,William Harrison,15,Martin Van Buren,0,294,Harrison Whig
+1840,Vermont,7,William Harrison,7,Martin Van Buren,0,294,Harrison Whig
+1840,Virginia,23,Martin Van Buren,23,William Harrison,0,294,Van Buren Democrat
+
+1844,Alabama,9,James Polk,9,Henry Clay,0,275,Polk Democrat
+1844,Arkansas,3,James Polk,3,Henry Clay,0,275,Polk Democrat
+1844,Connecticut,6,Henry Clay,6,James Polk,0,275,Clay Whig
+1844,Delaware,3,Henry Clay,3,James Polk,0,275,Clay Whig
+1844,Georgia,10,James Polk,10,Henry Clay,0,275,Polk Democrat
+1844,Illinois,9,James Polk,9,Henry Clay,0,275,Polk Democrat
+1844,Indiana,12,James Polk,12,Henry Clay,0,275,Polk Democrat
+1844,Kentucky,12,Henry Clay,12,James Polk,0,275,Clay home state
+1844,Louisiana,6,James Polk,6,Henry Clay,0,275,Polk Democrat
+1844,Maine,9,James Polk,9,Henry Clay,0,275,Polk Democrat
+1844,Maryland,8,Henry Clay,8,James Polk,0,275,Clay Whig
+1844,Massachusetts,12,Henry Clay,12,James Polk,0,275,Clay Whig
+1844,Michigan,5,James Polk,5,Henry Clay,0,275,Polk Democrat
+1844,Mississippi,6,James Polk,6,Henry Clay,0,275,Polk Democrat
+1844,Missouri,7,James Polk,7,Henry Clay,0,275,Polk Democrat
+1844,New Hampshire,6,James Polk,6,Henry Clay,0,275,Polk Democrat
+1844,New Jersey,7,Henry Clay,7,James Polk,0,275,Clay Whig
+1844,New York,36,James Polk,36,Henry Clay,0,275,Polk Democrat
+1844,North Carolina,11,Henry Clay,11,James Polk,0,275,Clay Whig
+1844,Ohio,23,Henry Clay,23,James Polk,0,275,Clay Whig
+1844,Pennsylvania,26,James Polk,26,Henry Clay,0,275,Polk Democrat
+1844,Rhode Island,4,Henry Clay,4,James Polk,0,275,Clay Whig
+1844,South Carolina,9,James Polk,9,Henry Clay,0,275,Polk Democrat
+1844,Tennessee,13,Henry Clay,13,James Polk,0,275,Polk home state lost
+1844,Vermont,6,Henry Clay,6,James Polk,0,275,Clay Whig
+1844,Virginia,17,James Polk,17,Henry Clay,0,275,Polk Democrat
+
+1848,Alabama,9,Lewis Cass,9,Zachary Taylor,0,290,Cass Democrat
+1848,Arkansas,3,Lewis Cass,3,Zachary Taylor,0,290,Cass Democrat
+1848,Connecticut,6,Zachary Taylor,6,Lewis Cass,0,290,Taylor Whig
+1848,Delaware,3,Zachary Taylor,3,Lewis Cass,0,290,Taylor Whig
+1848,Florida,3,Zachary Taylor,3,Lewis Cass,0,290,New state 1845
+1848,Georgia,10,Zachary Taylor,10,Lewis Cass,0,290,Taylor Whig
+1848,Illinois,9,Lewis Cass,9,Zachary Taylor,0,290,Cass Democrat
+1848,Indiana,12,Lewis Cass,12,Zachary Taylor,0,290,Cass Democrat
+1848,Iowa,4,Lewis Cass,4,Zachary Taylor,0,290,New state 1846
+1848,Kentucky,12,Zachary Taylor,12,Lewis Cass,0,290,Taylor Whig
+1848,Louisiana,6,Zachary Taylor,6,Lewis Cass,0,290,Taylor Whig
+1848,Maine,9,Lewis Cass,9,Zachary Taylor,0,290,Cass Democrat
+1848,Maryland,8,Zachary Taylor,8,Lewis Cass,0,290,Taylor Whig
+1848,Massachusetts,12,Zachary Taylor,12,Lewis Cass,0,290,Taylor Whig
+1848,Michigan,5,Lewis Cass,5,Zachary Taylor,0,290,Cass home state
+1848,Mississippi,6,Lewis Cass,6,Zachary Taylor,0,290,Cass Democrat
+1848,Missouri,7,Lewis Cass,7,Zachary Taylor,0,290,Cass Democrat
+1848,New Hampshire,6,Lewis Cass,6,Zachary Taylor,0,290,Cass Democrat
+1848,New Jersey,7,Zachary Taylor,7,Lewis Cass,0,290,Taylor Whig
+1848,New York,36,Zachary Taylor,36,Lewis Cass,0,290,Taylor Whig
+1848,North Carolina,11,Zachary Taylor,11,Lewis Cass,0,290,Taylor Whig
+1848,Ohio,23,Lewis Cass,23,Zachary Taylor,0,290,Cass Democrat
+1848,Pennsylvania,26,Zachary Taylor,26,Lewis Cass,0,290,Taylor Whig
+1848,Rhode Island,4,Zachary Taylor,4,Lewis Cass,0,290,Taylor Whig
+1848,South Carolina,9,Lewis Cass,9,Zachary Taylor,0,290,Cass Democrat
+1848,Tennessee,13,Zachary Taylor,13,Lewis Cass,0,290,Taylor Whig
+1848,Texas,4,Lewis Cass,4,Zachary Taylor,0,290,New state 1845
+1848,Vermont,6,Zachary Taylor,6,Lewis Cass,0,290,Taylor Whig
+1848,Virginia,17,Lewis Cass,17,Zachary Taylor,0,290,Cass Democrat
+1848,Wisconsin,4,Lewis Cass,4,Zachary Taylor,0,290,New state 1848
+
+1852,Alabama,9,Franklin Pierce,9,Winfield Scott,0,296,Pierce Democrat
+1852,Arkansas,4,Franklin Pierce,4,Winfield Scott,0,296,Pierce Democrat
+1852,California,4,Franklin Pierce,4,Winfield Scott,0,296,New state 1850
+1852,Connecticut,6,Franklin Pierce,6,Winfield Scott,0,296,Pierce Democrat
+1852,Delaware,3,Franklin Pierce,3,Winfield Scott,0,296,Pierce Democrat
+1852,Florida,3,Franklin Pierce,3,Winfield Scott,0,296,Pierce Democrat
+1852,Georgia,10,Franklin Pierce,10,Winfield Scott,0,296,Pierce Democrat
+1852,Illinois,11,Franklin Pierce,11,Winfield Scott,0,296,Pierce Democrat
+1852,Indiana,13,Franklin Pierce,13,Winfield Scott,0,296,Pierce Democrat
+1852,Iowa,4,Franklin Pierce,4,Winfield Scott,0,296,Pierce Democrat
+1852,Kentucky,12,Winfield Scott,12,Franklin Pierce,0,296,Scott Whig
+1852,Louisiana,6,Franklin Pierce,6,Winfield Scott,0,296,Pierce Democrat
+1852,Maine,8,Franklin Pierce,8,Winfield Scott,0,296,Pierce Democrat
+1852,Maryland,8,Franklin Pierce,8,Winfield Scott,0,296,Pierce Democrat
+1852,Massachusetts,13,Winfield Scott,13,Franklin Pierce,0,296,Scott Whig
+1852,Michigan,6,Franklin Pierce,6,Winfield Scott,0,296,Pierce Democrat
+1852,Mississippi,7,Franklin Pierce,7,Winfield Scott,0,296,Pierce Democrat
+1852,Missouri,9,Franklin Pierce,9,Winfield Scott,0,296,Pierce Democrat
+1852,New Hampshire,5,Franklin Pierce,5,Winfield Scott,0,296,Pierce home state
+1852,New Jersey,7,Franklin Pierce,7,Winfield Scott,0,296,Pierce Democrat
+1852,New York,35,Franklin Pierce,35,Winfield Scott,0,296,Pierce Democrat
+1852,North Carolina,10,Franklin Pierce,10,Winfield Scott,0,296,Pierce Democrat
+1852,Ohio,23,Franklin Pierce,23,Winfield Scott,0,296,Pierce Democrat
+1852,Pennsylvania,27,Franklin Pierce,27,Winfield Scott,0,296,Pierce Democrat
+1852,Rhode Island,4,Franklin Pierce,4,Winfield Scott,0,296,Pierce Democrat
+1852,South Carolina,8,Franklin Pierce,8,Winfield Scott,0,296,Pierce Democrat
+1852,Tennessee,12,Winfield Scott,12,Franklin Pierce,0,296,Scott Whig
+1852,Texas,4,Franklin Pierce,4,Winfield Scott,0,296,Pierce Democrat
+1852,Vermont,5,Winfield Scott,5,Franklin Pierce,0,296,Scott Whig
+1852,Virginia,15,Franklin Pierce,15,Winfield Scott,0,296,Pierce Democrat
+1852,Wisconsin,5,Franklin Pierce,5,Winfield Scott,0,296,Pierce Democrat
+
+1856,Alabama,9,James Buchanan,9,John Fremont,0,296,Buchanan Democrat
+1856,Arkansas,4,James Buchanan,4,John Fremont,0,296,Buchanan Democrat
+1856,California,4,James Buchanan,4,John Fremont,0,296,Buchanan Democrat
+1856,Connecticut,6,John Fremont,6,James Buchanan,0,296,Fremont Republican
+1856,Delaware,3,James Buchanan,3,John Fremont,0,296,Buchanan Democrat
+1856,Florida,3,James Buchanan,3,John Fremont,0,296,Buchanan Democrat
+1856,Georgia,10,James Buchanan,10,John Fremont,0,296,Buchanan Democrat
+1856,Illinois,11,James Buchanan,11,John Fremont,0,296,Buchanan Democrat
+1856,Indiana,13,James Buchanan,13,John Fremont,0,296,Buchanan Democrat
+1856,Iowa,4,John Fremont,4,James Buchanan,0,296,Fremont Republican
+1856,Kentucky,12,James Buchanan,12,John Fremont,0,296,Buchanan Democrat
+1856,Louisiana,6,James Buchanan,6,John Fremont,0,296,Buchanan Democrat
+1856,Maine,8,John Fremont,8,James Buchanan,0,296,Fremont Republican
+1856,Maryland,8,Millard Fillmore,8,James Buchanan,0,296,Fillmore American
+1856,Massachusetts,13,John Fremont,13,James Buchanan,0,296,Fremont Republican
+1856,Michigan,6,John Fremont,6,James Buchanan,0,296,Fremont Republican
+1856,Mississippi,7,James Buchanan,7,John Fremont,0,296,Buchanan Democrat
+1856,Missouri,9,James Buchanan,9,John Fremont,0,296,Buchanan Democrat
+1856,New Hampshire,5,John Fremont,5,James Buchanan,0,296,Fremont Republican
+1856,New Jersey,7,James Buchanan,7,John Fremont,0,296,Buchanan Democrat
+1856,New York,35,John Fremont,35,James Buchanan,0,296,Fremont Republican
+1856,North Carolina,10,James Buchanan,10,John Fremont,0,296,Buchanan Democrat
+1856,Ohio,23,John Fremont,23,James Buchanan,0,296,Fremont Republican
+1856,Pennsylvania,27,James Buchanan,27,John Fremont,0,296,Buchanan home state
+1856,Rhode Island,4,John Fremont,4,James Buchanan,0,296,Fremont Republican
+1856,South Carolina,8,James Buchanan,8,John Fremont,0,296,Buchanan Democrat
+1856,Tennessee,12,James Buchanan,12,John Fremont,0,296,Buchanan Democrat
+1856,Texas,4,James Buchanan,4,John Fremont,0,296,Buchanan Democrat
+1856,Vermont,5,John Fremont,5,James Buchanan,0,296,Fremont Republican
+1856,Virginia,15,James Buchanan,15,John Fremont,0,296,Buchanan Democrat
+1856,Wisconsin,5,John Fremont,5,James Buchanan,0,296,Fremont Republican
+
+1860,Alabama,9,John Breckinridge,9,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Arkansas,4,John Breckinridge,4,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,California,4,Abraham Lincoln,4,John Breckinridge,0,303,Lincoln Republican
+1860,Connecticut,6,Abraham Lincoln,6,John Breckinridge,0,303,Lincoln Republican
+1860,Delaware,3,John Breckinridge,3,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Florida,3,John Breckinridge,3,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Georgia,10,John Breckinridge,10,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Illinois,11,Abraham Lincoln,11,John Breckinridge,0,303,Lincoln home state
+1860,Indiana,13,Abraham Lincoln,13,John Breckinridge,0,303,Lincoln Republican
+1860,Iowa,4,Abraham Lincoln,4,John Breckinridge,0,303,Lincoln Republican
+1860,Kentucky,12,John Bell,12,Abraham Lincoln,0,303,Bell Constitutional Union
+1860,Louisiana,6,John Breckinridge,6,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Maine,8,Abraham Lincoln,8,John Breckinridge,0,303,Lincoln Republican
+1860,Maryland,8,John Breckinridge,8,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Massachusetts,13,Abraham Lincoln,13,John Breckinridge,0,303,Lincoln Republican
+1860,Michigan,6,Abraham Lincoln,6,John Breckinridge,0,303,Lincoln Republican
+1860,Minnesota,4,Abraham Lincoln,4,John Breckinridge,0,303,New state 1858
+1860,Mississippi,7,John Breckinridge,7,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Missouri,9,Stephen Douglas,9,Abraham Lincoln,0,303,Douglas Democrat
+1860,New Hampshire,5,Abraham Lincoln,5,John Breckinridge,0,303,Lincoln Republican
+1860,New Jersey,7,Abraham Lincoln,4,Stephen Douglas,3,303,Split vote
+1860,New York,35,Abraham Lincoln,35,John Breckinridge,0,303,Lincoln Republican
+1860,North Carolina,10,John Breckinridge,10,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Ohio,23,Abraham Lincoln,23,John Breckinridge,0,303,Lincoln Republican
+1860,Oregon,3,Abraham Lincoln,3,John Breckinridge,0,303,New state 1859
+1860,Pennsylvania,27,Abraham Lincoln,27,John Breckinridge,0,303,Lincoln Republican
+1860,Rhode Island,4,Abraham Lincoln,4,John Breckinridge,0,303,Lincoln Republican
+1860,South Carolina,8,John Breckinridge,8,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Tennessee,12,John Bell,12,Abraham Lincoln,0,303,Bell Constitutional Union
+1860,Texas,4,John Breckinridge,4,Abraham Lincoln,0,303,Breckinridge Southern Democrat
+1860,Vermont,5,Abraham Lincoln,5,John Breckinridge,0,303,Lincoln Republican
+1860,Virginia,15,John Bell,15,Abraham Lincoln,0,303,Bell Constitutional Union
+1860,Wisconsin,5,Abraham Lincoln,5,John Breckinridge,0,303,Lincoln Republican
+
+1864,Alabama,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Arkansas,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,California,5,Abraham Lincoln,5,George McClellan,0,234,Lincoln Republican
+1864,Connecticut,6,Abraham Lincoln,6,George McClellan,0,234,Lincoln Republican
+1864,Delaware,3,George McClellan,3,Abraham Lincoln,0,234,McClellan Democrat
+1864,Florida,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Georgia,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Illinois,16,Abraham Lincoln,16,George McClellan,0,234,Lincoln Republican
+1864,Indiana,13,Abraham Lincoln,13,George McClellan,0,234,Lincoln Republican
+1864,Iowa,8,Abraham Lincoln,8,George McClellan,0,234,Lincoln Republican
+1864,Kansas,3,Abraham Lincoln,3,George McClellan,0,234,New state 1861
+1864,Kentucky,11,George McClellan,11,Abraham Lincoln,0,234,McClellan Democrat
+1864,Louisiana,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Maine,7,Abraham Lincoln,7,George McClellan,0,234,Lincoln Republican
+1864,Maryland,7,Abraham Lincoln,7,George McClellan,0,234,Lincoln Republican
+1864,Massachusetts,12,Abraham Lincoln,12,George McClellan,0,234,Lincoln Republican
+1864,Michigan,8,Abraham Lincoln,8,George McClellan,0,234,Lincoln Republican
+1864,Minnesota,4,Abraham Lincoln,4,George McClellan,0,234,Lincoln Republican
+1864,Mississippi,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Missouri,11,Abraham Lincoln,11,George McClellan,0,234,Lincoln Republican
+1864,Nevada,3,Abraham Lincoln,3,George McClellan,0,234,New state 1864
+1864,New Hampshire,5,Abraham Lincoln,5,George McClellan,0,234,Lincoln Republican
+1864,New Jersey,7,George McClellan,7,Abraham Lincoln,0,234,McClellan Democrat
+1864,New York,33,Abraham Lincoln,33,George McClellan,0,234,Lincoln Republican
+1864,North Carolina,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Ohio,21,Abraham Lincoln,21,George McClellan,0,234,Lincoln Republican
+1864,Oregon,3,Abraham Lincoln,3,George McClellan,0,234,Lincoln Republican
+1864,Pennsylvania,26,Abraham Lincoln,26,George McClellan,0,234,Lincoln Republican
+1864,Rhode Island,4,Abraham Lincoln,4,George McClellan,0,234,Lincoln Republican
+1864,South Carolina,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Tennessee,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Texas,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,Vermont,5,Abraham Lincoln,5,George McClellan,0,234,Lincoln Republican
+1864,Virginia,0,Not Voting,0,Not Voting,0,234,Confederate state
+1864,West Virginia,5,Abraham Lincoln,5,George McClellan,0,234,New state 1863
+1864,Wisconsin,8,Abraham Lincoln,8,George McClellan,0,234,Lincoln Republican
+
+1868,Alabama,8,Ulysses Grant,8,Horatio Seymour,0,294,Grant Republican
+1868,Arkansas,5,Ulysses Grant,5,Horatio Seymour,0,294,Grant Republican
+1868,California,5,Ulysses Grant,5,Horatio Seymour,0,294,Grant Republican
+1868,Connecticut,6,Ulysses Grant,6,Horatio Seymour,0,294,Grant Republican
+1868,Delaware,3,Horatio Seymour,3,Ulysses Grant,0,294,Seymour Democrat
+1868,Florida,3,Ulysses Grant,3,Horatio Seymour,0,294,Grant Republican
+1868,Georgia,9,Horatio Seymour,9,Ulysses Grant,0,294,Seymour Democrat
+1868,Illinois,16,Ulysses Grant,16,Horatio Seymour,0,294,Grant Republican
+1868,Indiana,13,Ulysses Grant,13,Horatio Seymour,0,294,Grant Republican
+1868,Iowa,8,Ulysses Grant,8,Horatio Seymour,0,294,Grant Republican
+1868,Kansas,3,Ulysses Grant,3,Horatio Seymour,0,294,Grant Republican
+1868,Kentucky,11,Horatio Seymour,11,Ulysses Grant,0,294,Seymour Democrat
+1868,Louisiana,7,Horatio Seymour,7,Ulysses Grant,0,294,Seymour Democrat
+1868,Maine,7,Ulysses Grant,7,Horatio Seymour,0,294,Grant Republican
+1868,Maryland,7,Horatio Seymour,7,Ulysses Grant,0,294,Seymour Democrat
+1868,Massachusetts,12,Ulysses Grant,12,Horatio Seymour,0,294,Grant Republican
+1868,Michigan,8,Ulysses Grant,8,Horatio Seymour,0,294,Grant Republican
+1868,Minnesota,4,Ulysses Grant,4,Horatio Seymour,0,294,Grant Republican
+1868,Mississippi,0,Not Voting,0,Not Voting,0,294,Not readmitted
+1868,Missouri,11,Ulysses Grant,11,Horatio Seymour,0,294,Grant Republican
+1868,Nebraska,3,Ulysses Grant,3,Horatio Seymour,0,294,New state 1867
+1868,Nevada,3,Ulysses Grant,3,Horatio Seymour,0,294,Grant Republican
+1868,New Hampshire,5,Ulysses Grant,5,Horatio Seymour,0,294,Grant Republican
+1868,New Jersey,7,Horatio Seymour,7,Ulysses Grant,0,294,Seymour Democrat
+1868,New York,33,Horatio Seymour,33,Ulysses Grant,0,294,Seymour home state
+1868,North Carolina,9,Ulysses Grant,9,Horatio Seymour,0,294,Grant Republican
+1868,Ohio,21,Ulysses Grant,21,Horatio Seymour,0,294,Grant home state
+1868,Oregon,3,Horatio Seymour,3,Ulysses Grant,0,294,Seymour Democrat
+1868,Pennsylvania,26,Ulysses Grant,26,Horatio Seymour,0,294,Grant Republican
+1868,Rhode Island,4,Ulysses Grant,4,Horatio Seymour,0,294,Grant Republican
+1868,South Carolina,6,Ulysses Grant,6,Horatio Seymour,0,294,Grant Republican
+1868,Tennessee,10,Ulysses Grant,10,Horatio Seymour,0,294,Grant Republican
+1868,Texas,0,Not Voting,0,Not Voting,0,294,Not readmitted
+1868,Vermont,5,Ulysses Grant,5,Horatio Seymour,0,294,Grant Republican
+1868,Virginia,0,Not Voting,0,Not Voting,0,294,Not readmitted
+1868,West Virginia,5,Ulysses Grant,5,Horatio Seymour,0,294,Grant Republican
+1868,Wisconsin,8,Ulysses Grant,8,Horatio Seymour,0,294,Grant Republican
+
+1872,Alabama,10,Ulysses Grant,10,Horace Greeley,0,366,Grant Republican
+1872,Arkansas,6,Ulysses Grant,6,Horace Greeley,0,366,Grant Republican
+1872,California,6,Ulysses Grant,6,Horace Greeley,0,366,Grant Republican
+1872,Connecticut,6,Ulysses Grant,6,Horace Greeley,0,366,Grant Republican
+1872,Delaware,3,Ulysses Grant,3,Horace Greeley,0,366,Grant Republican
+1872,Florida,4,Ulysses Grant,4,Horace Greeley,0,366,Grant Republican
+1872,Georgia,11,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Illinois,21,Ulysses Grant,21,Horace Greeley,0,366,Grant Republican
+1872,Indiana,15,Ulysses Grant,15,Horace Greeley,0,366,Grant Republican
+1872,Iowa,11,Ulysses Grant,11,Horace Greeley,0,366,Grant Republican
+1872,Kansas,5,Ulysses Grant,5,Horace Greeley,0,366,Grant Republican
+1872,Kentucky,12,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Louisiana,8,Ulysses Grant,8,Horace Greeley,0,366,Grant Republican
+1872,Maine,7,Ulysses Grant,7,Horace Greeley,0,366,Grant Republican
+1872,Maryland,8,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Massachusetts,13,Ulysses Grant,13,Horace Greeley,0,366,Grant Republican
+1872,Michigan,11,Ulysses Grant,11,Horace Greeley,0,366,Grant Republican
+1872,Minnesota,5,Ulysses Grant,5,Horace Greeley,0,366,Grant Republican
+1872,Mississippi,8,Ulysses Grant,8,Horace Greeley,0,366,Grant Republican
+1872,Missouri,15,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Nebraska,3,Ulysses Grant,3,Horace Greeley,0,366,Grant Republican
+1872,Nevada,3,Ulysses Grant,3,Horace Greeley,0,366,Grant Republican
+1872,New Hampshire,5,Ulysses Grant,5,Horace Greeley,0,366,Grant Republican
+1872,New Jersey,9,Ulysses Grant,9,Horace Greeley,0,366,Grant Republican
+1872,New York,35,Ulysses Grant,35,Horace Greeley,0,366,Grant Republican
+1872,North Carolina,10,Ulysses Grant,10,Horace Greeley,0,366,Grant Republican
+1872,Ohio,22,Ulysses Grant,22,Horace Greeley,0,366,Grant Republican
+1872,Oregon,3,Ulysses Grant,3,Horace Greeley,0,366,Grant Republican
+1872,Pennsylvania,29,Ulysses Grant,29,Horace Greeley,0,366,Grant Republican
+1872,Rhode Island,4,Ulysses Grant,4,Horace Greeley,0,366,Grant Republican
+1872,South Carolina,7,Ulysses Grant,7,Horace Greeley,0,366,Grant Republican
+1872,Tennessee,12,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Texas,8,Horace Greeley,0,Ulysses Grant,0,366,Greeley died; votes dispersed
+1872,Vermont,5,Ulysses Grant,5,Horace Greeley,0,366,Grant Republican
+1872,Virginia,11,Ulysses Grant,11,Horace Greeley,0,366,Grant Republican
+1872,West Virginia,5,Ulysses Grant,5,Horace Greeley,0,366,Grant Republican
+1872,Wisconsin,10,Ulysses Grant,10,Horace Greeley,0,366,Grant Republican
+
+1876,Alabama,10,Samuel Tilden,10,Rutherford Hayes,0,369,Tilden Democrat
+1876,Arkansas,6,Samuel Tilden,6,Rutherford Hayes,0,369,Tilden Democrat
+1876,California,6,Rutherford Hayes,6,Samuel Tilden,0,369,Hayes Republican
+1876,Colorado,3,Rutherford Hayes,3,Samuel Tilden,0,369,New state 1876
+1876,Connecticut,6,Samuel Tilden,6,Rutherford Hayes,0,369,Tilden Democrat
+1876,Delaware,3,Samuel Tilden,3,Rutherford Hayes,0,369,Tilden Democrat
+1876,Florida,4,Rutherford Hayes,4,Samuel Tilden,0,369,Disputed; awarded to Hayes
+1876,Georgia,11,Samuel Tilden,11,Rutherford Hayes,0,369,Tilden Democrat
+1876,Illinois,21,Rutherford Hayes,21,Samuel Tilden,0,369,Hayes Republican
+1876,Indiana,15,Samuel Tilden,15,Rutherford Hayes,0,369,Tilden Democrat
+1876,Iowa,11,Rutherford Hayes,11,Samuel Tilden,0,369,Hayes Republican
+1876,Kansas,5,Rutherford Hayes,5,Samuel Tilden,0,369,Hayes Republican
+1876,Kentucky,12,Samuel Tilden,12,Rutherford Hayes,0,369,Tilden Democrat
+1876,Louisiana,8,Rutherford Hayes,8,Samuel Tilden,0,369,Disputed; awarded to Hayes
+1876,Maine,7,Rutherford Hayes,7,Samuel Tilden,0,369,Hayes Republican
+1876,Maryland,8,Samuel Tilden,8,Rutherford Hayes,0,369,Tilden Democrat
+1876,Massachusetts,13,Rutherford Hayes,13,Samuel Tilden,0,369,Hayes Republican
+1876,Michigan,11,Rutherford Hayes,11,Samuel Tilden,0,369,Hayes Republican
+1876,Minnesota,5,Rutherford Hayes,5,Samuel Tilden,0,369,Hayes Republican
+1876,Mississippi,8,Samuel Tilden,8,Rutherford Hayes,0,369,Tilden Democrat
+1876,Missouri,15,Samuel Tilden,15,Rutherford Hayes,0,369,Tilden Democrat
+1876,Nebraska,3,Rutherford Hayes,3,Samuel Tilden,0,369,Hayes Republican
+1876,Nevada,3,Rutherford Hayes,3,Samuel Tilden,0,369,Hayes Republican
+1876,New Hampshire,5,Rutherford Hayes,5,Samuel Tilden,0,369,Hayes Republican
+1876,New Jersey,9,Samuel Tilden,9,Rutherford Hayes,0,369,Tilden Democrat
+1876,New York,35,Samuel Tilden,35,Rutherford Hayes,0,369,Tilden home state
+1876,North Carolina,10,Samuel Tilden,10,Rutherford Hayes,0,369,Tilden Democrat
+1876,Ohio,22,Rutherford Hayes,22,Samuel Tilden,0,369,Hayes home state
+1876,Oregon,3,Rutherford Hayes,3,Samuel Tilden,0,369,Disputed; awarded to Hayes
+1876,Pennsylvania,29,Rutherford Hayes,29,Samuel Tilden,0,369,Hayes Republican
+1876,Rhode Island,4,Rutherford Hayes,4,Samuel Tilden,0,369,Hayes Republican
+1876,South Carolina,7,Rutherford Hayes,7,Samuel Tilden,0,369,Disputed; awarded to Hayes
+1876,Tennessee,12,Samuel Tilden,12,Rutherford Hayes,0,369,Tilden Democrat
+1876,Texas,8,Samuel Tilden,8,Rutherford Hayes,0,369,Tilden Democrat
+1876,Vermont,5,Rutherford Hayes,5,Samuel Tilden,0,369,Hayes Republican
+1876,Virginia,11,Samuel Tilden,11,Rutherford Hayes,0,369,Tilden Democrat
+1876,West Virginia,5,Samuel Tilden,5,Rutherford Hayes,0,369,Tilden Democrat
+1876,Wisconsin,10,Rutherford Hayes,10,Samuel Tilden,0,369,Hayes Republican
+
+1880,Alabama,10,Winfield Hancock,10,James Garfield,0,369,Hancock Democrat
+1880,Arkansas,6,Winfield Hancock,6,James Garfield,0,369,Hancock Democrat
+1880,California,6,Winfield Hancock,1,James Garfield,5,369,Split vote
+1880,Colorado,3,James Garfield,3,Winfield Hancock,0,369,Garfield Republican
+1880,Connecticut,6,James Garfield,6,Winfield Hancock,0,369,Garfield Republican
+1880,Delaware,3,Winfield Hancock,3,James Garfield,0,369,Hancock Democrat
+1880,Florida,4,Winfield Hancock,4,James Garfield,0,369,Hancock Democrat
+1880,Georgia,11,Winfield Hancock,11,James Garfield,0,369,Hancock Democrat
+1880,Illinois,21,James Garfield,21,Winfield Hancock,0,369,Garfield Republican
+1880,Indiana,15,James Garfield,15,Winfield Hancock,0,369,Garfield Republican
+1880,Iowa,11,James Garfield,11,Winfield Hancock,0,369,Garfield Republican
+1880,Kansas,5,James Garfield,5,Winfield Hancock,0,369,Garfield Republican
+1880,Kentucky,12,Winfield Hancock,12,James Garfield,0,369,Hancock Democrat
+1880,Louisiana,8,Winfield Hancock,8,James Garfield,0,369,Hancock Democrat
+1880,Maine,7,James Garfield,7,Winfield Hancock,0,369,Garfield Republican
+1880,Maryland,8,Winfield Hancock,8,James Garfield,0,369,Hancock Democrat
+1880,Massachusetts,13,James Garfield,13,Winfield Hancock,0,369,Garfield Republican
+1880,Michigan,11,James Garfield,11,Winfield Hancock,0,369,Garfield Republican
+1880,Minnesota,5,James Garfield,5,Winfield Hancock,0,369,Garfield Republican
+1880,Mississippi,8,Winfield Hancock,8,James Garfield,0,369,Hancock Democrat
+1880,Missouri,15,Winfield Hancock,15,James Garfield,0,369,Hancock Democrat
+1880,Nebraska,3,James Garfield,3,Winfield Hancock,0,369,Garfield Republican
+1880,Nevada,3,Winfield Hancock,3,James Garfield,0,369,Hancock Democrat
+1880,New Hampshire,5,James Garfield,5,Winfield Hancock,0,369,Garfield Republican
+1880,New Jersey,9,Winfield Hancock,9,James Garfield,0,369,Hancock Democrat
+1880,New York,35,James Garfield,35,Winfield Hancock,0,369,Garfield Republican
+1880,North Carolina,10,Winfield Hancock,10,James Garfield,0,369,Hancock Democrat
+1880,Ohio,22,James Garfield,22,Winfield Hancock,0,369,Garfield home state
+1880,Oregon,3,James Garfield,3,Winfield Hancock,0,369,Garfield Republican
+1880,Pennsylvania,29,James Garfield,29,Winfield Hancock,0,369,Garfield Republican
+1880,Rhode Island,4,James Garfield,4,Winfield Hancock,0,369,Garfield Republican
+1880,South Carolina,7,Winfield Hancock,7,James Garfield,0,369,Hancock Democrat
+1880,Tennessee,12,Winfield Hancock,12,James Garfield,0,369,Hancock Democrat
+1880,Texas,8,Winfield Hancock,8,James Garfield,0,369,Hancock Democrat
+1880,Vermont,5,James Garfield,5,Winfield Hancock,0,369,Garfield Republican
+1880,Virginia,11,Winfield Hancock,11,James Garfield,0,369,Hancock Democrat
+1880,West Virginia,5,Winfield Hancock,5,James Garfield,0,369,Hancock Democrat
+1880,Wisconsin,10,James Garfield,10,Winfield Hancock,0,369,Garfield Republican
+
+1884,Alabama,10,Grover Cleveland,10,James Blaine,0,401,Cleveland Democrat
+1884,Arkansas,7,Grover Cleveland,7,James Blaine,0,401,Cleveland Democrat
+1884,California,8,James Blaine,8,Grover Cleveland,0,401,Blaine Republican
+1884,Colorado,3,James Blaine,3,Grover Cleveland,0,401,Blaine Republican
+1884,Connecticut,6,Grover Cleveland,6,James Blaine,0,401,Cleveland Democrat
+1884,Delaware,3,Grover Cleveland,3,James Blaine,0,401,Cleveland Democrat
+1884,Florida,4,Grover Cleveland,4,James Blaine,0,401,Cleveland Democrat
+1884,Georgia,12,Grover Cleveland,12,James Blaine,0,401,Cleveland Democrat
+1884,Illinois,22,James Blaine,22,Grover Cleveland,0,401,Blaine Republican
+1884,Indiana,15,Grover Cleveland,15,James Blaine,0,401,Cleveland Democrat
+1884,Iowa,13,James Blaine,13,Grover Cleveland,0,401,Blaine Republican
+1884,Kansas,9,James Blaine,9,Grover Cleveland,0,401,Blaine Republican
+1884,Kentucky,13,Grover Cleveland,13,James Blaine,0,401,Cleveland Democrat
+1884,Louisiana,8,Grover Cleveland,8,James Blaine,0,401,Cleveland Democrat
+1884,Maine,6,James Blaine,6,Grover Cleveland,0,401,Blaine home state
+1884,Maryland,8,Grover Cleveland,8,James Blaine,0,401,Cleveland Democrat
+1884,Massachusetts,14,James Blaine,14,Grover Cleveland,0,401,Blaine Republican
+1884,Michigan,13,James Blaine,13,Grover Cleveland,0,401,Blaine Republican
+1884,Minnesota,7,James Blaine,7,Grover Cleveland,0,401,Blaine Republican
+1884,Mississippi,9,Grover Cleveland,9,James Blaine,0,401,Cleveland Democrat
+1884,Missouri,16,Grover Cleveland,16,James Blaine,0,401,Cleveland Democrat
+1884,Nebraska,5,James Blaine,5,Grover Cleveland,0,401,Blaine Republican
+1884,Nevada,3,James Blaine,3,Grover Cleveland,0,401,Blaine Republican
+1884,New Hampshire,4,James Blaine,4,Grover Cleveland,0,401,Blaine Republican
+1884,New Jersey,9,Grover Cleveland,9,James Blaine,0,401,Cleveland Democrat
+1884,New York,36,Grover Cleveland,36,James Blaine,0,401,Cleveland home state
+1884,North Carolina,11,Grover Cleveland,11,James Blaine,0,401,Cleveland Democrat
+1884,Ohio,23,James Blaine,23,Grover Cleveland,0,401,Blaine Republican
+1884,Oregon,3,James Blaine,3,Grover Cleveland,0,401,Blaine Republican
+1884,Pennsylvania,30,James Blaine,30,Grover Cleveland,0,401,Blaine Republican
+1884,Rhode Island,4,James Blaine,4,Grover Cleveland,0,401,Blaine Republican
+1884,South Carolina,9,Grover Cleveland,9,James Blaine,0,401,Cleveland Democrat
+1884,Tennessee,12,Grover Cleveland,12,James Blaine,0,401,Cleveland Democrat
+1884,Texas,13,Grover Cleveland,13,James Blaine,0,401,Cleveland Democrat
+1884,Vermont,4,James Blaine,4,Grover Cleveland,0,401,Blaine Republican
+1884,Virginia,12,Grover Cleveland,12,James Blaine,0,401,Cleveland Democrat
+1884,West Virginia,6,Grover Cleveland,6,James Blaine,0,401,Cleveland Democrat
+1884,Wisconsin,11,James Blaine,11,Grover Cleveland,0,401,Blaine Republican
+
+1888,Alabama,10,Grover Cleveland,10,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Arkansas,7,Grover Cleveland,7,Benjamin Harrison,0,401,Cleveland Democrat
+1888,California,8,Benjamin Harrison,8,Grover Cleveland,0,401,Harrison Republican
+1888,Colorado,3,Benjamin Harrison,3,Grover Cleveland,0,401,Harrison Republican
+1888,Connecticut,6,Grover Cleveland,6,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Delaware,3,Grover Cleveland,3,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Florida,4,Grover Cleveland,4,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Georgia,12,Grover Cleveland,12,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Illinois,22,Benjamin Harrison,22,Grover Cleveland,0,401,Harrison Republican
+1888,Indiana,15,Benjamin Harrison,15,Grover Cleveland,0,401,Harrison home state
+1888,Iowa,13,Benjamin Harrison,13,Grover Cleveland,0,401,Harrison Republican
+1888,Kansas,9,Benjamin Harrison,9,Grover Cleveland,0,401,Harrison Republican
+1888,Kentucky,13,Grover Cleveland,13,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Louisiana,8,Grover Cleveland,8,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Maine,6,Benjamin Harrison,6,Grover Cleveland,0,401,Harrison Republican
+1888,Maryland,8,Grover Cleveland,8,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Massachusetts,14,Benjamin Harrison,14,Grover Cleveland,0,401,Harrison Republican
+1888,Michigan,13,Benjamin Harrison,13,Grover Cleveland,0,401,Harrison Republican
+1888,Minnesota,7,Benjamin Harrison,7,Grover Cleveland,0,401,Harrison Republican
+1888,Mississippi,9,Grover Cleveland,9,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Missouri,16,Grover Cleveland,16,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Nebraska,5,Benjamin Harrison,5,Grover Cleveland,0,401,Harrison Republican
+1888,Nevada,3,Benjamin Harrison,3,Grover Cleveland,0,401,Harrison Republican
+1888,New Hampshire,4,Benjamin Harrison,4,Grover Cleveland,0,401,Harrison Republican
+1888,New Jersey,9,Grover Cleveland,9,Benjamin Harrison,0,401,Cleveland Democrat
+1888,New York,36,Benjamin Harrison,36,Grover Cleveland,0,401,Harrison Republican
+1888,North Carolina,11,Grover Cleveland,11,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Ohio,23,Benjamin Harrison,23,Grover Cleveland,0,401,Harrison Republican
+1888,Oregon,3,Benjamin Harrison,3,Grover Cleveland,0,401,Harrison Republican
+1888,Pennsylvania,30,Benjamin Harrison,30,Grover Cleveland,0,401,Harrison Republican
+1888,Rhode Island,4,Benjamin Harrison,4,Grover Cleveland,0,401,Harrison Republican
+1888,South Carolina,9,Grover Cleveland,9,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Tennessee,12,Grover Cleveland,12,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Texas,13,Grover Cleveland,13,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Vermont,4,Benjamin Harrison,4,Grover Cleveland,0,401,Harrison Republican
+1888,Virginia,12,Grover Cleveland,12,Benjamin Harrison,0,401,Cleveland Democrat
+1888,West Virginia,6,Grover Cleveland,6,Benjamin Harrison,0,401,Cleveland Democrat
+1888,Wisconsin,11,Benjamin Harrison,11,Grover Cleveland,0,401,Harrison Republican
+
+1892,Alabama,11,Grover Cleveland,11,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Arkansas,8,Grover Cleveland,8,Benjamin Harrison,0,444,Cleveland Democrat
+1892,California,9,Grover Cleveland,8,Benjamin Harrison,1,444,Split vote
+1892,Colorado,4,James Weaver,4,Benjamin Harrison,0,444,Weaver Populist
+1892,Connecticut,6,Grover Cleveland,6,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Delaware,3,Grover Cleveland,3,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Florida,4,Grover Cleveland,4,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Georgia,13,Grover Cleveland,13,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Idaho,3,James Weaver,3,Benjamin Harrison,0,444,New state 1890
+1892,Illinois,24,Grover Cleveland,24,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Indiana,15,Grover Cleveland,15,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Iowa,13,Benjamin Harrison,13,Grover Cleveland,0,444,Harrison Republican
+1892,Kansas,10,James Weaver,10,Benjamin Harrison,0,444,Weaver Populist
+1892,Kentucky,13,Grover Cleveland,13,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Louisiana,8,Grover Cleveland,8,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Maine,6,Benjamin Harrison,6,Grover Cleveland,0,444,Harrison Republican
+1892,Maryland,8,Grover Cleveland,8,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Massachusetts,15,Benjamin Harrison,15,Grover Cleveland,0,444,Harrison Republican
+1892,Michigan,14,Benjamin Harrison,5,Grover Cleveland,9,444,Split vote
+1892,Minnesota,9,Benjamin Harrison,9,Grover Cleveland,0,444,Harrison Republican
+1892,Mississippi,9,Grover Cleveland,9,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Missouri,17,Grover Cleveland,17,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Montana,3,Benjamin Harrison,3,Grover Cleveland,0,444,New state 1889
+1892,Nebraska,8,Benjamin Harrison,8,Grover Cleveland,0,444,Harrison Republican
+1892,Nevada,3,James Weaver,3,Benjamin Harrison,0,444,Weaver Populist
+1892,New Hampshire,4,Benjamin Harrison,4,Grover Cleveland,0,444,Harrison Republican
+1892,New Jersey,10,Grover Cleveland,10,Benjamin Harrison,0,444,Cleveland Democrat
+1892,New York,36,Grover Cleveland,36,Benjamin Harrison,0,444,Cleveland Democrat
+1892,North Carolina,11,Grover Cleveland,11,Benjamin Harrison,0,444,Cleveland Democrat
+1892,North Dakota,3,Benjamin Harrison,1,Grover Cleveland,1,444,New state 1889; split vote
+1892,Ohio,23,Benjamin Harrison,1,Grover Cleveland,22,444,Split vote
+1892,Oregon,4,Benjamin Harrison,4,Grover Cleveland,0,444,Harrison Republican
+1892,Pennsylvania,32,Benjamin Harrison,32,Grover Cleveland,0,444,Harrison Republican
+1892,Rhode Island,4,Benjamin Harrison,4,Grover Cleveland,0,444,Harrison Republican
+1892,South Carolina,9,Grover Cleveland,9,Benjamin Harrison,0,444,Cleveland Democrat
+1892,South Dakota,4,Benjamin Harrison,4,Grover Cleveland,0,444,New state 1889
+1892,Tennessee,12,Grover Cleveland,12,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Texas,15,Grover Cleveland,15,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Vermont,4,Benjamin Harrison,4,Grover Cleveland,0,444,Harrison Republican
+1892,Virginia,12,Grover Cleveland,12,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Washington,4,Benjamin Harrison,4,Grover Cleveland,0,444,New state 1889
+1892,West Virginia,6,Grover Cleveland,6,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Wisconsin,12,Grover Cleveland,12,Benjamin Harrison,0,444,Cleveland Democrat
+1892,Wyoming,3,Benjamin Harrison,3,Grover Cleveland,0,444,New state 1890
+
+1896,Alabama,11,William Bryan,11,William McKinley,0,447,Bryan Democrat
+1896,Arkansas,8,William Bryan,8,William McKinley,0,447,Bryan Democrat
+1896,California,9,William McKinley,8,William Bryan,1,447,Split vote
+1896,Colorado,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1896,Connecticut,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1896,Delaware,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+1896,Florida,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1896,Georgia,13,William Bryan,13,William McKinley,0,447,Bryan Democrat
+1896,Idaho,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1896,Illinois,24,William McKinley,24,William Bryan,0,447,McKinley Republican
+1896,Indiana,15,William McKinley,15,William Bryan,0,447,McKinley Republican
+1896,Iowa,13,William McKinley,13,William Bryan,0,447,McKinley Republican
+1896,Kansas,10,William Bryan,10,William McKinley,0,447,Bryan Democrat
+1896,Kentucky,13,William McKinley,12,William Bryan,1,447,Split vote
+1896,Louisiana,8,William Bryan,8,William McKinley,0,447,Bryan Democrat
+1896,Maine,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1896,Maryland,8,William McKinley,8,William Bryan,0,447,McKinley Republican
+1896,Massachusetts,15,William McKinley,15,William Bryan,0,447,McKinley Republican
+1896,Michigan,14,William McKinley,14,William Bryan,0,447,McKinley Republican
+1896,Minnesota,9,William McKinley,9,William Bryan,0,447,McKinley Republican
+1896,Mississippi,9,William Bryan,9,William McKinley,0,447,Bryan Democrat
+1896,Missouri,17,William Bryan,17,William McKinley,0,447,Bryan Democrat
+1896,Montana,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1896,Nebraska,8,William Bryan,8,William McKinley,0,447,Bryan home state
+1896,Nevada,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1896,New Hampshire,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1896,New Jersey,10,William McKinley,10,William Bryan,0,447,McKinley Republican
+1896,New York,36,William McKinley,36,William Bryan,0,447,McKinley Republican
+1896,North Carolina,11,William Bryan,11,William McKinley,0,447,Bryan Democrat
+1896,North Dakota,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+1896,Ohio,23,William McKinley,23,William Bryan,0,447,McKinley home state
+1896,Oregon,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1896,Pennsylvania,32,William McKinley,32,William Bryan,0,447,McKinley Republican
+1896,Rhode Island,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1896,South Carolina,9,William Bryan,9,William McKinley,0,447,Bryan Democrat
+1896,South Dakota,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1896,Tennessee,12,William Bryan,12,William McKinley,0,447,Bryan Democrat
+1896,Texas,15,William Bryan,15,William McKinley,0,447,Bryan Democrat
+1896,Utah,3,William Bryan,3,William McKinley,0,447,New state 1896
+1896,Vermont,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1896,Virginia,12,William Bryan,12,William McKinley,0,447,Bryan Democrat
+1896,Washington,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1896,West Virginia,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1896,Wisconsin,12,William McKinley,12,William Bryan,0,447,McKinley Republican
+1896,Wyoming,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+
+1900,Alabama,11,William Bryan,11,William McKinley,0,447,Bryan Democrat
+1900,Arkansas,8,William Bryan,8,William McKinley,0,447,Bryan Democrat
+1900,California,9,William McKinley,9,William Bryan,0,447,McKinley Republican
+1900,Colorado,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1900,Connecticut,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1900,Delaware,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+1900,Florida,4,William Bryan,4,William McKinley,0,447,Bryan Democrat
+1900,Georgia,13,William Bryan,13,William McKinley,0,447,Bryan Democrat
+1900,Idaho,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1900,Illinois,24,William McKinley,24,William Bryan,0,447,McKinley Republican
+1900,Indiana,15,William McKinley,15,William Bryan,0,447,McKinley Republican
+1900,Iowa,13,William McKinley,13,William Bryan,0,447,McKinley Republican
+1900,Kansas,10,William McKinley,10,William Bryan,0,447,McKinley Republican
+1900,Kentucky,13,William Bryan,13,William McKinley,0,447,Bryan Democrat
+1900,Louisiana,8,William Bryan,8,William McKinley,0,447,Bryan Democrat
+1900,Maine,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1900,Maryland,8,William McKinley,8,William Bryan,0,447,McKinley Republican
+1900,Massachusetts,15,William McKinley,15,William Bryan,0,447,McKinley Republican
+1900,Michigan,14,William McKinley,14,William Bryan,0,447,McKinley Republican
+1900,Minnesota,9,William McKinley,9,William Bryan,0,447,McKinley Republican
+1900,Mississippi,9,William Bryan,9,William McKinley,0,447,Bryan Democrat
+1900,Missouri,17,William Bryan,17,William McKinley,0,447,Bryan Democrat
+1900,Montana,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1900,Nebraska,8,William McKinley,8,William Bryan,0,447,Bryan home state lost
+1900,Nevada,3,William Bryan,3,William McKinley,0,447,Bryan Democrat
+1900,New Hampshire,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,New Jersey,10,William McKinley,10,William Bryan,0,447,McKinley Republican
+1900,New York,36,William McKinley,36,William Bryan,0,447,McKinley Republican
+1900,North Carolina,11,William Bryan,11,William McKinley,0,447,Bryan Democrat
+1900,North Dakota,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+1900,Ohio,23,William McKinley,23,William Bryan,0,447,McKinley home state
+1900,Oregon,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,Pennsylvania,32,William McKinley,32,William Bryan,0,447,McKinley Republican
+1900,Rhode Island,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,South Carolina,9,William Bryan,9,William McKinley,0,447,Bryan Democrat
+1900,South Dakota,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,Tennessee,12,William Bryan,12,William McKinley,0,447,Bryan Democrat
+1900,Texas,15,William Bryan,15,William McKinley,0,447,Bryan Democrat
+1900,Utah,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+1900,Vermont,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,Virginia,12,William Bryan,12,William McKinley,0,447,Bryan Democrat
+1900,Washington,4,William McKinley,4,William Bryan,0,447,McKinley Republican
+1900,West Virginia,6,William McKinley,6,William Bryan,0,447,McKinley Republican
+1900,Wisconsin,12,William McKinley,12,William Bryan,0,447,McKinley Republican
+1900,Wyoming,3,William McKinley,3,William Bryan,0,447,McKinley Republican
+
+1904,Alabama,11,Alton Parker,11,Theodore Roosevelt,0,476,Parker Democrat
+1904,Arkansas,9,Alton Parker,9,Theodore Roosevelt,0,476,Parker Democrat
+1904,California,10,Theodore Roosevelt,10,Alton Parker,0,476,Roosevelt Republican
+1904,Colorado,5,Theodore Roosevelt,5,Alton Parker,0,476,Roosevelt Republican
+1904,Connecticut,7,Theodore Roosevelt,7,Alton Parker,0,476,Roosevelt Republican
+1904,Delaware,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+1904,Florida,5,Alton Parker,5,Theodore Roosevelt,0,476,Parker Democrat
+1904,Georgia,13,Alton Parker,13,Theodore Roosevelt,0,476,Parker Democrat
+1904,Idaho,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+1904,Illinois,27,Theodore Roosevelt,27,Alton Parker,0,476,Roosevelt Republican
+1904,Indiana,15,Theodore Roosevelt,15,Alton Parker,0,476,Roosevelt Republican
+1904,Iowa,13,Theodore Roosevelt,13,Alton Parker,0,476,Roosevelt Republican
+1904,Kansas,10,Theodore Roosevelt,10,Alton Parker,0,476,Roosevelt Republican
+1904,Kentucky,13,Alton Parker,13,Theodore Roosevelt,0,476,Parker Democrat
+1904,Louisiana,9,Alton Parker,9,Theodore Roosevelt,0,476,Parker Democrat
+1904,Maine,6,Theodore Roosevelt,6,Alton Parker,0,476,Roosevelt Republican
+1904,Maryland,8,Theodore Roosevelt,7,Alton Parker,1,476,Split vote
+1904,Massachusetts,16,Theodore Roosevelt,16,Alton Parker,0,476,Roosevelt Republican
+1904,Michigan,14,Theodore Roosevelt,14,Alton Parker,0,476,Roosevelt Republican
+1904,Minnesota,11,Theodore Roosevelt,11,Alton Parker,0,476,Roosevelt Republican
+1904,Mississippi,10,Alton Parker,10,Theodore Roosevelt,0,476,Parker Democrat
+1904,Missouri,18,Theodore Roosevelt,18,Alton Parker,0,476,Roosevelt Republican
+1904,Montana,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+1904,Nebraska,8,Theodore Roosevelt,8,Alton Parker,0,476,Roosevelt Republican
+1904,Nevada,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+1904,New Hampshire,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,New Jersey,12,Theodore Roosevelt,12,Alton Parker,0,476,Roosevelt Republican
+1904,New York,39,Theodore Roosevelt,39,Alton Parker,0,476,Roosevelt home state
+1904,North Carolina,12,Alton Parker,12,Theodore Roosevelt,0,476,Parker Democrat
+1904,North Dakota,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,Ohio,23,Theodore Roosevelt,23,Alton Parker,0,476,Roosevelt Republican
+1904,Oklahoma,7,Not Voting,0,Not Voting,0,476,Became state 1907
+1904,Oregon,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,Pennsylvania,34,Theodore Roosevelt,34,Alton Parker,0,476,Roosevelt Republican
+1904,Rhode Island,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,South Carolina,9,Alton Parker,9,Theodore Roosevelt,0,476,Parker Democrat
+1904,South Dakota,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,Tennessee,12,Alton Parker,12,Theodore Roosevelt,0,476,Parker Democrat
+1904,Texas,18,Alton Parker,18,Theodore Roosevelt,0,476,Parker Democrat
+1904,Utah,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+1904,Vermont,4,Theodore Roosevelt,4,Alton Parker,0,476,Roosevelt Republican
+1904,Virginia,12,Alton Parker,12,Theodore Roosevelt,0,476,Parker Democrat
+1904,Washington,5,Theodore Roosevelt,5,Alton Parker,0,476,Roosevelt Republican
+1904,West Virginia,7,Theodore Roosevelt,7,Alton Parker,0,476,Roosevelt Republican
+1904,Wisconsin,13,Theodore Roosevelt,13,Alton Parker,0,476,Roosevelt Republican
+1904,Wyoming,3,Theodore Roosevelt,3,Alton Parker,0,476,Roosevelt Republican
+
+1908,Alabama,11,William Bryan,11,William Taft,0,483,Bryan Democrat
+1908,Arkansas,9,William Bryan,9,William Taft,0,483,Bryan Democrat
+1908,California,10,William Taft,10,William Bryan,0,483,Taft Republican
+1908,Colorado,5,William Bryan,5,William Taft,0,483,Bryan Democrat
+1908,Connecticut,7,William Taft,7,William Bryan,0,483,Taft Republican
+1908,Delaware,3,William Taft,3,William Bryan,0,483,Taft Republican
+1908,Florida,5,William Bryan,5,William Taft,0,483,Bryan Democrat
+1908,Georgia,13,William Bryan,13,William Taft,0,483,Bryan Democrat
+1908,Idaho,3,William Taft,3,William Bryan,0,483,Taft Republican
+1908,Illinois,27,William Taft,27,William Bryan,0,483,Taft Republican
+1908,Indiana,15,William Taft,15,William Bryan,0,483,Taft Republican
+1908,Iowa,13,William Taft,13,William Bryan,0,483,Taft Republican
+1908,Kansas,10,William Taft,10,William Bryan,0,483,Taft Republican
+1908,Kentucky,13,William Bryan,13,William Taft,0,483,Bryan Democrat
+1908,Louisiana,9,William Bryan,9,William Taft,0,483,Bryan Democrat
+1908,Maine,6,William Taft,6,William Bryan,0,483,Taft Republican
+1908,Maryland,8,William Taft,2,William Bryan,6,483,Split vote
+1908,Massachusetts,16,William Taft,16,William Bryan,0,483,Taft Republican
+1908,Michigan,14,William Taft,14,William Bryan,0,483,Taft Republican
+1908,Minnesota,11,William Taft,11,William Bryan,0,483,Taft Republican
+1908,Mississippi,10,William Bryan,10,William Taft,0,483,Bryan Democrat
+1908,Missouri,18,William Taft,18,William Bryan,0,483,Taft Republican
+1908,Montana,3,William Taft,3,William Bryan,0,483,Taft Republican
+1908,Nebraska,8,William Bryan,8,William Taft,0,483,Bryan home state
+1908,Nevada,3,William Bryan,3,William Taft,0,483,Bryan Democrat
+1908,New Hampshire,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,New Jersey,12,William Taft,12,William Bryan,0,483,Taft Republican
+1908,New York,39,William Taft,39,William Bryan,0,483,Taft Republican
+1908,North Carolina,12,William Bryan,12,William Taft,0,483,Bryan Democrat
+1908,North Dakota,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,Ohio,23,William Taft,23,William Bryan,0,483,Taft home state
+1908,Oklahoma,7,William Bryan,7,William Taft,0,483,New state 1907
+1908,Oregon,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,Pennsylvania,34,William Taft,34,William Bryan,0,483,Taft Republican
+1908,Rhode Island,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,South Carolina,9,William Bryan,9,William Taft,0,483,Bryan Democrat
+1908,South Dakota,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,Tennessee,12,William Bryan,12,William Taft,0,483,Bryan Democrat
+1908,Texas,18,William Bryan,18,William Taft,0,483,Bryan Democrat
+1908,Utah,3,William Taft,3,William Bryan,0,483,Taft Republican
+1908,Vermont,4,William Taft,4,William Bryan,0,483,Taft Republican
+1908,Virginia,12,William Bryan,12,William Taft,0,483,Bryan Democrat
+1908,Washington,5,William Taft,5,William Bryan,0,483,Taft Republican
+1908,West Virginia,7,William Taft,7,William Bryan,0,483,Taft Republican
+1908,Wisconsin,13,William Taft,13,William Bryan,0,483,Taft Republican
+1908,Wyoming,3,William Taft,3,William Bryan,0,483,Taft Republican
+
+1912,Alabama,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Arizona,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,New state 1912
+1912,Arkansas,9,Woodrow Wilson,9,Theodore Roosevelt,0,531,Wilson Democrat
+1912,California,13,Theodore Roosevelt,11,Woodrow Wilson,2,531,Split vote
+1912,Colorado,6,Woodrow Wilson,6,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Connecticut,7,Woodrow Wilson,7,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Delaware,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Florida,6,Woodrow Wilson,6,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Georgia,14,Woodrow Wilson,14,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Idaho,4,Woodrow Wilson,4,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Illinois,29,Woodrow Wilson,29,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Indiana,15,Woodrow Wilson,15,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Iowa,13,Woodrow Wilson,13,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Kansas,10,Woodrow Wilson,10,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Kentucky,13,Woodrow Wilson,13,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Louisiana,10,Woodrow Wilson,10,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Maine,6,Woodrow Wilson,6,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Maryland,8,Woodrow Wilson,8,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Massachusetts,18,Woodrow Wilson,18,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Michigan,15,Theodore Roosevelt,15,Woodrow Wilson,0,531,Roosevelt Progressive
+1912,Minnesota,12,Theodore Roosevelt,12,Woodrow Wilson,0,531,Roosevelt Progressive
+1912,Mississippi,10,Woodrow Wilson,10,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Missouri,18,Woodrow Wilson,18,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Montana,4,Woodrow Wilson,4,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Nebraska,8,Woodrow Wilson,8,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Nevada,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat
+1912,New Hampshire,4,Woodrow Wilson,4,Theodore Roosevelt,0,531,Wilson Democrat
+1912,New Jersey,14,Woodrow Wilson,14,Theodore Roosevelt,0,531,Wilson home state
+1912,New Mexico,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,New state 1912
+1912,New York,45,Woodrow Wilson,45,Theodore Roosevelt,0,531,Wilson Democrat
+1912,North Carolina,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat
+1912,North Dakota,5,Woodrow Wilson,5,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Ohio,24,Woodrow Wilson,24,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Oklahoma,10,Woodrow Wilson,10,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Oregon,5,Woodrow Wilson,5,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Pennsylvania,38,Theodore Roosevelt,38,Woodrow Wilson,0,531,Roosevelt Progressive
+1912,Rhode Island,5,Woodrow Wilson,5,Theodore Roosevelt,0,531,Wilson Democrat
+1912,South Carolina,9,Woodrow Wilson,9,Theodore Roosevelt,0,531,Wilson Democrat
+1912,South Dakota,5,Theodore Roosevelt,5,Woodrow Wilson,0,531,Roosevelt Progressive
+1912,Tennessee,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Texas,20,Woodrow Wilson,20,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Utah,4,William Taft,4,Theodore Roosevelt,0,531,Taft Republican
+1912,Vermont,4,William Taft,4,Theodore Roosevelt,0,531,Taft Republican
+1912,Virginia,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Washington,7,Theodore Roosevelt,7,Woodrow Wilson,0,531,Roosevelt Progressive
+1912,West Virginia,8,Woodrow Wilson,8,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Wisconsin,13,Woodrow Wilson,13,Theodore Roosevelt,0,531,Wilson Democrat
+1912,Wyoming,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat
+
+1916,Alabama,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat
+1916,Arizona,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat
+1916,Arkansas,9,Woodrow Wilson,9,Charles Hughes,0,531,Wilson Democrat
+1916,California,13,Woodrow Wilson,13,Charles Hughes,0,531,Wilson Democrat
+1916,Colorado,6,Woodrow Wilson,6,Charles Hughes,0,531,Wilson Democrat
+1916,Connecticut,7,Charles Hughes,7,Woodrow Wilson,0,531,Hughes Republican
+1916,Delaware,3,Charles Hughes,3,Woodrow Wilson,0,531,Hughes Republican
+1916,Florida,6,Woodrow Wilson,6,Charles Hughes,0,531,Wilson Democrat
+1916,Georgia,14,Woodrow Wilson,14,Charles Hughes,0,531,Wilson Democrat
+1916,Idaho,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat
+1916,Illinois,29,Charles Hughes,29,Woodrow Wilson,0,531,Hughes Republican
+1916,Indiana,15,Charles Hughes,15,Woodrow Wilson,0,531,Hughes Republican
+1916,Iowa,13,Charles Hughes,13,Woodrow Wilson,0,531,Hughes Republican
+1916,Kansas,10,Woodrow Wilson,10,Charles Hughes,0,531,Wilson Democrat
+1916,Kentucky,13,Woodrow Wilson,13,Charles Hughes,0,531,Wilson Democrat
+1916,Louisiana,10,Woodrow Wilson,10,Charles Hughes,0,531,Wilson Democrat
+1916,Maine,6,Charles Hughes,6,Woodrow Wilson,0,531,Hughes Republican
+1916,Maryland,8,Woodrow Wilson,8,Charles Hughes,0,531,Wilson Democrat
+1916,Massachusetts,18,Charles Hughes,18,Woodrow Wilson,0,531,Hughes Republican
+1916,Michigan,15,Charles Hughes,15,Woodrow Wilson,0,531,Hughes Republican
+1916,Minnesota,12,Charles Hughes,12,Woodrow Wilson,0,531,Hughes Republican
+1916,Mississippi,10,Woodrow Wilson,10,Charles Hughes,0,531,Wilson Democrat
+1916,Missouri,18,Woodrow Wilson,18,Charles Hughes,0,531,Wilson Democrat
+1916,Montana,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat
+1916,Nebraska,8,Woodrow Wilson,8,Charles Hughes,0,531,Wilson Democrat
+1916,Nevada,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat
+1916,New Hampshire,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat
+1916,New Jersey,14,Charles Hughes,14,Woodrow Wilson,0,531,Hughes Republican
+1916,New Mexico,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat
+1916,New York,45,Charles Hughes,45,Woodrow Wilson,0,531,Hughes home state
+1916,North Carolina,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat
+1916,North Dakota,5,Woodrow Wilson,5,Charles Hughes,0,531,Wilson Democrat
+1916,Ohio,24,Woodrow Wilson,24,Charles Hughes,0,531,Wilson Democrat
+1916,Oklahoma,10,Woodrow Wilson,10,Charles Hughes,0,531,Wilson Democrat
+1916,Oregon,5,Charles Hughes,5,Woodrow Wilson,0,531,Hughes Republican
+1916,Pennsylvania,38,Charles Hughes,38,Woodrow Wilson,0,531,Hughes Republican
+1916,Rhode Island,5,Charles Hughes,5,Woodrow Wilson,0,531,Hughes Republican
+1916,South Carolina,9,Woodrow Wilson,9,Charles Hughes,0,531,Wilson Democrat
+1916,South Dakota,5,Charles Hughes,5,Woodrow Wilson,0,531,Hughes Republican
+1916,Tennessee,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat
+1916,Texas,20,Woodrow Wilson,20,Charles Hughes,0,531,Wilson Democrat
+1916,Utah,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat
+1916,Vermont,4,Charles Hughes,4,Woodrow Wilson,0,531,Hughes Republican
+1916,Virginia,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat
+1916,Washington,7,Woodrow Wilson,7,Charles Hughes,0,531,Wilson Democrat
+1916,West Virginia,8,Charles Hughes,7,Woodrow Wilson,1,531,Split vote
+1916,Wisconsin,13,Charles Hughes,13,Woodrow Wilson,0,531,Hughes Republican
+1916,Wyoming,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat
+
+1920,Alabama,12,James Cox,12,Warren Harding,0,531,Cox Democrat
+1920,Arizona,3,Warren Harding,3,James Cox,0,531,Harding Republican
+1920,Arkansas,9,James Cox,9,Warren Harding,0,531,Cox Democrat
+1920,California,13,Warren Harding,13,James Cox,0,531,Harding Republican
+1920,Colorado,6,Warren Harding,6,James Cox,0,531,Harding Republican
+1920,Connecticut,7,Warren Harding,7,James Cox,0,531,Harding Republican
+1920,Delaware,3,Warren Harding,3,James Cox,0,531,Harding Republican
+1920,Florida,6,James Cox,6,Warren Harding,0,531,Cox Democrat
+1920,Georgia,14,James Cox,14,Warren Harding,0,531,Cox Democrat
+1920,Idaho,4,Warren Harding,4,James Cox,0,531,Harding Republican
+1920,Illinois,29,Warren Harding,29,James Cox,0,531,Harding Republican
+1920,Indiana,15,Warren Harding,15,James Cox,0,531,Harding Republican
+1920,Iowa,13,Warren Harding,13,James Cox,0,531,Harding Republican
+1920,Kansas,10,Warren Harding,10,James Cox,0,531,Harding Republican
+1920,Kentucky,13,James Cox,13,Warren Harding,0,531,Cox Democrat
+1920,Louisiana,10,James Cox,10,Warren Harding,0,531,Cox Democrat
+1920,Maine,6,Warren Harding,6,James Cox,0,531,Harding Republican
+1920,Maryland,8,Warren Harding,8,James Cox,0,531,Harding Republican
+1920,Massachusetts,18,Warren Harding,18,James Cox,0,531,Harding Republican
+1920,Michigan,15,Warren Harding,15,James Cox,0,531,Harding Republican
+1920,Minnesota,12,Warren Harding,12,James Cox,0,531,Harding Republican
+1920,Mississippi,10,James Cox,10,Warren Harding,0,531,Cox Democrat
+1920,Missouri,18,Warren Harding,18,James Cox,0,531,Harding Republican
+1920,Montana,4,Warren Harding,4,James Cox,0,531,Harding Republican
+1920,Nebraska,8,Warren Harding,8,James Cox,0,531,Harding Republican
+1920,Nevada,3,Warren Harding,3,James Cox,0,531,Harding Republican
+1920,New Hampshire,4,Warren Harding,4,James Cox,0,531,Harding Republican
+1920,New Jersey,14,Warren Harding,14,James Cox,0,531,Harding Republican
+1920,New Mexico,3,Warren Harding,3,James Cox,0,531,Harding Republican
+1920,New York,45,Warren Harding,45,James Cox,0,531,Harding Republican
+1920,North Carolina,12,James Cox,12,Warren Harding,0,531,Cox Democrat
+1920,North Dakota,5,Warren Harding,5,James Cox,0,531,Harding Republican
+1920,Ohio,24,Warren Harding,24,James Cox,0,531,Harding home state
+1920,Oklahoma,10,Warren Harding,10,James Cox,0,531,Harding Republican
+1920,Oregon,5,Warren Harding,5,James Cox,0,531,Harding Republican
+1920,Pennsylvania,38,Warren Harding,38,James Cox,0,531,Harding Republican
+1920,Rhode Island,5,Warren Harding,5,James Cox,0,531,Harding Republican
+1920,South Carolina,9,James Cox,9,Warren Harding,0,531,Cox Democrat
+1920,South Dakota,5,Warren Harding,5,James Cox,0,531,Harding Republican
+1920,Tennessee,12,Warren Harding,12,James Cox,0,531,Harding Republican
+1920,Texas,20,James Cox,20,Warren Harding,0,531,Cox Democrat
+1920,Utah,4,Warren Harding,4,James Cox,0,531,Harding Republican
+1920,Vermont,4,Warren Harding,4,James Cox,0,531,Harding Republican
+1920,Virginia,12,James Cox,12,Warren Harding,0,531,Cox Democrat
+1920,Washington,7,Warren Harding,7,James Cox,0,531,Harding Republican
+1920,West Virginia,8,Warren Harding,8,James Cox,0,531,Harding Republican
+1920,Wisconsin,13,Warren Harding,13,James Cox,0,531,Harding Republican
+1920,Wyoming,3,Warren Harding,3,James Cox,0,531,Harding Republican
+
+1924,Alabama,12,John Davis,12,Calvin Coolidge,0,531,Davis Democrat
+1924,Arizona,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican
+1924,Arkansas,9,John Davis,9,Calvin Coolidge,0,531,Davis Democrat
+1924,California,13,Calvin Coolidge,13,John Davis,0,531,Coolidge Republican
+1924,Colorado,6,Calvin Coolidge,6,John Davis,0,531,Coolidge Republican
+1924,Connecticut,7,Calvin Coolidge,7,John Davis,0,531,Coolidge Republican
+1924,Delaware,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican
+1924,Florida,6,John Davis,6,Calvin Coolidge,0,531,Davis Democrat
+1924,Georgia,14,John Davis,14,Calvin Coolidge,0,531,Davis Democrat
+1924,Idaho,4,Calvin Coolidge,4,John Davis,0,531,Coolidge Republican
+1924,Illinois,29,Calvin Coolidge,29,John Davis,0,531,Coolidge Republican
+1924,Indiana,15,Calvin Coolidge,15,John Davis,0,531,Coolidge Republican
+1924,Iowa,13,Calvin Coolidge,13,John Davis,0,531,Coolidge Republican
+1924,Kansas,10,Calvin Coolidge,10,John Davis,0,531,Coolidge Republican
+1924,Kentucky,13,Calvin Coolidge,13,John Davis,0,531,Coolidge Republican
+1924,Louisiana,10,John Davis,10,Calvin Coolidge,0,531,Davis Democrat
+1924,Maine,6,Calvin Coolidge,6,John Davis,0,531,Coolidge Republican
+1924,Maryland,8,Calvin Coolidge,8,John Davis,0,531,Coolidge Republican
+1924,Massachusetts,18,Calvin Coolidge,18,John Davis,0,531,Coolidge home state
+1924,Michigan,15,Calvin Coolidge,15,John Davis,0,531,Coolidge Republican
+1924,Minnesota,12,Calvin Coolidge,12,John Davis,0,531,Coolidge Republican
+1924,Mississippi,10,John Davis,10,Calvin Coolidge,0,531,Davis Democrat
+1924,Missouri,18,Calvin Coolidge,18,John Davis,0,531,Coolidge Republican
+1924,Montana,4,Calvin Coolidge,4,John Davis,0,531,Coolidge Republican
+1924,Nebraska,8,Calvin Coolidge,8,John Davis,0,531,Coolidge Republican
+1924,Nevada,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican
+1924,New Hampshire,4,Calvin Coolidge,4,John Davis,0,531,Coolidge Republican
+1924,New Jersey,14,Calvin Coolidge,14,John Davis,0,531,Coolidge Republican
+1924,New Mexico,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican
+1924,New York,45,Calvin Coolidge,45,John Davis,0,531,Coolidge Republican
+1924,North Carolina,12,John Davis,12,Calvin Coolidge,0,531,Davis Democrat
+1924,North Dakota,5,Calvin Coolidge,5,John Davis,0,531,Coolidge Republican
+1924,Ohio,24,Calvin Coolidge,24,John Davis,0,531,Coolidge Republican
+1924,Oklahoma,10,John Davis,10,Calvin Coolidge,0,531,Davis Democrat
+1924,Oregon,5,Calvin Coolidge,5,John Davis,0,531,Coolidge Republican
+1924,Pennsylvania,38,Calvin Coolidge,38,John Davis,0,531,Coolidge Republican
+1924,Rhode Island,5,Calvin Coolidge,5,John Davis,0,531,Coolidge Republican
+1924,South Carolina,9,John Davis,9,Calvin Coolidge,0,531,Davis Democrat
+1924,South Dakota,5,Calvin Coolidge,5,John Davis,0,531,Coolidge Republican
+1924,Tennessee,12,John Davis,12,Calvin Coolidge,0,531,Davis Democrat
+1924,Texas,20,John Davis,20,Calvin Coolidge,0,531,Davis Democrat
+1924,Utah,4,Calvin Coolidge,4,John Davis,0,531,Coolidge Republican
+1924,Vermont,4,Calvin Coolidge,4,John Davis,0,531,Coolidge Republican
+1924,Virginia,12,John Davis,12,Calvin Coolidge,0,531,Davis Democrat
+1924,Washington,7,Calvin Coolidge,7,John Davis,0,531,Coolidge Republican
+1924,West Virginia,8,Calvin Coolidge,8,John Davis,0,531,Coolidge Republican
+1924,Wisconsin,13,Robert La Follette,13,Calvin Coolidge,0,531,La Follette Progressive
+1924,Wyoming,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican
+
+1928,Alabama,12,Al Smith,12,Herbert Hoover,0,531,Smith Democrat
+1928,Arizona,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican
+1928,Arkansas,9,Al Smith,9,Herbert Hoover,0,531,Smith Democrat
+1928,California,13,Herbert Hoover,13,Al Smith,0,531,Hoover Republican
+1928,Colorado,6,Herbert Hoover,6,Al Smith,0,531,Hoover Republican
+1928,Connecticut,7,Herbert Hoover,7,Al Smith,0,531,Hoover Republican
+1928,Delaware,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican
+1928,Florida,6,Herbert Hoover,6,Al Smith,0,531,Hoover Republican
+1928,Georgia,14,Al Smith,14,Herbert Hoover,0,531,Smith Democrat
+1928,Idaho,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican
+1928,Illinois,29,Herbert Hoover,29,Al Smith,0,531,Hoover Republican
+1928,Indiana,15,Herbert Hoover,15,Al Smith,0,531,Hoover Republican
+1928,Iowa,13,Herbert Hoover,13,Al Smith,0,531,Hoover Republican
+1928,Kansas,10,Herbert Hoover,10,Al Smith,0,531,Hoover Republican
+1928,Kentucky,13,Herbert Hoover,13,Al Smith,0,531,Hoover Republican
+1928,Louisiana,10,Al Smith,10,Herbert Hoover,0,531,Smith Democrat
+1928,Maine,6,Herbert Hoover,6,Al Smith,0,531,Hoover Republican
+1928,Maryland,8,Herbert Hoover,8,Al Smith,0,531,Hoover Republican
+1928,Massachusetts,18,Al Smith,18,Herbert Hoover,0,531,Smith Democrat
+1928,Michigan,15,Herbert Hoover,15,Al Smith,0,531,Hoover Republican
+1928,Minnesota,12,Herbert Hoover,12,Al Smith,0,531,Hoover Republican
+1928,Mississippi,10,Al Smith,10,Herbert Hoover,0,531,Smith Democrat
+1928,Missouri,18,Herbert Hoover,18,Al Smith,0,531,Hoover Republican
+1928,Montana,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican
+1928,Nebraska,8,Herbert Hoover,8,Al Smith,0,531,Hoover Republican
+1928,Nevada,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican
+1928,New Hampshire,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican
+1928,New Jersey,14,Herbert Hoover,14,Al Smith,0,531,Hoover Republican
+1928,New Mexico,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican
+1928,New York,45,Herbert Hoover,45,Al Smith,0,531,Smith home state lost
+1928,North Carolina,12,Herbert Hoover,12,Al Smith,0,531,Hoover Republican
+1928,North Dakota,5,Herbert Hoover,5,Al Smith,0,531,Hoover Republican
+1928,Ohio,24,Herbert Hoover,24,Al Smith,0,531,Hoover Republican
+1928,Oklahoma,10,Herbert Hoover,10,Al Smith,0,531,Hoover Republican
+1928,Oregon,5,Herbert Hoover,5,Al Smith,0,531,Hoover Republican
+1928,Pennsylvania,38,Herbert Hoover,38,Al Smith,0,531,Hoover Republican
+1928,Rhode Island,5,Al Smith,5,Herbert Hoover,0,531,Smith Democrat
+1928,South Carolina,9,Al Smith,9,Herbert Hoover,0,531,Smith Democrat
+1928,South Dakota,5,Herbert Hoover,5,Al Smith,0,531,Hoover Republican
+1928,Tennessee,12,Herbert Hoover,12,Al Smith,0,531,Hoover Republican
+1928,Texas,20,Herbert Hoover,20,Al Smith,0,531,Hoover Republican
+1928,Utah,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican
+1928,Vermont,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican
+1928,Virginia,12,Herbert Hoover,12,Al Smith,0,531,Hoover Republican
+1928,Washington,7,Herbert Hoover,7,Al Smith,0,531,Hoover Republican
+1928,West Virginia,8,Herbert Hoover,8,Al Smith,0,531,Hoover Republican
+1928,Wisconsin,13,Herbert Hoover,13,Al Smith,0,531,Hoover Republican
+1928,Wyoming,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican
+
+1932,Alabama,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Arizona,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Arkansas,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat
+1932,California,22,Franklin Roosevelt,22,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Colorado,6,Franklin Roosevelt,6,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Connecticut,8,Herbert Hoover,8,Franklin Roosevelt,0,531,Hoover Republican
+1932,Delaware,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican
+1932,Florida,7,Franklin Roosevelt,7,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Georgia,12,Franklin Roosevelt,12,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Idaho,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Illinois,29,Franklin Roosevelt,29,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Indiana,14,Franklin Roosevelt,14,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Iowa,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Kansas,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Kentucky,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Louisiana,10,Franklin Roosevelt,10,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Maine,5,Herbert Hoover,5,Franklin Roosevelt,0,531,Hoover Republican
+1932,Maryland,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Massachusetts,17,Franklin Roosevelt,17,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Michigan,19,Franklin Roosevelt,19,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Minnesota,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Mississippi,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Missouri,15,Franklin Roosevelt,15,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Montana,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Nebraska,7,Franklin Roosevelt,7,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Nevada,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat
+1932,New Hampshire,4,Herbert Hoover,4,Franklin Roosevelt,0,531,Hoover Republican
+1932,New Jersey,16,Franklin Roosevelt,16,Herbert Hoover,0,531,Roosevelt Democrat
+1932,New Mexico,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat
+1932,New York,47,Franklin Roosevelt,47,Herbert Hoover,0,531,Roosevelt home state
+1932,North Carolina,13,Franklin Roosevelt,13,Herbert Hoover,0,531,Roosevelt Democrat
+1932,North Dakota,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Ohio,26,Franklin Roosevelt,26,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Oklahoma,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Oregon,5,Franklin Roosevelt,5,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Pennsylvania,36,Herbert Hoover,36,Franklin Roosevelt,0,531,Hoover Republican
+1932,Rhode Island,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,South Carolina,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat
+1932,South Dakota,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Tennessee,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Texas,23,Franklin Roosevelt,23,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Utah,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Vermont,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican
+1932,Virginia,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Washington,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat
+1932,West Virginia,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Wisconsin,12,Franklin Roosevelt,12,Herbert Hoover,0,531,Roosevelt Democrat
+1932,Wyoming,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat
+
+1936,Alabama,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Arizona,3,Franklin Roosevelt,3,Alf Landon,0,531,Roosevelt Democrat
+1936,Arkansas,9,Franklin Roosevelt,9,Alf Landon,0,531,Roosevelt Democrat
+1936,California,22,Franklin Roosevelt,22,Alf Landon,0,531,Roosevelt Democrat
+1936,Colorado,6,Franklin Roosevelt,6,Alf Landon,0,531,Roosevelt Democrat
+1936,Connecticut,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat
+1936,Delaware,3,Franklin Roosevelt,3,Alf Landon,0,531,Roosevelt Democrat
+1936,Florida,7,Franklin Roosevelt,7,Alf Landon,0,531,Roosevelt Democrat
+1936,Georgia,12,Franklin Roosevelt,12,Alf Landon,0,531,Roosevelt Democrat
+1936,Idaho,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,Illinois,29,Franklin Roosevelt,29,Alf Landon,0,531,Roosevelt Democrat
+1936,Indiana,14,Franklin Roosevelt,14,Alf Landon,0,531,Roosevelt Democrat
+1936,Iowa,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Kansas,9,Franklin Roosevelt,9,Alf Landon,0,531,Landon home state lost
+1936,Kentucky,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Louisiana,10,Franklin Roosevelt,10,Alf Landon,0,531,Roosevelt Democrat
+1936,Maine,5,Alf Landon,5,Franklin Roosevelt,0,531,Landon Republican
+1936,Maryland,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat
+1936,Massachusetts,17,Franklin Roosevelt,17,Alf Landon,0,531,Roosevelt Democrat
+1936,Michigan,19,Franklin Roosevelt,19,Alf Landon,0,531,Roosevelt Democrat
+1936,Minnesota,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Mississippi,9,Franklin Roosevelt,9,Alf Landon,0,531,Roosevelt Democrat
+1936,Missouri,15,Franklin Roosevelt,15,Alf Landon,0,531,Roosevelt Democrat
+1936,Montana,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,Nebraska,7,Franklin Roosevelt,7,Alf Landon,0,531,Roosevelt Democrat
+1936,Nevada,3,Franklin Roosevelt,3,Alf Landon,0,531,Roosevelt Democrat
+1936,New Hampshire,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,New Jersey,16,Franklin Roosevelt,16,Alf Landon,0,531,Roosevelt Democrat
+1936,New Mexico,3,Franklin Roosevelt,3,Alf Landon,0,531,Roosevelt Democrat
+1936,New York,47,Franklin Roosevelt,47,Alf Landon,0,531,Roosevelt Democrat
+1936,North Carolina,13,Franklin Roosevelt,13,Alf Landon,0,531,Roosevelt Democrat
+1936,North Dakota,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,Ohio,26,Franklin Roosevelt,26,Alf Landon,0,531,Roosevelt Democrat
+1936,Oklahoma,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Oregon,5,Franklin Roosevelt,5,Alf Landon,0,531,Roosevelt Democrat
+1936,Pennsylvania,36,Franklin Roosevelt,36,Alf Landon,0,531,Roosevelt Democrat
+1936,Rhode Island,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,South Carolina,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat
+1936,South Dakota,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,Tennessee,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Texas,23,Franklin Roosevelt,23,Alf Landon,0,531,Roosevelt Democrat
+1936,Utah,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat
+1936,Vermont,3,Alf Landon,3,Franklin Roosevelt,0,531,Landon Republican
+1936,Virginia,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat
+1936,Washington,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat
+1936,West Virginia,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat
+1936,Wisconsin,12,Franklin Roosevelt,12,Alf Landon,0,531,Roosevelt Democrat
+1936,Wyoming,3,Franklin Roosevelt,3,Alf Landon,0,531,Roosevelt Democrat
+
+1940,Alabama,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Arizona,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Arkansas,9,Franklin Roosevelt,9,Wendell Willkie,0,531,Roosevelt Democrat
+1940,California,22,Franklin Roosevelt,22,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Colorado,6,Wendell Willkie,6,Franklin Roosevelt,0,531,Willkie Republican
+1940,Connecticut,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Delaware,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Florida,7,Franklin Roosevelt,7,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Georgia,12,Franklin Roosevelt,12,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Idaho,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Illinois,29,Franklin Roosevelt,29,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Indiana,14,Wendell Willkie,14,Franklin Roosevelt,0,531,Willkie home state
+1940,Iowa,11,Wendell Willkie,11,Franklin Roosevelt,0,531,Willkie Republican
+1940,Kansas,9,Wendell Willkie,9,Franklin Roosevelt,0,531,Willkie Republican
+1940,Kentucky,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Louisiana,10,Franklin Roosevelt,10,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Maine,5,Wendell Willkie,5,Franklin Roosevelt,0,531,Willkie Republican
+1940,Maryland,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Massachusetts,17,Franklin Roosevelt,17,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Michigan,19,Wendell Willkie,19,Franklin Roosevelt,0,531,Willkie Republican
+1940,Minnesota,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Mississippi,9,Franklin Roosevelt,9,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Missouri,15,Franklin Roosevelt,15,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Montana,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Nebraska,7,Wendell Willkie,7,Franklin Roosevelt,0,531,Willkie Republican
+1940,Nevada,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat
+1940,New Hampshire,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat
+1940,New Jersey,16,Franklin Roosevelt,16,Wendell Willkie,0,531,Roosevelt Democrat
+1940,New Mexico,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat
+1940,New York,47,Franklin Roosevelt,47,Wendell Willkie,0,531,Roosevelt Democrat
+1940,North Carolina,13,Franklin Roosevelt,13,Wendell Willkie,0,531,Roosevelt Democrat
+1940,North Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican
+1940,Ohio,26,Franklin Roosevelt,26,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Oklahoma,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Oregon,5,Franklin Roosevelt,5,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Pennsylvania,36,Franklin Roosevelt,36,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Rhode Island,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat
+1940,South Carolina,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat
+1940,South Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican
+1940,Tennessee,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Texas,23,Franklin Roosevelt,23,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Utah,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Vermont,3,Wendell Willkie,3,Franklin Roosevelt,0,531,Willkie Republican
+1940,Virginia,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Washington,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat
+1940,West Virginia,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Wisconsin,12,Franklin Roosevelt,12,Wendell Willkie,0,531,Roosevelt Democrat
+1940,Wyoming,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat
+
+1944,Alabama,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Arizona,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Arkansas,9,Franklin Roosevelt,9,Thomas Dewey,0,531,Roosevelt Democrat
+1944,California,25,Franklin Roosevelt,25,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Colorado,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican
+1944,Connecticut,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Delaware,3,Franklin Roosevelt,3,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Florida,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Georgia,12,Franklin Roosevelt,12,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Idaho,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Illinois,28,Franklin Roosevelt,28,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Indiana,13,Thomas Dewey,13,Franklin Roosevelt,0,531,Dewey Republican
+1944,Iowa,10,Thomas Dewey,10,Franklin Roosevelt,0,531,Dewey Republican
+1944,Kansas,8,Thomas Dewey,8,Franklin Roosevelt,0,531,Dewey Republican
+1944,Kentucky,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Louisiana,10,Franklin Roosevelt,10,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Maine,5,Thomas Dewey,5,Franklin Roosevelt,0,531,Dewey Republican
+1944,Maryland,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Massachusetts,16,Franklin Roosevelt,16,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Michigan,19,Franklin Roosevelt,19,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Minnesota,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Mississippi,9,Franklin Roosevelt,9,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Missouri,15,Franklin Roosevelt,15,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Montana,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Nebraska,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican
+1944,Nevada,3,Franklin Roosevelt,3,Thomas Dewey,0,531,Roosevelt Democrat
+1944,New Hampshire,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,New Jersey,16,Franklin Roosevelt,16,Thomas Dewey,0,531,Roosevelt Democrat
+1944,New Mexico,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,New York,47,Franklin Roosevelt,47,Thomas Dewey,0,531,Dewey home state lost
+1944,North Carolina,14,Franklin Roosevelt,14,Thomas Dewey,0,531,Roosevelt Democrat
+1944,North Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican
+1944,Ohio,25,Thomas Dewey,25,Franklin Roosevelt,0,531,Dewey Republican
+1944,Oklahoma,10,Franklin Roosevelt,10,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Oregon,6,Franklin Roosevelt,6,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Pennsylvania,35,Franklin Roosevelt,35,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Rhode Island,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,South Carolina,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,South Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican
+1944,Tennessee,12,Franklin Roosevelt,12,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Texas,23,Franklin Roosevelt,23,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Utah,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Vermont,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican
+1944,Virginia,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Washington,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,West Virginia,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat
+1944,Wisconsin,12,Thomas Dewey,12,Franklin Roosevelt,0,531,Dewey Republican
+1944,Wyoming,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican
+
+1948,Alabama,11,Strom Thurmond,11,Harry Truman,0,531,Thurmond States Rights
+1948,Arizona,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,Arkansas,9,Harry Truman,9,Thomas Dewey,0,531,Truman Democrat
+1948,California,25,Harry Truman,25,Thomas Dewey,0,531,Truman Democrat
+1948,Colorado,6,Harry Truman,6,Thomas Dewey,0,531,Truman Democrat
+1948,Connecticut,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican
+1948,Delaware,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican
+1948,Florida,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat
+1948,Georgia,12,Harry Truman,12,Thomas Dewey,0,531,Truman Democrat
+1948,Idaho,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,Illinois,28,Harry Truman,28,Thomas Dewey,0,531,Truman Democrat
+1948,Indiana,13,Thomas Dewey,13,Harry Truman,0,531,Dewey Republican
+1948,Iowa,10,Harry Truman,10,Thomas Dewey,0,531,Truman Democrat
+1948,Kansas,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican
+1948,Kentucky,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat
+1948,Louisiana,10,Strom Thurmond,10,Harry Truman,0,531,Thurmond States Rights
+1948,Maine,5,Thomas Dewey,5,Harry Truman,0,531,Dewey Republican
+1948,Maryland,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican
+1948,Massachusetts,16,Harry Truman,16,Thomas Dewey,0,531,Truman Democrat
+1948,Michigan,19,Thomas Dewey,19,Harry Truman,0,531,Dewey Republican
+1948,Minnesota,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat
+1948,Mississippi,9,Strom Thurmond,9,Harry Truman,0,531,Thurmond States Rights
+1948,Missouri,15,Harry Truman,15,Thomas Dewey,0,531,Truman home state
+1948,Montana,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,Nebraska,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican
+1948,Nevada,3,Harry Truman,3,Thomas Dewey,0,531,Truman Democrat
+1948,New Hampshire,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican
+1948,New Jersey,16,Thomas Dewey,16,Harry Truman,0,531,Dewey Republican
+1948,New Mexico,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,New York,47,Thomas Dewey,47,Harry Truman,0,531,Dewey home state
+1948,North Carolina,14,Harry Truman,14,Thomas Dewey,0,531,Truman Democrat
+1948,North Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican
+1948,Ohio,25,Harry Truman,25,Thomas Dewey,0,531,Truman Democrat
+1948,Oklahoma,10,Harry Truman,10,Thomas Dewey,0,531,Truman Democrat
+1948,Oregon,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican
+1948,Pennsylvania,35,Thomas Dewey,35,Harry Truman,0,531,Dewey Republican
+1948,Rhode Island,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,South Carolina,8,Strom Thurmond,8,Harry Truman,0,531,Thurmond home state
+1948,South Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican
+1948,Tennessee,12,Harry Truman,11,Strom Thurmond,1,531,Split vote
+1948,Texas,23,Harry Truman,23,Thomas Dewey,0,531,Truman Democrat
+1948,Utah,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat
+1948,Vermont,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican
+1948,Virginia,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat
+1948,Washington,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat
+1948,West Virginia,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat
+1948,Wisconsin,12,Harry Truman,12,Thomas Dewey,0,531,Truman Democrat
+1948,Wyoming,3,Harry Truman,3,Thomas Dewey,0,531,Truman Democrat
+
+1952,Alabama,11,Adlai Stevenson,11,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Arizona,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,California,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Colorado,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Connecticut,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Delaware,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Florida,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Idaho,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Illinois,27,Dwight Eisenhower,27,Adlai Stevenson,0,531,Stevenson home state lost
+1952,Indiana,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Iowa,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Kansas,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Kentucky,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Louisiana,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Maine,5,Dwight Eisenhower,5,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Maryland,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Massachusetts,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Michigan,20,Dwight Eisenhower,20,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Minnesota,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Missouri,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Montana,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Nebraska,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Nevada,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1952,New Hampshire,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,New Jersey,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican
+1952,New Mexico,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,New York,45,Dwight Eisenhower,45,Adlai Stevenson,0,531,Eisenhower Republican
+1952,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,North Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Ohio,25,Dwight Eisenhower,25,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Oklahoma,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Oregon,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Pennsylvania,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Rhode Island,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,South Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Tennessee,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Texas,24,Dwight Eisenhower,24,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Utah,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Vermont,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Virginia,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Washington,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican
+1952,West Virginia,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1952,Wisconsin,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican
+1952,Wyoming,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+
+1956,Alabama,11,Adlai Stevenson,10,Dwight Eisenhower,0,531,1 faithless elector
+1956,Arizona,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,California,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Colorado,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Connecticut,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Delaware,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Florida,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,Idaho,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Illinois,27,Dwight Eisenhower,27,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Indiana,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Iowa,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Kansas,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Kentucky,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Louisiana,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Maine,5,Dwight Eisenhower,5,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Maryland,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Massachusetts,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Michigan,20,Dwight Eisenhower,20,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Minnesota,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,Missouri,13,Adlai Stevenson,13,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,Montana,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Nebraska,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Nevada,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1956,New Hampshire,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,New Jersey,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican
+1956,New Mexico,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,New York,45,Dwight Eisenhower,45,Adlai Stevenson,0,531,Eisenhower Republican
+1956,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,North Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Ohio,25,Dwight Eisenhower,25,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Oklahoma,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Oregon,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Pennsylvania,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Rhode Island,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat
+1956,South Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Tennessee,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Texas,24,Dwight Eisenhower,24,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Utah,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Vermont,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Virginia,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Washington,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican
+1956,West Virginia,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Wisconsin,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican
+1956,Wyoming,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican
+
+1960,Alabama,11,Harry Byrd,6,John Kennedy,5,537,Split vote
+1960,Alaska,3,Richard Nixon,3,John Kennedy,0,537,New state 1959
+1960,Arizona,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Arkansas,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat
+1960,California,32,Richard Nixon,32,John Kennedy,0,537,Nixon Republican
+1960,Colorado,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican
+1960,Connecticut,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat
+1960,Delaware,3,John Kennedy,3,Richard Nixon,0,537,Kennedy Democrat
+1960,Florida,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican
+1960,Georgia,12,John Kennedy,12,Richard Nixon,0,537,Kennedy Democrat
+1960,Hawaii,3,John Kennedy,3,Richard Nixon,0,537,New state 1959
+1960,Idaho,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Illinois,27,John Kennedy,27,Richard Nixon,0,537,Kennedy Democrat
+1960,Indiana,13,Richard Nixon,13,John Kennedy,0,537,Nixon Republican
+1960,Iowa,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican
+1960,Kansas,8,Richard Nixon,8,John Kennedy,0,537,Nixon Republican
+1960,Kentucky,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican
+1960,Louisiana,10,John Kennedy,10,Richard Nixon,0,537,Kennedy Democrat
+1960,Maine,5,Richard Nixon,5,John Kennedy,0,537,Nixon Republican
+1960,Maryland,9,John Kennedy,9,Richard Nixon,0,537,Kennedy Democrat
+1960,Massachusetts,16,John Kennedy,16,Richard Nixon,0,537,Kennedy home state
+1960,Michigan,20,John Kennedy,20,Richard Nixon,0,537,Kennedy Democrat
+1960,Minnesota,11,John Kennedy,11,Richard Nixon,0,537,Kennedy Democrat
+1960,Mississippi,8,Harry Byrd,8,John Kennedy,0,537,Unpledged electors
+1960,Missouri,13,John Kennedy,13,Richard Nixon,0,537,Kennedy Democrat
+1960,Montana,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Nebraska,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican
+1960,Nevada,3,John Kennedy,3,Richard Nixon,0,537,Kennedy Democrat
+1960,New Hampshire,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,New Jersey,16,John Kennedy,16,Richard Nixon,0,537,Kennedy Democrat
+1960,New Mexico,4,John Kennedy,4,Richard Nixon,0,537,Kennedy Democrat
+1960,New York,45,John Kennedy,45,Richard Nixon,0,537,Kennedy Democrat
+1960,North Carolina,14,John Kennedy,14,Richard Nixon,0,537,Kennedy Democrat
+1960,North Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Ohio,25,Richard Nixon,25,John Kennedy,0,537,Nixon Republican
+1960,Oklahoma,8,Richard Nixon,7,John Kennedy,0,537,1 faithless elector
+1960,Oregon,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican
+1960,Pennsylvania,32,John Kennedy,32,Richard Nixon,0,537,Kennedy Democrat
+1960,Rhode Island,4,John Kennedy,4,Richard Nixon,0,537,Kennedy Democrat
+1960,South Carolina,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat
+1960,South Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Tennessee,11,Richard Nixon,11,John Kennedy,0,537,Nixon Republican
+1960,Texas,24,John Kennedy,24,Richard Nixon,0,537,Kennedy Democrat
+1960,Utah,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican
+1960,Vermont,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican
+1960,Virginia,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican
+1960,Washington,9,Richard Nixon,9,John Kennedy,0,537,Nixon Republican
+1960,West Virginia,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat
+1960,Wisconsin,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican
+1960,Wyoming,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican
+
+1964,Alabama,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican
+1964,Alaska,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat
+1964,Arizona,5,Barry Goldwater,5,Lyndon Johnson,0,538,Goldwater home state
+1964,Arkansas,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat
+1964,California,40,Lyndon Johnson,40,Barry Goldwater,0,538,Johnson Democrat
+1964,Colorado,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat
+1964,Connecticut,8,Lyndon Johnson,8,Barry Goldwater,0,538,Johnson Democrat
+1964,Delaware,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat
+1964,District of Columbia,3,Lyndon Johnson,3,Barry Goldwater,0,538,First DC vote
+1964,Florida,14,Lyndon Johnson,14,Barry Goldwater,0,538,Johnson Democrat
+1964,Georgia,12,Barry Goldwater,12,Lyndon Johnson,0,538,Goldwater Republican
+1964,Hawaii,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Idaho,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Illinois,26,Lyndon Johnson,26,Barry Goldwater,0,538,Johnson Democrat
+1964,Indiana,13,Lyndon Johnson,13,Barry Goldwater,0,538,Johnson Democrat
+1964,Iowa,9,Lyndon Johnson,9,Barry Goldwater,0,538,Johnson Democrat
+1964,Kansas,7,Lyndon Johnson,7,Barry Goldwater,0,538,Johnson Democrat
+1964,Kentucky,9,Lyndon Johnson,9,Barry Goldwater,0,538,Johnson Democrat
+1964,Louisiana,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican
+1964,Maine,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Maryland,10,Lyndon Johnson,10,Barry Goldwater,0,538,Johnson Democrat
+1964,Massachusetts,14,Lyndon Johnson,14,Barry Goldwater,0,538,Johnson Democrat
+1964,Michigan,21,Lyndon Johnson,21,Barry Goldwater,0,538,Johnson Democrat
+1964,Minnesota,10,Lyndon Johnson,10,Barry Goldwater,0,538,Johnson Democrat
+1964,Mississippi,7,Barry Goldwater,7,Lyndon Johnson,0,538,Goldwater Republican
+1964,Missouri,12,Lyndon Johnson,12,Barry Goldwater,0,538,Johnson Democrat
+1964,Montana,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Nebraska,5,Lyndon Johnson,5,Barry Goldwater,0,538,Johnson Democrat
+1964,Nevada,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat
+1964,New Hampshire,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,New Jersey,17,Lyndon Johnson,17,Barry Goldwater,0,538,Johnson Democrat
+1964,New Mexico,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,New York,43,Lyndon Johnson,43,Barry Goldwater,0,538,Johnson Democrat
+1964,North Carolina,13,Lyndon Johnson,13,Barry Goldwater,0,538,Johnson Democrat
+1964,North Dakota,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Ohio,26,Lyndon Johnson,26,Barry Goldwater,0,538,Johnson Democrat
+1964,Oklahoma,8,Lyndon Johnson,8,Barry Goldwater,0,538,Johnson Democrat
+1964,Oregon,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat
+1964,Pennsylvania,29,Lyndon Johnson,29,Barry Goldwater,0,538,Johnson Democrat
+1964,Rhode Island,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,South Carolina,8,Barry Goldwater,8,Lyndon Johnson,0,538,Goldwater Republican
+1964,South Dakota,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Tennessee,11,Lyndon Johnson,11,Barry Goldwater,0,538,Johnson Democrat
+1964,Texas,25,Lyndon Johnson,25,Barry Goldwater,0,538,Johnson home state
+1964,Utah,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat
+1964,Vermont,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat
+1964,Virginia,12,Lyndon Johnson,12,Barry Goldwater,0,538,Johnson Democrat
+1964,Washington,9,Lyndon Johnson,9,Barry Goldwater,0,538,Johnson Democrat
+1964,West Virginia,7,Lyndon Johnson,7,Barry Goldwater,0,538,Johnson Democrat
+1964,Wisconsin,12,Lyndon Johnson,12,Barry Goldwater,0,538,Johnson Democrat
+1964,Wyoming,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat
+
+1968,Alabama,10,George Wallace,10,Hubert Humphrey,0,538,Wallace American Independent
+1968,Alaska,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican
+1968,Arizona,5,Richard Nixon,5,Hubert Humphrey,0,538,Nixon Republican
+1968,Arkansas,6,George Wallace,6,Hubert Humphrey,0,538,Wallace American Independent
+1968,California,40,Richard Nixon,40,Hubert Humphrey,0,538,Nixon Republican
+1968,Colorado,6,Richard Nixon,6,Hubert Humphrey,0,538,Nixon Republican
+1968,Connecticut,8,Hubert Humphrey,8,Richard Nixon,0,538,Humphrey Democrat
+1968,Delaware,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican
+1968,District of Columbia,3,Hubert Humphrey,3,Richard Nixon,0,538,Humphrey Democrat
+1968,Florida,14,Richard Nixon,14,Hubert Humphrey,0,538,Nixon Republican
+1968,Georgia,12,George Wallace,12,Hubert Humphrey,0,538,Wallace American Independent
+1968,Hawaii,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat
+1968,Idaho,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,Illinois,26,Richard Nixon,26,Hubert Humphrey,0,538,Nixon Republican
+1968,Indiana,13,Richard Nixon,13,Hubert Humphrey,0,538,Nixon Republican
+1968,Iowa,9,Richard Nixon,9,Hubert Humphrey,0,538,Nixon Republican
+1968,Kansas,7,Richard Nixon,7,Hubert Humphrey,0,538,Nixon Republican
+1968,Kentucky,9,Richard Nixon,9,Hubert Humphrey,0,538,Nixon Republican
+1968,Louisiana,10,George Wallace,10,Hubert Humphrey,0,538,Wallace American Independent
+1968,Maine,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat
+1968,Maryland,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey Democrat
+1968,Massachusetts,14,Hubert Humphrey,14,Richard Nixon,0,538,Humphrey Democrat
+1968,Michigan,21,Hubert Humphrey,21,Richard Nixon,0,538,Humphrey Democrat
+1968,Minnesota,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey home state
+1968,Mississippi,7,George Wallace,7,Hubert Humphrey,0,538,Wallace American Independent
+1968,Missouri,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican
+1968,Montana,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,Nebraska,5,Richard Nixon,5,Hubert Humphrey,0,538,Nixon Republican
+1968,Nevada,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican
+1968,New Hampshire,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,New Jersey,17,Richard Nixon,17,Hubert Humphrey,0,538,Nixon Republican
+1968,New Mexico,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,New York,43,Hubert Humphrey,43,Richard Nixon,0,538,Humphrey Democrat
+1968,North Carolina,13,Richard Nixon,12,George Wallace,1,538,Split vote
+1968,North Dakota,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,Ohio,26,Richard Nixon,26,Hubert Humphrey,0,538,Nixon Republican
+1968,Oklahoma,8,Richard Nixon,8,Hubert Humphrey,0,538,Nixon Republican
+1968,Oregon,6,Richard Nixon,6,Hubert Humphrey,0,538,Nixon Republican
+1968,Pennsylvania,29,Hubert Humphrey,29,Richard Nixon,0,538,Humphrey Democrat
+1968,Rhode Island,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat
+1968,South Carolina,8,Richard Nixon,8,Hubert Humphrey,0,538,Nixon Republican
+1968,South Dakota,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,Tennessee,11,Richard Nixon,11,Hubert Humphrey,0,538,Nixon Republican
+1968,Texas,25,Hubert Humphrey,25,Richard Nixon,0,538,Humphrey Democrat
+1968,Utah,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican
+1968,Vermont,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican
+1968,Virginia,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican
+1968,Washington,9,Hubert Humphrey,9,Richard Nixon,0,538,Humphrey Democrat
+1968,West Virginia,7,Hubert Humphrey,7,Richard Nixon,0,538,Humphrey Democrat
+1968,Wisconsin,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican
+1968,Wyoming,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican
+
+1972,Alabama,9,Richard Nixon,9,George McGovern,0,538,Nixon Republican
+1972,Alaska,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+1972,Arizona,6,Richard Nixon,6,George McGovern,0,538,Nixon Republican
+1972,Arkansas,6,Richard Nixon,6,George McGovern,0,538,Nixon Republican
+1972,California,45,Richard Nixon,45,George McGovern,0,538,Nixon Republican
+1972,Colorado,7,Richard Nixon,7,George McGovern,0,538,Nixon Republican
+1972,Connecticut,8,Richard Nixon,8,George McGovern,0,538,Nixon Republican
+1972,Delaware,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+1972,District of Columbia,3,George McGovern,3,Richard Nixon,0,538,McGovern Democrat
+1972,Florida,17,Richard Nixon,17,George McGovern,0,538,Nixon Republican
+1972,Georgia,12,Richard Nixon,12,George McGovern,0,538,Nixon Republican
+1972,Hawaii,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,Idaho,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,Illinois,26,Richard Nixon,26,George McGovern,0,538,Nixon Republican
+1972,Indiana,13,Richard Nixon,13,George McGovern,0,538,Nixon Republican
+1972,Iowa,8,Richard Nixon,8,George McGovern,0,538,Nixon Republican
+1972,Kansas,7,Richard Nixon,7,George McGovern,0,538,Nixon Republican
+1972,Kentucky,9,Richard Nixon,9,George McGovern,0,538,Nixon Republican
+1972,Louisiana,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican
+1972,Maine,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,Maryland,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican
+1972,Massachusetts,14,George McGovern,14,Richard Nixon,0,538,McGovern Democrat
+1972,Michigan,21,Richard Nixon,21,George McGovern,0,538,Nixon Republican
+1972,Minnesota,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican
+1972,Mississippi,7,Richard Nixon,7,George McGovern,0,538,Nixon Republican
+1972,Missouri,12,Richard Nixon,12,George McGovern,0,538,Nixon Republican
+1972,Montana,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,Nebraska,5,Richard Nixon,5,George McGovern,0,538,Nixon Republican
+1972,Nevada,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+1972,New Hampshire,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,New Jersey,17,Richard Nixon,17,George McGovern,0,538,Nixon Republican
+1972,New Mexico,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,New York,41,Richard Nixon,41,George McGovern,0,538,Nixon Republican
+1972,North Carolina,13,Richard Nixon,13,George McGovern,0,538,Nixon Republican
+1972,North Dakota,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+1972,Ohio,25,Richard Nixon,25,George McGovern,0,538,Nixon Republican
+1972,Oklahoma,8,Richard Nixon,8,George McGovern,0,538,Nixon Republican
+1972,Oregon,6,Richard Nixon,6,George McGovern,0,538,Nixon Republican
+1972,Pennsylvania,27,Richard Nixon,27,George McGovern,0,538,Nixon Republican
+1972,Rhode Island,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,South Carolina,8,Richard Nixon,8,George McGovern,0,538,Nixon Republican
+1972,South Dakota,4,Richard Nixon,4,George McGovern,0,538,McGovern home state lost
+1972,Tennessee,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican
+1972,Texas,26,Richard Nixon,26,George McGovern,0,538,Nixon Republican
+1972,Utah,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican
+1972,Vermont,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+1972,Virginia,12,Richard Nixon,11,George McGovern,0,538,1 faithless elector
+1972,Washington,9,Richard Nixon,8,George McGovern,0,538,1 faithless elector
+1972,West Virginia,6,Richard Nixon,6,George McGovern,0,538,Nixon Republican
+1972,Wisconsin,11,Richard Nixon,11,George McGovern,0,538,Nixon Republican
+1972,Wyoming,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican
+
+1976,Alabama,9,Jimmy Carter,9,Gerald Ford,0,538,Carter Democrat
+1976,Alaska,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican
+1976,Arizona,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican
+1976,Arkansas,6,Jimmy Carter,6,Gerald Ford,0,538,Carter Democrat
+1976,California,45,Gerald Ford,45,Jimmy Carter,0,538,Ford Republican
+1976,Colorado,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican
+1976,Connecticut,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican
+1976,Delaware,3,Jimmy Carter,3,Gerald Ford,0,538,Carter Democrat
+1976,District of Columbia,3,Jimmy Carter,3,Gerald Ford,0,538,Carter Democrat
+1976,Florida,17,Jimmy Carter,17,Gerald Ford,0,538,Carter Democrat
+1976,Georgia,12,Jimmy Carter,12,Gerald Ford,0,538,Carter home state
+1976,Hawaii,4,Jimmy Carter,4,Gerald Ford,0,538,Carter Democrat
+1976,Idaho,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,Illinois,26,Gerald Ford,26,Jimmy Carter,0,538,Ford Republican
+1976,Indiana,13,Gerald Ford,13,Jimmy Carter,0,538,Ford Republican
+1976,Iowa,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican
+1976,Kansas,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican
+1976,Kentucky,9,Jimmy Carter,9,Gerald Ford,0,538,Carter Democrat
+1976,Louisiana,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat
+1976,Maine,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,Maryland,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat
+1976,Massachusetts,14,Jimmy Carter,14,Gerald Ford,0,538,Carter Democrat
+1976,Michigan,21,Gerald Ford,21,Jimmy Carter,0,538,Ford home state
+1976,Minnesota,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat
+1976,Mississippi,7,Jimmy Carter,7,Gerald Ford,0,538,Carter Democrat
+1976,Missouri,12,Jimmy Carter,12,Gerald Ford,0,538,Carter Democrat
+1976,Montana,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,Nebraska,5,Gerald Ford,5,Jimmy Carter,0,538,Ford Republican
+1976,Nevada,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican
+1976,New Hampshire,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,New Jersey,17,Gerald Ford,17,Jimmy Carter,0,538,Ford Republican
+1976,New Mexico,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,New York,41,Jimmy Carter,41,Gerald Ford,0,538,Carter Democrat
+1976,North Carolina,13,Jimmy Carter,13,Gerald Ford,0,538,Carter Democrat
+1976,North Dakota,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican
+1976,Ohio,25,Jimmy Carter,25,Gerald Ford,0,538,Carter Democrat
+1976,Oklahoma,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican
+1976,Oregon,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican
+1976,Pennsylvania,27,Jimmy Carter,27,Gerald Ford,0,538,Carter Democrat
+1976,Rhode Island,4,Jimmy Carter,4,Gerald Ford,0,538,Carter Democrat
+1976,South Carolina,8,Jimmy Carter,8,Gerald Ford,0,538,Carter Democrat
+1976,South Dakota,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,Tennessee,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat
+1976,Texas,26,Jimmy Carter,26,Gerald Ford,0,538,Carter Democrat
+1976,Utah,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican
+1976,Vermont,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican
+1976,Virginia,12,Gerald Ford,12,Jimmy Carter,0,538,Ford Republican
+1976,Washington,9,Gerald Ford,8,Jimmy Carter,0,538,1 faithless elector
+1976,West Virginia,6,Jimmy Carter,6,Gerald Ford,0,538,Carter Democrat
+1976,Wisconsin,11,Jimmy Carter,11,Gerald Ford,0,538,Carter Democrat
+1976,Wyoming,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican
+
+1980,Alabama,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican
+1980,Alaska,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+1980,Arizona,6,Ronald Reagan,6,Jimmy Carter,0,538,Reagan Republican
+1980,Arkansas,6,Ronald Reagan,6,Jimmy Carter,0,538,Reagan Republican
+1980,California,45,Ronald Reagan,45,Jimmy Carter,0,538,Reagan home state
+1980,Colorado,7,Ronald Reagan,7,Jimmy Carter,0,538,Reagan Republican
+1980,Connecticut,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican
+1980,Delaware,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+1980,District of Columbia,3,Jimmy Carter,3,Ronald Reagan,0,538,Carter Democrat
+1980,Florida,17,Ronald Reagan,17,Jimmy Carter,0,538,Reagan Republican
+1980,Georgia,12,Jimmy Carter,12,Ronald Reagan,0,538,Carter home state
+1980,Hawaii,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat
+1980,Idaho,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,Illinois,26,Ronald Reagan,26,Jimmy Carter,0,538,Reagan Republican
+1980,Indiana,13,Ronald Reagan,13,Jimmy Carter,0,538,Reagan Republican
+1980,Iowa,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican
+1980,Kansas,7,Ronald Reagan,7,Jimmy Carter,0,538,Reagan Republican
+1980,Kentucky,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican
+1980,Louisiana,10,Ronald Reagan,10,Jimmy Carter,0,538,Reagan Republican
+1980,Maine,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,Maryland,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat
+1980,Massachusetts,14,Ronald Reagan,14,Jimmy Carter,0,538,Reagan Republican
+1980,Michigan,21,Ronald Reagan,21,Jimmy Carter,0,538,Reagan Republican
+1980,Minnesota,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat
+1980,Mississippi,7,Ronald Reagan,7,Jimmy Carter,0,538,Reagan Republican
+1980,Missouri,12,Ronald Reagan,12,Jimmy Carter,0,538,Reagan Republican
+1980,Montana,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,Nebraska,5,Ronald Reagan,5,Jimmy Carter,0,538,Reagan Republican
+1980,Nevada,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+1980,New Hampshire,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,New Jersey,17,Ronald Reagan,17,Jimmy Carter,0,538,Reagan Republican
+1980,New Mexico,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,New York,41,Ronald Reagan,41,Jimmy Carter,0,538,Reagan Republican
+1980,North Carolina,13,Ronald Reagan,13,Jimmy Carter,0,538,Reagan Republican
+1980,North Dakota,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+1980,Ohio,25,Ronald Reagan,25,Jimmy Carter,0,538,Reagan Republican
+1980,Oklahoma,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican
+1980,Oregon,6,Ronald Reagan,6,Jimmy Carter,0,538,Reagan Republican
+1980,Pennsylvania,27,Ronald Reagan,27,Jimmy Carter,0,538,Reagan Republican
+1980,Rhode Island,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat
+1980,South Carolina,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican
+1980,South Dakota,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,Tennessee,10,Ronald Reagan,10,Jimmy Carter,0,538,Reagan Republican
+1980,Texas,26,Ronald Reagan,26,Jimmy Carter,0,538,Reagan Republican
+1980,Utah,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican
+1980,Vermont,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+1980,Virginia,12,Ronald Reagan,12,Jimmy Carter,0,538,Reagan Republican
+1980,Washington,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican
+1980,West Virginia,6,Jimmy Carter,6,Ronald Reagan,0,538,Carter Democrat
+1980,Wisconsin,11,Ronald Reagan,11,Jimmy Carter,0,538,Reagan Republican
+1980,Wyoming,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican
+
+1984,Alabama,9,Ronald Reagan,9,Walter Mondale,0,538,Reagan Republican
+1984,Alaska,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+1984,Arizona,7,Ronald Reagan,7,Walter Mondale,0,538,Reagan Republican
+1984,Arkansas,6,Ronald Reagan,6,Walter Mondale,0,538,Reagan Republican
+1984,California,47,Ronald Reagan,47,Walter Mondale,0,538,Reagan Republican
+1984,Colorado,8,Ronald Reagan,8,Walter Mondale,0,538,Reagan Republican
+1984,Connecticut,8,Ronald Reagan,8,Walter Mondale,0,538,Reagan Republican
+1984,Delaware,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+1984,District of Columbia,3,Walter Mondale,3,Ronald Reagan,0,538,Mondale Democrat
+1984,Florida,21,Ronald Reagan,21,Walter Mondale,0,538,Reagan Republican
+1984,Georgia,12,Ronald Reagan,12,Walter Mondale,0,538,Reagan Republican
+1984,Hawaii,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,Idaho,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,Illinois,24,Ronald Reagan,24,Walter Mondale,0,538,Reagan Republican
+1984,Indiana,12,Ronald Reagan,12,Walter Mondale,0,538,Reagan Republican
+1984,Iowa,8,Ronald Reagan,8,Walter Mondale,0,538,Reagan Republican
+1984,Kansas,7,Ronald Reagan,7,Walter Mondale,0,538,Reagan Republican
+1984,Kentucky,9,Ronald Reagan,9,Walter Mondale,0,538,Reagan Republican
+1984,Louisiana,10,Ronald Reagan,10,Walter Mondale,0,538,Reagan Republican
+1984,Maine,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,Maryland,10,Ronald Reagan,10,Walter Mondale,0,538,Reagan Republican
+1984,Massachusetts,13,Ronald Reagan,13,Walter Mondale,0,538,Reagan Republican
+1984,Michigan,20,Ronald Reagan,20,Walter Mondale,0,538,Reagan Republican
+1984,Minnesota,10,Walter Mondale,10,Ronald Reagan,0,538,Mondale home state
+1984,Mississippi,7,Ronald Reagan,7,Walter Mondale,0,538,Reagan Republican
+1984,Missouri,11,Ronald Reagan,11,Walter Mondale,0,538,Reagan Republican
+1984,Montana,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,Nebraska,5,Ronald Reagan,5,Walter Mondale,0,538,Reagan Republican
+1984,Nevada,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,New Hampshire,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,New Jersey,16,Ronald Reagan,16,Walter Mondale,0,538,Reagan Republican
+1984,New Mexico,5,Ronald Reagan,5,Walter Mondale,0,538,Reagan Republican
+1984,New York,36,Ronald Reagan,36,Walter Mondale,0,538,Reagan Republican
+1984,North Carolina,13,Ronald Reagan,13,Walter Mondale,0,538,Reagan Republican
+1984,North Dakota,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+1984,Ohio,23,Ronald Reagan,23,Walter Mondale,0,538,Reagan Republican
+1984,Oklahoma,8,Ronald Reagan,8,Walter Mondale,0,538,Reagan Republican
+1984,Oregon,7,Ronald Reagan,7,Walter Mondale,0,538,Reagan Republican
+1984,Pennsylvania,25,Ronald Reagan,25,Walter Mondale,0,538,Reagan Republican
+1984,Rhode Island,4,Ronald Reagan,4,Walter Mondale,0,538,Reagan Republican
+1984,South Carolina,8,Ronald Reagan,8,Walter Mondale,0,538,Reagan Republican
+1984,South Dakota,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+1984,Tennessee,11,Ronald Reagan,11,Walter Mondale,0,538,Reagan Republican
+1984,Texas,29,Ronald Reagan,29,Walter Mondale,0,538,Reagan Republican
+1984,Utah,5,Ronald Reagan,5,Walter Mondale,0,538,Reagan Republican
+1984,Vermont,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+1984,Virginia,12,Ronald Reagan,12,Walter Mondale,0,538,Reagan Republican
+1984,Washington,10,Ronald Reagan,10,Walter Mondale,0,538,Reagan Republican
+1984,West Virginia,6,Ronald Reagan,6,Walter Mondale,0,538,Reagan Republican
+1984,Wisconsin,11,Ronald Reagan,11,Walter Mondale,0,538,Reagan Republican
+1984,Wyoming,3,Ronald Reagan,3,Walter Mondale,0,538,Reagan Republican
+
+1988,Alabama,9,George H.W. Bush,9,Michael Dukakis,0,538,Bush Republican
+1988,Alaska,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+1988,Arizona,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican
+1988,Arkansas,6,George H.W. Bush,6,Michael Dukakis,0,538,Bush Republican
+1988,California,47,George H.W. Bush,47,Michael Dukakis,0,538,Bush Republican
+1988,Colorado,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican
+1988,Connecticut,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican
+1988,Delaware,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+1988,District of Columbia,3,Michael Dukakis,3,George H.W. Bush,0,538,Dukakis Democrat
+1988,Florida,21,George H.W. Bush,21,Michael Dukakis,0,538,Bush Republican
+1988,Georgia,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican
+1988,Hawaii,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat
+1988,Idaho,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican
+1988,Illinois,24,George H.W. Bush,24,Michael Dukakis,0,538,Bush Republican
+1988,Indiana,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican
+1988,Iowa,8,Michael Dukakis,7,George H.W. Bush,0,538,1 faithless elector
+1988,Kansas,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican
+1988,Kentucky,9,George H.W. Bush,9,Michael Dukakis,0,538,Bush Republican
+1988,Louisiana,10,George H.W. Bush,10,Michael Dukakis,0,538,Bush Republican
+1988,Maine,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican
+1988,Maryland,10,George H.W. Bush,10,Michael Dukakis,0,538,Bush Republican
+1988,Massachusetts,13,Michael Dukakis,13,George H.W. Bush,0,538,Dukakis home state
+1988,Michigan,20,George H.W. Bush,20,Michael Dukakis,0,538,Bush Republican
+1988,Minnesota,10,Michael Dukakis,10,George H.W. Bush,0,538,Dukakis Democrat
+1988,Mississippi,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican
+1988,Missouri,11,George H.W. Bush,11,Michael Dukakis,0,538,Bush Republican
+1988,Montana,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican
+1988,Nebraska,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican
+1988,Nevada,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican
+1988,New Hampshire,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican
+1988,New Jersey,16,George H.W. Bush,16,Michael Dukakis,0,538,Bush Republican
+1988,New Mexico,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican
+1988,New York,36,Michael Dukakis,36,George H.W. Bush,0,538,Dukakis Democrat
+1988,North Carolina,13,George H.W. Bush,13,Michael Dukakis,0,538,Bush Republican
+1988,North Dakota,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+1988,Ohio,23,George H.W. Bush,23,Michael Dukakis,0,538,Bush Republican
+1988,Oklahoma,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican
+1988,Oregon,7,Michael Dukakis,7,George H.W. Bush,0,538,Dukakis Democrat
+1988,Pennsylvania,25,George H.W. Bush,25,Michael Dukakis,0,538,Bush Republican
+1988,Rhode Island,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat
+1988,South Carolina,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican
+1988,South Dakota,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+1988,Tennessee,11,George H.W. Bush,11,Michael Dukakis,0,538,Bush Republican
+1988,Texas,29,George H.W. Bush,29,Michael Dukakis,0,538,Bush home state
+1988,Utah,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican
+1988,Vermont,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+1988,Virginia,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican
+1988,Washington,10,Michael Dukakis,9,George H.W. Bush,0,538,1 faithless elector
+1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector
+1988,Wisconsin,11,Michael Dukakis,11,George H.W. Bush,0,538,Dukakis Democrat
+1988,Wyoming,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican
+
+1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican
+1992,Alaska,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican
+1992,Arizona,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican
+1992,Arkansas,6,Bill Clinton,6,George H.W. Bush,0,538,Clinton home state
+1992,California,54,Bill Clinton,54,George H.W. Bush,0,538,Clinton Democrat
+1992,Colorado,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat
+1992,Connecticut,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat
+1992,Delaware,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat
+1992,District of Columbia,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat
+1992,Florida,25,George H.W. Bush,25,Bill Clinton,0,538,Bush Republican
+1992,Georgia,13,Bill Clinton,13,George H.W. Bush,0,538,Clinton Democrat
+1992,Hawaii,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat
+1992,Idaho,4,George H.W. Bush,4,Bill Clinton,0,538,Bush Republican
+1992,Illinois,22,Bill Clinton,22,George H.W. Bush,0,538,Clinton Democrat
+1992,Indiana,12,George H.W. Bush,12,Bill Clinton,0,538,Bush Republican
+1992,Iowa,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat
+1992,Kansas,6,George H.W. Bush,6,Bill Clinton,0,538,Bush Republican
+1992,Kentucky,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat
+1992,Louisiana,9,Bill Clinton,9,George H.W. Bush,0,538,Clinton Democrat
+1992,Maine,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat
+1992,Maryland,10,Bill Clinton,10,George H.W. Bush,0,538,Clinton Democrat
+1992,Massachusetts,12,Bill Clinton,12,George H.W. Bush,0,538,Clinton Democrat
+1992,Michigan,18,Bill Clinton,18,George H.W. Bush,0,538,Clinton Democrat
+1992,Minnesota,10,Bill Clinton,10,George H.W. Bush,0,538,Clinton Democrat
+1992,Mississippi,7,George H.W. Bush,7,Bill Clinton,0,538,Bush Republican
+1992,Missouri,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat
+1992,Montana,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat
+1992,Nebraska,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican
+1992,Nevada,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat
+1992,New Hampshire,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat
+1992,New Jersey,15,Bill Clinton,15,George H.W. Bush,0,538,Clinton Democrat
+1992,New Mexico,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat
+1992,New York,33,Bill Clinton,33,George H.W. Bush,0,538,Clinton Democrat
+1992,North Carolina,14,George H.W. Bush,14,Bill Clinton,0,538,Bush Republican
+1992,North Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican
+1992,Ohio,21,Bill Clinton,21,George H.W. Bush,0,538,Clinton Democrat
+1992,Oklahoma,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican
+1992,Oregon,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat
+1992,Pennsylvania,23,Bill Clinton,23,George H.W. Bush,0,538,Clinton Democrat
+1992,Rhode Island,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat
+1992,South Carolina,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican
+1992,South Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican
+1992,Tennessee,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat
+1992,Texas,32,George H.W. Bush,32,Bill Clinton,0,538,Bush home state
+1992,Utah,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican
+1992,Vermont,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat
+1992,Virginia,13,George H.W. Bush,13,Bill Clinton,0,538,Bush Republican
+1992,Washington,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat
+1992,West Virginia,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat
+1992,Wisconsin,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat
+1992,Wyoming,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican
+
+1996,Alabama,9,Bob Dole,9,Bill Clinton,0,538,Dole Republican
+1996,Alaska,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican
+1996,Arizona,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat
+1996,Arkansas,6,Bill Clinton,6,Bob Dole,0,538,Clinton home state
+1996,California,54,Bill Clinton,54,Bob Dole,0,538,Clinton Democrat
+1996,Colorado,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican
+1996,Connecticut,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat
+1996,Delaware,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat
+1996,District of Columbia,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat
+1996,Florida,25,Bill Clinton,25,Bob Dole,0,538,Clinton Democrat
+1996,Georgia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican
+1996,Hawaii,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat
+1996,Idaho,4,Bob Dole,4,Bill Clinton,0,538,Dole Republican
+1996,Illinois,22,Bill Clinton,22,Bob Dole,0,538,Clinton Democrat
+1996,Indiana,12,Bob Dole,12,Bill Clinton,0,538,Dole Republican
+1996,Iowa,7,Bill Clinton,7,Bob Dole,0,538,Clinton Democrat
+1996,Kansas,6,Bob Dole,6,Bill Clinton,0,538,Dole home state
+1996,Kentucky,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat
+1996,Louisiana,9,Bill Clinton,9,Bob Dole,0,538,Clinton Democrat
+1996,Maine,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat
+1996,Maryland,10,Bill Clinton,10,Bob Dole,0,538,Clinton Democrat
+1996,Massachusetts,12,Bill Clinton,12,Bob Dole,0,538,Clinton Democrat
+1996,Michigan,18,Bill Clinton,18,Bob Dole,0,538,Clinton Democrat
+1996,Minnesota,10,Bill Clinton,10,Bob Dole,0,538,Clinton Democrat
+1996,Mississippi,7,Bob Dole,7,Bill Clinton,0,538,Dole Republican
+1996,Missouri,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat
+1996,Montana,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican
+1996,Nebraska,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican
+1996,Nevada,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat
+1996,New Hampshire,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat
+1996,New Jersey,15,Bill Clinton,15,Bob Dole,0,538,Clinton Democrat
+1996,New Mexico,5,Bill Clinton,5,Bob Dole,0,538,Clinton Democrat
+1996,New York,33,Bill Clinton,33,Bob Dole,0,538,Clinton Democrat
+1996,North Carolina,14,Bob Dole,14,Bill Clinton,0,538,Dole Republican
+1996,North Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican
+1996,Ohio,21,Bill Clinton,21,Bob Dole,0,538,Clinton Democrat
+1996,Oklahoma,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican
+1996,Oregon,7,Bill Clinton,7,Bob Dole,0,538,Clinton Democrat
+1996,Pennsylvania,23,Bill Clinton,23,Bob Dole,0,538,Clinton Democrat
+1996,Rhode Island,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat
+1996,South Carolina,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican
+1996,South Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican
+1996,Tennessee,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat
+1996,Texas,32,Bob Dole,32,Bill Clinton,0,538,Dole Republican
+1996,Utah,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican
+1996,Vermont,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat
+1996,Virginia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican
+1996,Washington,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat
+1996,West Virginia,5,Bill Clinton,5,Bob Dole,0,538,Clinton Democrat
+1996,Wisconsin,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat
+1996,Wyoming,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican
+
+2000,Alabama,9,George W. Bush,9,Al Gore,0,538,Bush Republican
+2000,Alaska,3,George W. Bush,3,Al Gore,0,538,Bush Republican
+2000,Arizona,8,George W. Bush,8,Al Gore,0,538,Bush Republican
+2000,Arkansas,6,George W. Bush,6,Al Gore,0,538,Bush Republican
+2000,California,54,Al Gore,54,George W. Bush,0,538,Gore Democrat
+2000,Colorado,8,George W. Bush,8,Al Gore,0,538,Bush Republican
+2000,Connecticut,8,Al Gore,8,George W. Bush,0,538,Gore Democrat
+2000,Delaware,3,Al Gore,3,George W. Bush,0,538,Gore Democrat
+2000,District of Columbia,3,Al Gore,2,George W. Bush,0,538,1 abstention
+2000,Florida,25,George W. Bush,25,Al Gore,0,538,Disputed; awarded to Bush
+2000,Georgia,13,George W. Bush,13,Al Gore,0,538,Bush Republican
+2000,Hawaii,4,Al Gore,4,George W. Bush,0,538,Gore Democrat
+2000,Idaho,4,George W. Bush,4,Al Gore,0,538,Bush Republican
+2000,Illinois,22,Al Gore,22,George W. Bush,0,538,Gore Democrat
+2000,Indiana,12,George W. Bush,12,Al Gore,0,538,Bush Republican
+2000,Iowa,7,Al Gore,7,George W. Bush,0,538,Gore Democrat
+2000,Kansas,6,George W. Bush,6,Al Gore,0,538,Bush Republican
+2000,Kentucky,8,George W. Bush,8,Al Gore,0,538,Bush Republican
+2000,Louisiana,9,George W. Bush,9,Al Gore,0,538,Bush Republican
+2000,Maine,4,Al Gore,4,George W. Bush,0,538,Gore Democrat
+2000,Maryland,10,Al Gore,10,George W. Bush,0,538,Gore Democrat
+2000,Massachusetts,12,Al Gore,12,George W. Bush,0,538,Gore Democrat
+2000,Michigan,18,Al Gore,18,George W. Bush,0,538,Gore Democrat
+2000,Minnesota,10,Al Gore,10,George W. Bush,0,538,Gore Democrat
+2000,Mississippi,7,George W. Bush,7,Al Gore,0,538,Bush Republican
+2000,Missouri,11,George W. Bush,11,Al Gore,0,538,Bush Republican
+2000,Montana,3,George W. Bush,3,Al Gore,0,538,Bush Republican
+2000,Nebraska,5,George W. Bush,5,Al Gore,0,538,Bush Republican
+2000,Nevada,4,George W. Bush,4,Al Gore,0,538,Bush Republican
+2000,New Hampshire,4,George W. Bush,4,Al Gore,0,538,Bush Republican
+2000,New Jersey,15,Al Gore,15,George W. Bush,0,538,Gore Democrat
+2000,New Mexico,5,Al Gore,5,George W. Bush,0,538,Gore Democrat
+2000,New York,33,Al Gore,33,George W. Bush,0,538,Gore Democrat
+2000,North Carolina,14,George W. Bush,14,Al Gore,0,538,Bush Republican
+2000,North Dakota,3,George W. Bush,3,Al Gore,0,538,Bush Republican
+2000,Ohio,21,George W. Bush,21,Al Gore,0,538,Bush Republican
+2000,Oklahoma,8,George W. Bush,8,Al Gore,0,538,Bush Republican
+2000,Oregon,7,Al Gore,7,George W. Bush,0,538,Gore Democrat
+2000,Pennsylvania,23,Al Gore,23,George W. Bush,0,538,Gore Democrat
+2000,Rhode Island,4,Al Gore,4,George W. Bush,0,538,Gore Democrat
+2000,South Carolina,8,George W. Bush,8,Al Gore,0,538,Bush Republican
+2000,South Dakota,3,George W. Bush,3,Al Gore,0,538,Bush Republican
+2000,Tennessee,11,George W. Bush,11,Al Gore,0,538,Gore home state lost
+2000,Texas,32,George W. Bush,32,Al Gore,0,538,Bush home state
+2000,Utah,5,George W. Bush,5,Al Gore,0,538,Bush Republican
+2000,Vermont,3,Al Gore,3,George W. Bush,0,538,Gore Democrat
+2000,Virginia,13,George W. Bush,13,Al Gore,0,538,Bush Republican
+2000,Washington,11,Al Gore,11,George W. Bush,0,538,Gore Democrat
+2000,West Virginia,5,George W. Bush,5,Al Gore,0,538,Bush Republican
+2000,Wisconsin,11,Al Gore,11,George W. Bush,0,538,Gore Democrat
+2000,Wyoming,3,George W. Bush,3,Al Gore,0,538,Bush Republican
+
+2004,Alabama,9,George W. Bush,9,John Kerry,0,538,Bush Republican
+2004,Alaska,3,George W. Bush,3,John Kerry,0,538,Bush Republican
+2004,Arizona,10,George W. Bush,10,John Kerry,0,538,Bush Republican
+2004,Arkansas,6,George W. Bush,6,John Kerry,0,538,Bush Republican
+2004,California,55,John Kerry,55,George W. Bush,0,538,Kerry Democrat
+2004,Colorado,9,George W. Bush,9,John Kerry,0,538,Bush Republican
+2004,Connecticut,7,John Kerry,7,George W. Bush,0,538,Kerry Democrat
+2004,Delaware,3,John Kerry,3,George W. Bush,0,538,Kerry Democrat
+2004,District of Columbia,3,John Kerry,3,George W. Bush,0,538,Kerry Democrat
+2004,Florida,27,George W. Bush,27,John Kerry,0,538,Bush Republican
+2004,Georgia,15,George W. Bush,15,John Kerry,0,538,Bush Republican
+2004,Hawaii,4,John Kerry,4,George W. Bush,0,538,Kerry Democrat
+2004,Idaho,4,George W. Bush,4,John Kerry,0,538,Bush Republican
+2004,Illinois,21,John Kerry,21,George W. Bush,0,538,Kerry Democrat
+2004,Indiana,11,George W. Bush,11,John Kerry,0,538,Bush Republican
+2004,Iowa,7,George W. Bush,7,John Kerry,0,538,Bush Republican
+2004,Kansas,6,George W. Bush,6,John Kerry,0,538,Bush Republican
+2004,Kentucky,8,George W. Bush,8,John Kerry,0,538,Bush Republican
+2004,Louisiana,9,George W. Bush,9,John Kerry,0,538,Bush Republican
+2004,Maine,4,John Kerry,4,George W. Bush,0,538,Kerry Democrat
+2004,Maryland,10,John Kerry,10,George W. Bush,0,538,Kerry Democrat
+2004,Massachusetts,12,John Kerry,12,George W. Bush,0,538,Kerry home state
+2004,Michigan,17,John Kerry,17,George W. Bush,0,538,Kerry Democrat
+2004,Minnesota,10,John Kerry,9,George W. Bush,0,538,1 faithless elector
+2004,Mississippi,6,George W. Bush,6,John Kerry,0,538,Bush Republican
+2004,Missouri,11,George W. Bush,11,John Kerry,0,538,Bush Republican
+2004,Montana,3,George W. Bush,3,John Kerry,0,538,Bush Republican
+2004,Nebraska,5,George W. Bush,5,John Kerry,0,538,Bush Republican
+2004,Nevada,5,George W. Bush,5,John Kerry,0,538,Bush Republican
+2004,New Hampshire,4,John Kerry,4,George W. Bush,0,538,Kerry Democrat
+2004,New Jersey,15,John Kerry,15,George W. Bush,0,538,Kerry Democrat
+2004,New Mexico,5,George W. Bush,5,John Kerry,0,538,Bush Republican
+2004,New York,31,John Kerry,31,George W. Bush,0,538,Kerry Democrat
+2004,North Carolina,15,George W. Bush,15,John Kerry,0,538,Bush Republican
+2004,North Dakota,3,George W. Bush,3,John Kerry,0,538,Bush Republican
+2004,Ohio,20,George W. Bush,20,John Kerry,0,538,Bush Republican
+2004,Oklahoma,7,George W. Bush,7,John Kerry,0,538,Bush Republican
+2004,Oregon,7,John Kerry,7,George W. Bush,0,538,Kerry Democrat
+2004,Pennsylvania,21,John Kerry,21,George W. Bush,0,538,Kerry Democrat
+2004,Rhode Island,4,John Kerry,4,George W. Bush,0,538,Kerry Democrat
+2004,South Carolina,8,George W. Bush,8,John Kerry,0,538,Bush Republican
+2004,South Dakota,3,George W. Bush,3,John Kerry,0,538,Bush Republican
+2004,Tennessee,11,George W. Bush,11,John Kerry,0,538,Bush Republican
+2004,Texas,34,George W. Bush,34,John Kerry,0,538,Bush home state
+2004,Utah,5,George W. Bush,5,John Kerry,0,538,Bush Republican
+2004,Vermont,3,John Kerry,3,George W. Bush,0,538,Kerry Democrat
+2004,Virginia,13,George W. Bush,13,John Kerry,0,538,Bush Republican
+2004,Washington,11,John Kerry,11,George W. Bush,0,538,Kerry Democrat
+2004,West Virginia,5,George W. Bush,5,John Kerry,0,538,Bush Republican
+2004,Wisconsin,10,John Kerry,10,George W. Bush,0,538,Kerry Democrat
+2004,Wyoming,3,George W. Bush,3,John Kerry,0,538,Bush Republican
+
+2008,Alabama,9,John McCain,9,Barack Obama,0,538,McCain Republican
+2008,Alaska,3,John McCain,3,Barack Obama,0,538,McCain Republican
+2008,Arizona,10,John McCain,10,Barack Obama,0,538,McCain home state
+2008,Arkansas,6,John McCain,6,Barack Obama,0,538,McCain Republican
+2008,California,55,Barack Obama,55,John McCain,0,538,Obama Democrat
+2008,Colorado,9,Barack Obama,9,John McCain,0,538,Obama Democrat
+2008,Connecticut,7,Barack Obama,7,John McCain,0,538,Obama Democrat
+2008,Delaware,3,Barack Obama,3,John McCain,0,538,Obama Democrat
+2008,District of Columbia,3,Barack Obama,3,John McCain,0,538,Obama Democrat
+2008,Florida,27,Barack Obama,27,John McCain,0,538,Obama Democrat
+2008,Georgia,15,John McCain,15,Barack Obama,0,538,McCain Republican
+2008,Hawaii,4,Barack Obama,4,John McCain,0,538,Obama Democrat
+2008,Idaho,4,John McCain,4,Barack Obama,0,538,McCain Republican
+2008,Illinois,21,Barack Obama,21,John McCain,0,538,Obama home state
+2008,Indiana,11,Barack Obama,11,John McCain,0,538,Obama Democrat
+2008,Iowa,7,Barack Obama,7,John McCain,0,538,Obama Democrat
+2008,Kansas,6,John McCain,6,Barack Obama,0,538,McCain Republican
+2008,Kentucky,8,John McCain,8,Barack Obama,0,538,McCain Republican
+2008,Louisiana,9,John McCain,9,Barack Obama,0,538,McCain Republican
+2008,Maine,4,Barack Obama,4,John McCain,0,538,Obama Democrat
+2008,Maryland,10,Barack Obama,10,John McCain,0,538,Obama Democrat
+2008,Massachusetts,12,Barack Obama,12,John McCain,0,538,Obama Democrat
+2008,Michigan,17,Barack Obama,17,John McCain,0,538,Obama Democrat
+2008,Minnesota,10,Barack Obama,10,John McCain,0,538,Obama Democrat
+2008,Mississippi,6,John McCain,6,Barack Obama,0,538,McCain Republican
+2008,Missouri,11,John McCain,11,Barack Obama,0,538,McCain Republican
+2008,Montana,3,John McCain,3,Barack Obama,0,538,McCain Republican
+2008,Nebraska,5,John McCain,4,Barack Obama,1,538,Split by district
+2008,Nevada,5,Barack Obama,5,John McCain,0,538,Obama Democrat
+2008,New Hampshire,4,Barack Obama,4,John McCain,0,538,Obama Democrat
+2008,New Jersey,15,Barack Obama,15,John McCain,0,538,Obama Democrat
+2008,New Mexico,5,Barack Obama,5,John McCain,0,538,Obama Democrat
+2008,New York,31,Barack Obama,31,John McCain,0,538,Obama Democrat
+2008,North Carolina,15,Barack Obama,15,John McCain,0,538,Obama Democrat
+2008,North Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican
+2008,Ohio,20,Barack Obama,20,John McCain,0,538,Obama Democrat
+2008,Oklahoma,7,John McCain,7,Barack Obama,0,538,McCain Republican
+2008,Oregon,7,Barack Obama,7,John McCain,0,538,Obama Democrat
+2008,Pennsylvania,21,Barack Obama,21,John McCain,0,538,Obama Democrat
+2008,Rhode Island,4,Barack Obama,4,John McCain,0,538,Obama Democrat
+2008,South Carolina,8,John McCain,8,Barack Obama,0,538,McCain Republican
+2008,South Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican
+2008,Tennessee,11,John McCain,11,Barack Obama,0,538,McCain Republican
+2008,Texas,34,John McCain,34,Barack Obama,0,538,McCain Republican
+2008,Utah,5,John McCain,5,Barack Obama,0,538,McCain Republican
+2008,Vermont,3,Barack Obama,3,John McCain,0,538,Obama Democrat
+2008,Virginia,13,Barack Obama,13,John McCain,0,538,Obama Democrat
+2008,Washington,11,Barack Obama,11,John McCain,0,538,Obama Democrat
+2008,West Virginia,5,John McCain,5,Barack Obama,0,538,McCain Republican
+2008,Wisconsin,10,Barack Obama,10,John McCain,0,538,Obama Democrat
+2008,Wyoming,3,John McCain,3,Barack Obama,0,538,McCain Republican
+
+2012,Alabama,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican
+2012,Alaska,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican
+2012,Arizona,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican
+2012,Arkansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican
+2012,California,55,Barack Obama,55,Mitt Romney,0,538,Obama Democrat
+2012,Colorado,9,Barack Obama,9,Mitt Romney,0,538,Obama Democrat
+2012,Connecticut,7,Barack Obama,7,Mitt Romney,0,538,Obama Democrat
+2012,Delaware,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat
+2012,District of Columbia,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat
+2012,Florida,29,Barack Obama,29,Mitt Romney,0,538,Obama Democrat
+2012,Georgia,16,Mitt Romney,16,Barack Obama,0,538,Romney Republican
+2012,Hawaii,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat
+2012,Idaho,4,Mitt Romney,4,Barack Obama,0,538,Romney Republican
+2012,Illinois,20,Barack Obama,20,Mitt Romney,0,538,Obama Democrat
+2012,Indiana,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican
+2012,Iowa,6,Barack Obama,6,Mitt Romney,0,538,Obama Democrat
+2012,Kansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican
+2012,Kentucky,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican
+2012,Louisiana,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican
+2012,Maine,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat
+2012,Maryland,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat
+2012,Massachusetts,11,Barack Obama,11,Mitt Romney,0,538,Romney home state lost
+2012,Michigan,16,Barack Obama,16,Mitt Romney,0,538,Obama Democrat
+2012,Minnesota,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat
+2012,Mississippi,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican
+2012,Missouri,10,Mitt Romney,10,Barack Obama,0,538,Romney Republican
+2012,Montana,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican
+2012,Nebraska,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican
+2012,Nevada,6,Barack Obama,6,Mitt Romney,0,538,Obama Democrat
+2012,New Hampshire,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat
+2012,New Jersey,14,Barack Obama,14,Mitt Romney,0,538,Obama Democrat
+2012,New Mexico,5,Barack Obama,5,Mitt Romney,0,538,Obama Democrat
+2012,New York,29,Barack Obama,29,Mitt Romney,0,538,Obama Democrat
+2012,North Carolina,15,Mitt Romney,15,Barack Obama,0,538,Romney Republican
+2012,North Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican
+2012,Ohio,18,Barack Obama,18,Mitt Romney,0,538,Obama Democrat
+2012,Oklahoma,7,Mitt Romney,7,Barack Obama,0,538,Romney Republican
+2012,Oregon,7,Barack Obama,7,Mitt Romney,0,538,Obama Democrat
+2012,Pennsylvania,20,Barack Obama,20,Mitt Romney,0,538,Obama Democrat
+2012,Rhode Island,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat
+2012,South Carolina,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican
+2012,South Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican
+2012,Tennessee,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican
+2012,Texas,38,Mitt Romney,38,Barack Obama,0,538,Romney Republican
+2012,Utah,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican
+2012,Vermont,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat
+2012,Virginia,13,Barack Obama,13,Mitt Romney,0,538,Obama Democrat
+2012,Washington,12,Barack Obama,12,Mitt Romney,0,538,Obama Democrat
+2012,West Virginia,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican
+2012,Wisconsin,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat
+2012,Wyoming,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican
+
+2016,Alabama,9,Donald Trump,9,Hillary Clinton,0,538,Trump Republican
+2016,Alaska,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican
+2016,Arizona,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican
+2016,Arkansas,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican
+2016,California,55,Hillary Clinton,55,Donald Trump,0,538,Clinton Democrat
+2016,Colorado,9,Hillary Clinton,9,Donald Trump,0,538,Clinton Democrat
+2016,Connecticut,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat
+2016,Delaware,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat
+2016,District of Columbia,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat
+2016,Florida,29,Donald Trump,29,Hillary Clinton,0,538,Trump Republican
+2016,Georgia,16,Donald Trump,16,Hillary Clinton,0,538,Trump Republican
+2016,Hawaii,4,Hillary Clinton,3,Donald Trump,0,538,1 faithless elector
+2016,Idaho,4,Donald Trump,4,Hillary Clinton,0,538,Trump Republican
+2016,Illinois,20,Hillary Clinton,20,Donald Trump,0,538,Clinton Democrat
+2016,Indiana,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican
+2016,Iowa,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican
+2016,Kansas,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican
+2016,Kentucky,8,Donald Trump,8,Hillary Clinton,0,538,Trump Republican
+2016,Louisiana,8,Donald Trump,8,Hillary Clinton,0,538,Trump Republican
+2016,Maine,4,Hillary Clinton,3,Donald Trump,1,538,Split by district
+2016,Maryland,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat
+2016,Massachusetts,11,Hillary Clinton,11,Donald Trump,0,538,Clinton Democrat
+2016,Michigan,16,Donald Trump,16,Hillary Clinton,0,538,Trump Republican
+2016,Minnesota,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat
+2016,Mississippi,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican
+2016,Missouri,10,Donald Trump,10,Hillary Clinton,0,538,Trump Republican
+2016,Montana,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican
+2016,Nebraska,5,Donald Trump,5,Hillary Clinton,0,538,Trump Republican
+2016,Nevada,6,Hillary Clinton,6,Donald Trump,0,538,Clinton Democrat
+2016,New Hampshire,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat
+2016,New Jersey,14,Hillary Clinton,14,Donald Trump,0,538,Clinton Democrat
+2016,New Mexico,5,Hillary Clinton,5,Donald Trump,0,538,Clinton Democrat
+2016,New York,29,Hillary Clinton,29,Donald Trump,0,538,Clinton Democrat
+2016,North Carolina,15,Donald Trump,15,Hillary Clinton,0,538,Trump Republican
+2016,North Dakota,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican
+2016,Ohio,18,Donald Trump,18,Hillary Clinton,0,538,Trump Republican
+2016,Oklahoma,7,Donald Trump,7,Hillary Clinton,0,538,Trump Republican
+2016,Oregon,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat
+2016,Pennsylvania,20,Donald Trump,20,Hillary Clinton,0,538,Trump Republican
+2016,Rhode Island,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat
+2016,South Carolina,9,Donald Trump,9,Hillary Clinton,0,538,Trump Republican
+2016,South Dakota,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican
+2016,Tennessee,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican
+2016,Texas,38,Donald Trump,36,Hillary Clinton,0,538,2 faithless electors
+2016,Utah,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican
+2016,Vermont,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat
+2016,Virginia,13,Hillary Clinton,13,Donald Trump,0,538,Clinton Democrat
+2016,Washington,12,Hillary Clinton,8,Colin Powell,3,538,4 faithless electors
+2016,West Virginia,5,Donald Trump,5,Hillary Clinton,0,538,Trump Republican
+2016,Wisconsin,10,Donald Trump,10,Hillary Clinton,0,538,Trump Republican
+2016,Wyoming,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican
+
+2020,Alabama,9,Donald Trump,9,Joe Biden,0,538,Trump Republican
+2020,Alaska,3,Donald Trump,3,Joe Biden,0,538,Trump Republican
+2020,Arizona,11,Joe Biden,11,Donald Trump,0,538,Biden Democrat
+2020,Arkansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican
+2020,California,55,Joe Biden,55,Donald Trump,0,538,Biden Democrat
+2020,Colorado,9,Joe Biden,9,Donald Trump,0,538,Biden Democrat
+2020,Connecticut,7,Joe Biden,7,Donald Trump,0,538,Biden Democrat
+2020,Delaware,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat
+2020,District of Columbia,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat
+2020,Florida,29,Donald Trump,29,Joe Biden,0,538,Trump Republican
+2020,Georgia,16,Joe Biden,16,Donald Trump,0,538,Biden Democrat
+2020,Hawaii,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat
+2020,Idaho,4,Donald Trump,4,Joe Biden,0,538,Trump Republican
+2020,Illinois,20,Joe Biden,20,Donald Trump,0,538,Biden Democrat
+2020,Indiana,11,Donald Trump,11,Joe Biden,0,538,Trump Republican
+2020,Iowa,6,Donald Trump,6,Joe Biden,0,538,Trump Republican
+2020,Kansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican
+2020,Kentucky,8,Donald Trump,8,Joe Biden,0,538,Trump Republican
+2020,Louisiana,8,Donald Trump,8,Joe Biden,0,538,Trump Republican
+2020,Maine,4,Joe Biden,3,Donald Trump,1,538,Split by district
+2020,Maryland,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat
+2020,Massachusetts,11,Joe Biden,11,Donald Trump,0,538,Biden Democrat
+2020,Michigan,16,Joe Biden,16,Donald Trump,0,538,Biden Democrat
+2020,Minnesota,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat
+2020,Mississippi,6,Donald Trump,6,Joe Biden,0,538,Trump Republican
+2020,Missouri,10,Donald Trump,10,Joe Biden,0,538,Trump Republican
+2020,Montana,3,Donald Trump,3,Joe Biden,0,538,Trump Republican
+2020,Nebraska,5,Donald Trump,4,Joe Biden,1,538,Split by district
+2020,Nevada,6,Joe Biden,6,Donald Trump,0,538,Biden Democrat
+2020,New Hampshire,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat
+2020,New Jersey,14,Joe Biden,14,Donald Trump,0,538,Biden Democrat
+2020,New Mexico,5,Joe Biden,5,Donald Trump,0,538,Biden Democrat
+2020,New York,29,Joe Biden,29,Donald Trump,0,538,Biden Democrat
+2020,North Carolina,15,Donald Trump,15,Joe Biden,0,538,Trump Republican
+2020,North Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican
+2020,Ohio,18,Donald Trump,18,Joe Biden,0,538,Trump Republican
+2020,Oklahoma,7,Donald Trump,7,Joe Biden,0,538,Trump Republican
+2020,Oregon,7,Joe Biden,7,Donald Trump,0,538,Biden Democrat
+2020,Pennsylvania,20,Joe Biden,20,Donald Trump,0,538,Biden Democrat
+2020,Rhode Island,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat
+2020,South Carolina,9,Donald Trump,9,Joe Biden,0,538,Trump Republican
+2020,South Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican
+2020,Tennessee,11,Donald Trump,11,Joe Biden,0,538,Trump Republican
+2020,Texas,38,Donald Trump,38,Joe Biden,0,538,Trump Republican
+2020,Utah,6,Donald Trump,6,Joe Biden,0,538,Trump Republican
+2020,Vermont,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat
+2020,Virginia,13,Joe Biden,13,Donald Trump,0,538,Biden Democrat
+2020,Washington,12,Joe Biden,12,Donald Trump,0,538,Biden Democrat
+2020,West Virginia,5,Donald Trump,5,Joe Biden,0,538,Trump Republican
+2020,Wisconsin,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat
+2020,Wyoming,3,Donald Trump,3,Joe Biden,0,538,Trump Republican
+
+2024,Alabama,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican
+2024,Alaska,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican
+2024,Arizona,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican
+2024,Arkansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,California,54,Kamala Harris,54,Donald Trump,0,538,Harris Democrat
+2024,Colorado,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat
+2024,Connecticut,7,Kamala Harris,7,Donald Trump,0,538,Harris Democrat
+2024,Delaware,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat
+2024,District of Columbia,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat
+2024,Florida,30,Donald Trump,30,Kamala Harris,0,538,Trump Republican
+2024,Georgia,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican
+2024,Hawaii,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat
+2024,Idaho,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican
+2024,Illinois,19,Kamala Harris,19,Donald Trump,0,538,Harris Democrat
+2024,Indiana,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican
+2024,Iowa,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,Kansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,Kentucky,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican
+2024,Louisiana,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican
+2024,Maine,4,Kamala Harris,3,Donald Trump,1,538,Split by district
+2024,Maryland,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat
+2024,Massachusetts,11,Kamala Harris,11,Donald Trump,0,538,Harris Democrat
+2024,Michigan,15,Donald Trump,15,Kamala Harris,0,538,Trump Republican
+2024,Minnesota,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat
+2024,Mississippi,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,Missouri,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican
+2024,Montana,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican
+2024,Nebraska,5,Donald Trump,4,Kamala Harris,1,538,Split by district
+2024,Nevada,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,New Hampshire,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat
+2024,New Jersey,14,Kamala Harris,14,Donald Trump,0,538,Harris Democrat
+2024,New Mexico,5,Kamala Harris,5,Donald Trump,0,538,Harris Democrat
+2024,New York,28,Kamala Harris,28,Donald Trump,0,538,Harris Democrat
+2024,North Carolina,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican
+2024,North Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican
+2024,Ohio,17,Donald Trump,17,Kamala Harris,0,538,Trump Republican
+2024,Oklahoma,7,Donald Trump,7,Kamala Harris,0,538,Trump Republican
+2024,Oregon,8,Kamala Harris,8,Donald Trump,0,538,Harris Democrat
+2024,Pennsylvania,19,Donald Trump,19,Kamala Harris,0,538,Trump Republican
+2024,Rhode Island,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat
+2024,South Carolina,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican
+2024,South Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican
+2024,Tennessee,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican
+2024,Texas,40,Donald Trump,40,Kamala Harris,0,538,Trump Republican
+2024,Utah,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican
+2024,Vermont,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat
+2024,Virginia,13,Kamala Harris,13,Donald Trump,0,538,Harris Democrat
+2024,Washington,12,Kamala Harris,12,Donald Trump,0,538,Harris Democrat
+2024,West Virginia,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican
+2024,Wisconsin,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican
+2024,Wyoming,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican

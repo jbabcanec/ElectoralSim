@@ -1,0 +1,90 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  }
+  
+  body {
+    @apply bg-neutral-50 text-neutral-900 antialiased;
+  }
+}
+
+@layer components {
+  /* Map state styling */
+  .state-path {
+    @apply transition-all duration-200 cursor-pointer;
+  }
+  
+  .state-path:hover {
+    @apply brightness-110;
+  }
+  
+  /* Tooltip styling */
+  .tooltip {
+    @apply absolute pointer-events-none bg-white rounded-lg shadow-xl border border-neutral-200 p-4 z-50;
+    @apply animate-fade-in;
+  }
+  
+  /* Control button styling */
+  .control-button {
+    @apply px-4 py-2 rounded-lg font-medium transition-all duration-200;
+    @apply bg-white hover:bg-neutral-100 text-neutral-700 border border-neutral-300;
+    @apply focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2;
+  }
+  
+  .control-button.active {
+    @apply bg-blue-600 hover:bg-blue-700 text-white border-blue-600;
+  }
+  
+  /* Timeline slider */
+  .timeline-slider {
+    @apply w-full h-2 bg-neutral-200 rounded-lg appearance-none cursor-pointer;
+  }
+  
+  .timeline-slider::-webkit-slider-thumb {
+    @apply appearance-none w-5 h-5 bg-blue-600 rounded-full cursor-pointer;
+    @apply hover:bg-blue-700 transition-colors duration-200;
+  }
+  
+  .timeline-slider::-moz-range-thumb {
+    @apply w-5 h-5 bg-blue-600 rounded-full cursor-pointer border-0;
+    @apply hover:bg-blue-700 transition-colors duration-200;
+  }
+  
+  /* Legend items */
+  .legend-item {
+    @apply flex items-center gap-2 text-sm;
+  }
+  
+  .legend-swatch {
+    @apply w-4 h-4 rounded border border-neutral-300;
+  }
+  
+  /* Loading state */
+  .loading-spinner {
+    @apply inline-block w-8 h-8 border-4 border-neutral-300 border-t-blue-600 rounded-full;
+    animation: spin 1s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+}
+
+@layer utilities {
+  /* Custom utilities for D3 integration */
+  .svg-container {
+    @apply w-full h-full;
+  }
+  
+  .no-select {
+    user-select: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+  }
+}
