@@ -19,6 +19,11 @@ export interface YearData {
   runnerUp: string | null;
   winnerColor: string;
   exists: boolean;
+  isSplitState?: boolean;
+  winnerCandidate?: string | null;
+  runnerUpCandidate?: string | null;
+  winnerEV?: number | null;
+  runnerUpEV?: number | null;
 }
 
 export interface StateTimeline {

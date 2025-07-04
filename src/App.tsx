@@ -112,23 +112,21 @@ function App() {
   return (
     <div className="h-screen flex flex-col bg-neutral-50">
       {/* Header */}
-      <header className="bg-white shadow-sm border-b border-neutral-200 px-6 py-4">
-        <div className="max-w-7xl mx-auto">
-          <h1 className="text-2xl font-bold text-neutral-900">
-            Electoral Representation Visualizer
-          </h1>
-          <p className="text-sm text-neutral-600 mt-1">
-            Exploring the relationship between population and electoral votes (1789-2024)
-          </p>
-        </div>
-      </header>
-
-      {/* Main content */}
-      <div className="flex-1 flex overflow-hidden">
-        {/* Left Sidebar */}
-        <aside className="w-80 bg-white border-r border-neutral-200 overflow-y-auto">
-          <div className="p-6 space-y-6">
-            {/* Controls */}
+      <header className="bg-white shadow-sm border-b border-neutral-200">
+        <div className="max-w-7xl mx-auto px-6 py-4">
+          <div className="flex items-center justify-between mb-4">
+            <div>
+              <h1 className="text-2xl font-bold text-neutral-900">
+                Electoral Representation Visualizer
+              </h1>
+              <p className="text-sm text-neutral-600 mt-1">
+                Exploring the relationship between population and electoral votes (1789-2024)
+              </p>
+            </div>
+          </div>
+          
+          {/* Controls moved to header */}
+          <div className="border-t border-neutral-200 pt-4">
             <Controls
               viewMode={mapState.viewMode}
               onViewModeChange={handleViewModeChange}
@@ -137,8 +135,17 @@ function App() {
               states={config?.states || []}
               yearSummary={currentYearSummary}
               year={mapState.year}
+              stateTimelines={stateTimelines}
             />
+          </div>
+        </div>
+      </header>
 
+      {/* Main content */}
+      <div className="flex-1 flex overflow-hidden">
+        {/* Left Sidebar */}
+        <aside className="w-80 bg-white border-r border-neutral-200 overflow-y-auto">
+          <div className="p-6">
             {/* Info Panel */}
             <InfoPanel
               hoveredState={mapState.hoveredState}

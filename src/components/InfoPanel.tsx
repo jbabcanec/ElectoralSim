@@ -70,16 +70,57 @@ const InfoPanel: React.FC<InfoPanelProps> = ({
                       style={{ backgroundColor: stateData.winnerColor }}
                     />
                     <span className="text-neutral-600">Winner:</span>
-                    <span className="font-semibold">{stateData.winner}</span>
+                    <div className="font-semibold">
+                      {stateData.winnerCandidate && stateData.winnerCandidate !== 'nan' && stateData.winnerCandidate !== 'null' ? (
+                        <span>{stateData.winnerCandidate} ({stateData.winner})</span>
+                      ) : (
+                        <span>{stateData.winner}</span>
+                      )}
+                    </div>
                     {stateData.isSplitState && (
                       <span className="text-xs bg-yellow-100 text-yellow-800 px-1 py-0.5 rounded">
                         Split EVs
                       </span>
                     )}
                   </div>
-                  {stateData.runnerUp && (
+                  
+                  {/* Electoral Vote Breakdown */}
+                  {(stateData.winnerEV !== null || stateData.runnerUpEV !== null) && (
+                    <div className="mt-2 space-y-1">
+                      {stateData.winnerEV !== null && stateData.winnerEV !== stateData.electoralVotes && (
+                        <div className="text-xs text-neutral-600">
+                          {stateData.winnerCandidate || stateData.winner}: {stateData.winnerEV} EVs
+                        </div>
+                      )}
+                      {stateData.runnerUpEV !== null && stateData.runnerUpEV > 0 && (
+                        <div className="text-xs text-neutral-600">
+                          {stateData.runnerUpCandidate || stateData.runnerUp}: {stateData.runnerUpEV} EVs
+                        </div>
+                      )}
+                      {/* Check for faithless electors */}
+                      {(() => {
+                        const winnerEV = stateData.winnerEV || 0;
+                        const runnerUpEV = stateData.runnerUpEV || 0;
+                        const othersEV = stateData.electoralVotes - winnerEV - runnerUpEV;
+                        if (othersEV > 0) {
+                          return (
+                            <div className="text-xs text-neutral-600">
+                              Others (Faithless): {othersEV} EV{othersEV > 1 ? 's' : ''}
+                            </div>
+                          );
+                        }
+                        return null;
+                      })()}
+                    </div>
+                  )}
+                  
+                  {stateData.runnerUp && (!stateData.winnerEV || stateData.winnerEV === stateData.electoralVotes) && (
                     <div className="text-xs text-neutral-500 mt-1">
-                      Runner-up: {stateData.runnerUp}
+                      Runner-up: {stateData.runnerUpCandidate && stateData.runnerUpCandidate !== 'nan' && stateData.runnerUpCandidate !== 'null' ? (
+                        <span>{stateData.runnerUpCandidate} ({stateData.runnerUp})</span>
+                      ) : (
+                        <span>{stateData.runnerUp}</span>
+                      )}
                     </div>
                   )}
                 </div>

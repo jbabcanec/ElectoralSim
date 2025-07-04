@@ -1,8 +1,8 @@
 {
   "1789": {
     "year": 1789,
-    "totalStates": 10,
-    "totalElectoralVotes": 69,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
     "totalPopulation": null,
     "averagePopPerEV": null,
     "minPopPerEV": {
@@ -16,1542 +16,20 @@
     "parties": {
       "winner": {},
       "runnerUp": {
-        "Unknown": 10
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
       }
     }
   },
   "1792": {
     "year": 1792,
-    "totalStates": 15,
-    "totalElectoralVotes": 132,
-    "totalPopulation": 3973838,
-    "averagePopPerEV": 28657.307235449738,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 17221.0
-    },
-    "maxPopPerEV": {
-      "state": "Maryland",
-      "value": 40511.5
-    },
-    "parties": {
-      "winner": {
-        "Washington": 11,
-        "1792": 1
-      },
-      "runnerUp": {
-        "Unknown": 15
-      }
-    }
-  },
-  "1796": {
-    "year": 1796,
-    "totalStates": 16,
-    "totalElectoralVotes": 138,
-    "totalPopulation": 4439295,
-    "averagePopPerEV": 31558.38076719577,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 17250.75
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 40789.916666666664
-    },
-    "parties": {
-      "winner": {
-        "Federalist": 9,
-        "Republican": 3,
-        "Democratic-Republican": 3,
-        "1796": 1
-      },
-      "runnerUp": {
-        "Unknown": 13,
-        "Democratic": 3
-      }
-    }
-  },
-  "1800": {
-    "year": 1800,
-    "totalStates": 16,
-    "totalElectoralVotes": 138,
-    "totalPopulation": 5010352,
-    "averagePopPerEV": 35529.000210813494,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 17280.5
-    },
-    "maxPopPerEV": {
-      "state": "Kentucky",
-      "value": 55238.75
-    },
-    "parties": {
-      "winner": {
-        "Democratic-Republican": 6,
-        "Federalist": 5,
-        "Republican": 5
-      },
-      "runnerUp": {
-        "Unknown": 11,
-        "Democratic": 5
-      }
-    }
-  },
-  "1804": {
-    "year": 1804,
-    "totalStates": 17,
-    "totalElectoralVotes": 176,
-    "totalPopulation": 5597860,
-    "averagePopPerEV": 30997.796958898194,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 18061.5
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 38792.10526315789
-    },
-    "parties": {
-      "winner": {
-        "Republican": 10,
-        "Federalist": 3,
-        "Democratic-Republican": 2,
-        "effect": 1,
-        "1803": 1
-      },
-      "runnerUp": {
-        "Democratic": 10,
-        "Unknown": 7
-      }
-    }
-  },
-  "1808": {
-    "year": 1808,
-    "totalStates": 17,
-    "totalElectoralVotes": 176,
-    "totalPopulation": 6185372,
-    "averagePopPerEV": 34642.90289525899,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 18842.25
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 46581.52631578947
-    },
-    "parties": {
-      "winner": {
-        "Republican": 7,
-        "Federalist": 5,
-        "Democratic-Republican": 5
-      },
-      "runnerUp": {
-        "Unknown": 10,
-        "Democratic": 7
-      }
-    }
-  },
-  "1812": {
-    "year": 1812,
-    "totalStates": 18,
-    "totalElectoralVotes": 218,
-    "totalPopulation": 7166038,
-    "averagePopPerEV": 31629.253612659155,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 18172.25
-    },
-    "maxPopPerEV": {
-      "state": "South Carolina",
-      "value": 39330.90909090909
-    },
-    "parties": {
-      "winner": {
-        "Republican": 7,
-        "Federalist": 6,
-        "Democratic-Republican": 4,
-        "1812": 1
-      },
-      "runnerUp": {
-        "Unknown": 11,
-        "Democratic": 7
-      }
-    }
-  },
-  "1816": {
-    "year": 1816,
-    "totalStates": 19,
-    "totalElectoralVotes": 221,
-    "totalPopulation": 7925233,
-    "averagePopPerEV": 35440.1498991834,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 18179.75
-    },
-    "maxPopPerEV": {
-      "state": "Ohio",
-      "value": 55145.5
-    },
-    "parties": {
-      "winner": {
-        "Republican": 13,
-        "Federalist": 3,
-        "Democratic-Republican": 2,
-        "1816": 1
-      },
-      "runnerUp": {
-        "Democratic": 13,
-        "Unknown": 6
-      }
-    }
-  },
-  "1820": {
-    "year": 1820,
-    "totalStates": 24,
-    "totalElectoralVotes": 235,
-    "totalPopulation": 9388498,
-    "averagePopPerEV": 38522.2866064695,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 18187.25
-    },
-    "maxPopPerEV": {
-      "state": "Ohio",
-      "value": 72679.25
-    },
-    "parties": {
-      "winner": {
-        "unopposed": 14,
-        "Democratic-Republican": 6,
-        "1819": 1,
-        "1818": 1,
-        "1820": 1,
-        "disputed": 1
-      },
-      "runnerUp": {
-        "Unknown": 24
-      }
-    }
-  },
-  "1824": {
-    "year": 1824,
-    "totalStates": 24,
-    "totalElectoralVotes": 261,
-    "totalPopulation": 10695754,
-    "averagePopPerEV": 38426.15066738817,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 22178.75
-    },
-    "maxPopPerEV": {
-      "state": "South Carolina",
-      "value": 48556.27272727273
-    },
-    "parties": {
-      "winner": {
-        "Democratic-Republican": 16,
-        "plurality": 6,
-        "decides": 1,
-        "split": 1
-      },
-      "runnerUp": {
-        "Unknown": 24
-      }
-    }
-  },
-  "1828": {
-    "year": 1828,
-    "totalStates": 24,
-    "totalElectoralVotes": 261,
-    "totalPopulation": 11936423,
-    "averagePopPerEV": 43901.07222447692,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 23592.75
-    },
-    "maxPopPerEV": {
-      "state": "Indiana",
-      "value": 60772.0
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 18,
-        "Republican": 6
-      },
-      "runnerUp": {
-        "Republican": 18,
-        "Democratic": 6
-      }
-    }
-  },
-  "1832": {
-    "year": 1832,
-    "totalStates": 24,
-    "totalElectoralVotes": 288,
-    "totalPopulation": 13318748,
-    "averagePopPerEV": 44322.76535411046,
-    "minPopPerEV": {
-      "state": "Rhode Island",
-      "value": 24881.25
-    },
-    "maxPopPerEV": {
-      "state": "South Carolina",
-      "value": 53075.27272727273
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 19,
-        "Republican": 4,
-        "Party": 1
-      },
-      "runnerUp": {
-        "Republican": 19,
-        "Democratic": 4,
-        "Unknown": 1
-      }
-    }
-  },
-  "1836": {
-    "year": 1836,
-    "totalStates": 26,
-    "totalElectoralVotes": 294,
-    "totalPopulation": 14842723,
-    "averagePopPerEV": 51195.88418201163,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 25850.0
-    },
-    "maxPopPerEV": {
-      "state": "Missouri",
-      "value": 71600.75
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 15,
-        "Whig": 9,
-        "1836": 1,
-        "1837": 1
-      },
-      "runnerUp": {
-        "Republican": 15,
-        "Unknown": 11
-      }
-    }
-  },
-  "1840": {
-    "year": 1840,
-    "totalStates": 26,
-    "totalElectoralVotes": 294,
-    "totalPopulation": 16676537,
-    "averagePopPerEV": 57574.46332616658,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 26028.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Missouri",
-      "value": 95925.5
-    },
-    "parties": {
-      "winner": {
-        "Whig": 20,
-        "Democratic": 6
-      },
-      "runnerUp": {
-        "Unknown": 20,
-        "Republican": 6
-      }
-    }
-  },
-  "1844": {
-    "year": 1844,
-    "totalStates": 26,
-    "totalElectoralVotes": 275,
-    "totalPopulation": 18748059,
-    "averagePopPerEV": 63483.99512576277,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 27821.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Mississippi",
-      "value": 78000.16666666667
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 16,
-        "Whig": 9,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Republican": 16,
-        "Unknown": 10
-      }
-    }
-  },
-  "1848": {
-    "year": 1848,
-    "totalStates": 30,
-    "totalElectoralVotes": 290,
-    "totalPopulation": 21070083,
-    "averagePopPerEV": 70891.03319392895,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 29614.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Mississippi",
-      "value": 93391.83333333333
-    },
-    "parties": {
-      "winner": {
-        "Whig": 15,
-        "Democratic": 11,
-        "1845": 2,
-        "1846": 1,
-        "1848": 1
-      },
-      "runnerUp": {
-        "Unknown": 19,
-        "Republican": 11
-      }
-    }
-  },
-  "1852": {
-    "year": 1852,
-    "totalStates": 31,
-    "totalElectoralVotes": 296,
-    "totalPopulation": 24284396,
-    "averagePopPerEV": 75003.3948722191,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 31889.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "Georgia",
-      "value": 93640.5
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 26,
-        "Whig": 4,
-        "1850": 1
-      },
-      "runnerUp": {
-        "Republican": 26,
-        "Unknown": 5
-      }
-    }
-  },
-  "1856": {
-    "year": 1856,
-    "totalStates": 31,
-    "totalElectoralVotes": 296,
-    "totalPopulation": 27362028,
-    "averagePopPerEV": 87564.47737326566,
-    "minPopPerEV": {
-      "state": "Delaware",
-      "value": 34647.333333333336
-    },
-    "maxPopPerEV": {
-      "state": "Illinois",
-      "value": 124341.72727272728
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 19,
-        "Republican": 11,
-        "American": 1
-      },
-      "runnerUp": {
-        "Republican": 19,
-        "Democratic": 11,
-        "Unknown": 1
-      }
-    }
-  },
-  "1860": {
-    "year": 1860,
-    "totalStates": 33,
-    "totalElectoralVotes": 303,
-    "totalPopulation": 30664152,
-    "averagePopPerEV": 95890.53105608099,
-    "minPopPerEV": {
-      "state": "Oregon",
-      "value": 17488.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Iowa",
-      "value": 168728.25
-    },
-    "parties": {
-      "winner": {
-        "Republican": 16,
-        "Democratic": 12,
-        "Union": 3,
-        "1858": 1,
-        "1859": 1
-      },
-      "runnerUp": {
-        "Democratic": 16,
-        "Republican": 12,
-        "Unknown": 5
-      }
-    }
-  },
-  "1864": {
-    "year": 1864,
-    "totalStates": 25,
-    "totalElectoralVotes": 234,
-    "totalPopulation": 24456242,
-    "averagePopPerEV": 89556.52123380092,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 7037.0
-    },
-    "maxPopPerEV": {
-      "state": "Illinois",
-      "value": 127695.4375
-    },
-    "parties": {
-      "winner": {
-        "Republican": 19,
-        "Democratic": 3,
-        "1861": 1,
-        "1864": 1,
-        "1863": 1
-      },
-      "runnerUp": {
-        "Democratic": 19,
-        "Republican": 3,
-        "Unknown": 3
-      }
-    }
-  },
-  "1868": {
-    "year": 1868,
-    "totalStates": 34,
-    "totalElectoralVotes": 294,
-    "totalPopulation": 33479949,
-    "averagePopPerEV": 100460.54251594364,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 11788.0
-    },
-    "maxPopPerEV": {
-      "state": "Illinois",
-      "value": 148393.9375
-    },
-    "parties": {
-      "winner": {
-        "Republican": 26,
-        "Democratic": 7,
-        "1867": 1
-      },
-      "runnerUp": {
-        "Democratic": 26,
-        "Republican": 7,
-        "Unknown": 1
-      }
-    }
-  },
-  "1872": {
-    "year": 1872,
-    "totalStates": 37,
-    "totalElectoralVotes": 366,
-    "totalPopulation": 40327915,
-    "averagePopPerEV": 97133.99893542567,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 15482.0
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 129222.31428571428
-    },
-    "parties": {
-      "winner": {
-        "Republican": 31,
-        "dispersed": 6
-      },
-      "runnerUp": {
-        "Democratic": 31,
-        "Unknown": 6
-      }
-    }
-  },
-  "1876": {
-    "year": 1876,
-    "totalStates": 38,
-    "totalElectoralVotes": 369,
-    "totalPopulation": 44885005,
-    "averagePopPerEV": 108760.82449246912,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 18118.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 160310.125
-    },
-    "parties": {
-      "winner": {
-        "Republican": 17,
-        "Democratic": 16,
-        "Hayes": 4,
-        "1876": 1
-      },
-      "runnerUp": {
-        "Democratic": 17,
-        "Republican": 16,
-        "Unknown": 5
-      }
-    }
-  },
-  "1880": {
-    "year": 1880,
-    "totalStates": 38,
-    "totalElectoralVotes": 369,
-    "totalPopulation": 49371340,
-    "averagePopPerEV": 122323.1368714896,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 20755.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Kansas",
-      "value": 199219.2
-    },
-    "parties": {
-      "winner": {
-        "Republican": 20,
-        "Democratic": 18
-      },
-      "runnerUp": {
-        "Democratic": 20,
-        "Republican": 18
-      }
-    }
-  },
-  "1884": {
-    "year": 1884,
-    "totalStates": 38,
-    "totalElectoralVotes": 401,
-    "totalPopulation": 53941343,
-    "averagePopPerEV": 121198.69372723639,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 18767.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "Pennsylvania",
-      "value": 155766.0
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 21,
-        "Republican": 17
-      },
-      "runnerUp": {
-        "Republican": 21,
-        "Democratic": 17
-      }
-    }
-  },
-  "1888": {
-    "year": 1888,
-    "totalStates": 38,
-    "totalElectoralVotes": 401,
-    "totalPopulation": 58511346,
-    "averagePopPerEV": 132928.073796106,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 16779.0
-    },
-    "maxPopPerEV": {
-      "state": "Nebraska",
-      "value": 188121.0
-    },
-    "parties": {
-      "winner": {
-        "Republican": 20,
-        "Democratic": 18
-      },
-      "runnerUp": {
-        "Democratic": 20,
-        "Republican": 18
-      }
-    }
-  },
-  "1892": {
-    "year": 1892,
-    "totalStates": 44,
-    "totalElectoralVotes": 444,
-    "totalPopulation": 64455844,
-    "averagePopPerEV": 124140.45022247503,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 15450.333333333334
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 173668.36111111112
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 25,
-        "Republican": 11,
-        "Populist": 3,
-        "1889": 3,
-        "1890": 2
-      },
-      "runnerUp": {
-        "Republican": 25,
-        "Democratic": 11,
-        "Unknown": 8
-      }
-    }
-  },
-  "1896": {
-    "year": 1896,
-    "totalStates": 45,
-    "totalElectoralVotes": 447,
-    "totalPopulation": 69643522,
-    "averagePopPerEV": 133003.68376866344,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 14781.0
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 187791.05555555556
-    },
-    "parties": {
-      "winner": {
-        "Republican": 24,
-        "Democratic": 20,
-        "1896": 1
-      },
-      "runnerUp": {
-        "Democratic": 24,
-        "Republican": 20,
-        "Unknown": 1
-      }
-    }
-  },
-  "1900": {
-    "year": 1900,
-    "totalStates": 45,
-    "totalElectoralVotes": 447,
-    "totalPopulation": 74607225,
-    "averagePopPerEV": 142966.52777120692,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 14111.666666666666
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 203247.33333333334
-    },
-    "parties": {
-      "winner": {
-        "Republican": 27,
-        "Democratic": 17,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Democratic": 27,
-        "Republican": 17,
-        "Unknown": 1
-      }
-    }
-  },
-  "1904": {
-    "year": 1904,
-    "totalStates": 46,
-    "totalElectoralVotes": 483,
-    "totalPopulation": 80545292,
-    "averagePopPerEV": 146290.70586334192,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 19383.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 205302.10256410256
-    },
-    "parties": {
-      "winner": {
-        "Republican": 33,
-        "Democratic": 12,
-        "1907": 1
-      },
-      "runnerUp": {
-        "Democratic": 33,
-        "Republican": 12,
-        "Unknown": 1
-      }
-    }
-  },
-  "1908": {
-    "year": 1908,
-    "totalStates": 46,
-    "totalElectoralVotes": 483,
-    "totalPopulation": 87967156,
-    "averagePopPerEV": 160123.76790511093,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 24655.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 224222.3076923077
-    },
-    "parties": {
-      "winner": {
-        "Republican": 31,
-        "Democratic": 14,
-        "1907": 1
-      },
-      "runnerUp": {
-        "Democratic": 31,
-        "Republican": 14,
-        "Unknown": 1
-      }
-    }
-  },
-  "1912": {
-    "year": 1912,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 94367566,
-    "averagePopPerEV": 153458.59265375577,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 26993.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 208176.3777777778
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 38,
-        "Progressive": 6,
-        "1912": 2,
-        "Republican": 2
-      },
-      "runnerUp": {
-        "Republican": 38,
-        "Unknown": 8,
-        "Democratic": 2
-      }
-    }
-  },
-  "1916": {
-    "year": 1916,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 99820310,
-    "averagePopPerEV": 162512.27458654673,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 26398.0
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 231318.15384615384
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 32,
-        "Republican": 16
-      },
-      "runnerUp": {
-        "Republican": 32,
-        "Democratic": 16
-      }
-    }
-  },
-  "1920": {
-    "year": 1920,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 105273049,
-    "averagePopPerEV": 171565.94134556755,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 25802.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 263604.6923076923
-    },
-    "parties": {
-      "winner": {
-        "Republican": 37,
-        "Democratic": 11
-      },
-      "runnerUp": {
-        "Democratic": 37,
-        "Republican": 11
-      }
-    }
-  },
-  "1924": {
-    "year": 1924,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 112079099,
-    "averagePopPerEV": 182075.32784977497,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 27622.333333333332
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 332847.46153846156
-    },
-    "parties": {
-      "winner": {
-        "Republican": 35,
-        "Democratic": 12,
-        "Progressive": 1
-      },
-      "runnerUp": {
-        "Democratic": 35,
-        "Republican": 12,
-        "Unknown": 1
-      }
-    }
-  },
-  "1928": {
-    "year": 1928,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 118885148,
-    "averagePopPerEV": 192584.73071816182,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 29442.666666666668
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 402090.23076923075
-    },
-    "parties": {
-      "winner": {
-        "Republican": 39,
-        "Democratic": 8,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Democratic": 39,
-        "Republican": 8,
-        "Unknown": 1
-      }
-    }
-  },
-  "1932": {
-    "year": 1932,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 124031776,
-    "averagePopPerEV": 201876.50268847504,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 31632.0
-    },
-    "maxPopPerEV": {
-      "state": "New York",
-      "value": 271622.9574468085
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 42,
-        "Republican": 6
-      },
-      "runnerUp": {
-        "Republican": 42,
-        "Democratic": 6
-      }
-    }
-  },
-  "1936": {
-    "year": 1936,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 127518979,
-    "averagePopPerEV": 207868.39732024618,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 34190.333333333336
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 291606.04545454547
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 45,
-        "Republican": 2,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Republican": 45,
-        "Democratic": 2,
-        "Unknown": 1
-      }
-    }
-  },
-  "1940": {
-    "year": 1940,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 131006184,
-    "averagePopPerEV": 213860.2939500912,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 36749.0
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 313972.13636363635
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 39,
-        "Republican": 9
-      },
-      "runnerUp": {
-        "Republican": 39,
-        "Democratic": 9
-      }
-    }
-  },
-  "1944": {
-    "year": 1944,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 138561782,
-    "averagePopPerEV": 224419.7500497639,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 43393.666666666664
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 335156.84
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 35,
-        "Republican": 12,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Republican": 35,
-        "Democratic": 12,
-        "Unknown": 1
-      }
-    }
-  },
-  "1948": {
-    "year": 1948,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 146117383,
-    "averagePopPerEV": 236478.08737811202,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 50038.666666666664
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 394018.24
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 29,
-        "Republican": 15,
-        "Rights": 3,
-        "States Rights": 1
-      },
-      "runnerUp": {
-        "Republican": 29,
-        "Democratic": 15,
-        "Unknown": 4
-      }
-    }
-  },
-  "1952": {
-    "year": 1952,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 155456202,
-    "averagePopPerEV": 250640.8424572187,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 61707.333333333336
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 362888.09375
-    },
-    "parties": {
-      "winner": {
-        "Republican": 38,
-        "Democratic": 9,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Democratic": 38,
-        "Republican": 9,
-        "Unknown": 1
-      }
-    }
-  },
-  "1956": {
-    "year": 1956,
-    "totalStates": 48,
-    "totalElectoralVotes": 531,
-    "totalPopulation": 166578240,
-    "averagePopPerEV": 267942.19079867465,
-    "minPopPerEV": {
-      "state": "Nevada",
-      "value": 78400.0
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 427025.375
-    },
-    "parties": {
-      "winner": {
-        "Republican": 42,
-        "Democratic": 6
-      },
-      "runnerUp": {
-        "Democratic": 42,
-        "Republican": 6
-      }
-    }
-  },
-  "1960": {
-    "year": 1960,
-    "totalStates": 50,
-    "totalElectoralVotes": 537,
-    "totalPopulation": 178559219,
-    "averagePopPerEV": 279560.0715758297,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 75389.0
-    },
-    "maxPopPerEV": {
-      "state": "Florida",
-      "value": 495156.0
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 24,
-        "Republican": 24,
-        "1959": 2
-      },
-      "runnerUp": {
-        "Republican": 24,
-        "Democratic": 24,
-        "Unknown": 2
-      }
-    }
-  },
-  "1964": {
-    "year": 1964,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 187847397,
-    "averagePopPerEV": 296218.53509788174,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 85523.0
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 435289.4
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 46,
-        "Republican": 5
-      },
-      "runnerUp": {
-        "Republican": 46,
-        "Democratic": 5
-      }
-    }
-  },
-  "1968": {
-    "year": 1968,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 197135574,
-    "averagePopPerEV": 310691.94989938167,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 95657.33333333333
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 477648.7
-    },
-    "parties": {
-      "winner": {
-        "Republican": 33,
-        "Democratic": 13,
-        "Independent": 5
-      },
-      "runnerUp": {
-        "Democratic": 33,
-        "Republican": 13,
-        "Unknown": 5
-      }
-    }
-  },
-  "1972": {
-    "year": 1972,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 206605224,
-    "averagePopPerEV": 327974.68655391934,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 107369.66666666667
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 459913.06666666665
-    },
-    "parties": {
-      "winner": {
-        "Republican": 48,
-        "Democratic": 2,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Democratic": 48,
-        "Republican": 2,
-        "Unknown": 1
-      }
-    }
-  },
-  "1976": {
-    "year": 1976,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 216256350,
-    "averagePopPerEV": 346616.4536649021,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 120660.0
-    },
-    "maxPopPerEV": {
-      "state": "Florida",
-      "value": 503739.5294117647
-    },
-    "parties": {
-      "winner": {
-        "Republican": 26,
-        "Democratic": 25
-      },
-      "runnerUp": {
-        "Democratic": 26,
-        "Republican": 25
-      }
-    }
-  },
-  "1980": {
-    "year": 1980,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 225907472,
-    "averagePopPerEV": 365258.2098445568,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 133950.33333333334
-    },
-    "maxPopPerEV": {
-      "state": "Florida",
-      "value": 573313.1764705882
-    },
-    "parties": {
-      "winner": {
-        "Republican": 45,
-        "Democratic": 6
-      },
-      "runnerUp": {
-        "Democratic": 45,
-        "Republican": 6
-      }
-    }
-  },
-  "1984": {
-    "year": 1984,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 234785672,
-    "averagePopPerEV": 372505.21696203033,
-    "minPopPerEV": {
-      "state": "Alaska",
-      "value": 153709.33333333334
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 555420.2127659575
-    },
-    "parties": {
-      "winner": {
-        "Republican": 50,
-        "Democratic": 1
-      },
-      "runnerUp": {
-        "Democratic": 50,
-        "Republican": 1
-      }
-    }
-  },
-  "1988": {
-    "year": 1988,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 243663870,
-    "averagePopPerEV": 385358.3082962434,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 152260.66666666666
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 607268.0212765958
-    },
-    "parties": {
-      "winner": {
-        "Republican": 44,
-        "Democratic": 7
-      },
-      "runnerUp": {
-        "Democratic": 44,
-        "Republican": 7
-      }
-    }
-  },
-  "1992": {
-    "year": 1992,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 254652348,
-    "averagePopPerEV": 406011.27233536,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 153875.66666666666
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 566339.7407407408
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 34,
-        "Republican": 17
-      },
-      "runnerUp": {
-        "Republican": 34,
-        "Democratic": 17
-      }
-    }
-  },
-  "1996": {
-    "year": 1996,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 267751093,
-    "averagePopPerEV": 427762.66333670216,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 159234.66666666666
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 603303.0
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 33,
-        "Republican": 18
-      },
-      "runnerUp": {
-        "Republican": 33,
-        "Democratic": 18
-      }
-    }
-  },
-  "2000": {
-    "year": 2000,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 280849847,
-    "averagePopPerEV": 449514.10465462616,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 164594.0
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 651619.375
-    },
-    "parties": {
-      "winner": {
-        "Republican": 28,
-        "Democratic": 20,
-        "abstention": 1,
-        "Bush": 1,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Democratic": 28,
-        "Republican": 20,
-        "Unknown": 3
-      }
-    }
-  },
-  "2004": {
-    "year": 2004,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 291767435,
-    "averagePopPerEV": 466196.932048631,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 173906.66666666666
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 663803.4117647059
-    },
-    "parties": {
-      "winner": {
-        "Republican": 33,
-        "Democratic": 18
-      },
-      "runnerUp": {
-        "Democratic": 33,
-        "Republican": 18
-      }
-    }
-  },
-  "2008": {
-    "year": 2008,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 302685021,
-    "averagePopPerEV": 483839.15235619614,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 183219.0
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 714318.0294117647
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 30,
-        "Republican": 21
-      },
-      "runnerUp": {
-        "Republican": 30,
-        "Democratic": 21
-      }
-    }
-  },
-  "2012": {
-    "year": 2012,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 312666997,
-    "averagePopPerEV": 498747.7634391526,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 188757.0
-    },
-    "maxPopPerEV": {
-      "state": "California",
-      "value": 685651.0727272728
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 26,
-        "Republican": 24,
-        "lost": 1
-      },
-      "runnerUp": {
-        "Republican": 26,
-        "Democratic": 24,
-        "Unknown": 1
-      }
-    }
-  },
-  "2016": {
-    "year": 2016,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 321713367,
-    "averagePopPerEV": 512360.2979686345,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 190520.33333333334
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 724882.2894736842
-    },
-    "parties": {
-      "winner": {
-        "Republican": 32,
-        "Democratic": 19
-      },
-      "runnerUp": {
-        "Democratic": 32,
-        "Republican": 19
-      }
-    }
-  },
-  "2020": {
-    "year": 2020,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
-    "totalPopulation": 330759736,
-    "averagePopPerEV": 525972.835883601,
-    "minPopPerEV": {
-      "state": "Wyoming",
-      "value": 192283.66666666666
-    },
-    "maxPopPerEV": {
-      "state": "Texas",
-      "value": 766986.9736842106
-    },
-    "parties": {
-      "winner": {
-        "Democratic": 26,
-        "Republican": 25
-      },
-      "runnerUp": {
-        "Republican": 26,
-        "Democratic": 25
-      }
-    }
-  },
-  "2024": {
-    "year": 2024,
-    "totalStates": 51,
-    "totalElectoralVotes": 538,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
     "totalPopulation": null,
     "averagePopPerEV": null,
     "minPopPerEV": {
@@ -1563,13 +41,1581 @@
       "value": null
     },
     "parties": {
-      "winner": {
-        "Republican": 31,
-        "Democratic": 20
-      },
+      "winner": {},
       "runnerUp": {
-        "Democratic": 31,
-        "Republican": 20
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1796": {
+    "year": 1796,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1800": {
+    "year": 1800,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1804": {
+    "year": 1804,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1808": {
+    "year": 1808,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1812": {
+    "year": 1812,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1816": {
+    "year": 1816,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1820": {
+    "year": 1820,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1824": {
+    "year": 1824,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1828": {
+    "year": 1828,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1832": {
+    "year": 1832,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1836": {
+    "year": 1836,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1840": {
+    "year": 1840,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1844": {
+    "year": 1844,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1848": {
+    "year": 1848,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1852": {
+    "year": 1852,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1856": {
+    "year": 1856,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1860": {
+    "year": 1860,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1864": {
+    "year": 1864,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1868": {
+    "year": 1868,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1872": {
+    "year": 1872,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1876": {
+    "year": 1876,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1880": {
+    "year": 1880,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1884": {
+    "year": 1884,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1888": {
+    "year": 1888,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1892": {
+    "year": 1892,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1896": {
+    "year": 1896,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1900": {
+    "year": 1900,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1904": {
+    "year": 1904,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1908": {
+    "year": 1908,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1912": {
+    "year": 1912,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1916": {
+    "year": 1916,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1920": {
+    "year": 1920,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1924": {
+    "year": 1924,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1928": {
+    "year": 1928,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1932": {
+    "year": 1932,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1936": {
+    "year": 1936,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1940": {
+    "year": 1940,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1944": {
+    "year": 1944,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1948": {
+    "year": 1948,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1952": {
+    "year": 1952,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1956": {
+    "year": 1956,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1960": {
+    "year": 1960,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1964": {
+    "year": 1964,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1968": {
+    "year": 1968,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1972": {
+    "year": 1972,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1976": {
+    "year": 1976,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1980": {
+    "year": 1980,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1984": {
+    "year": 1984,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1988": {
+    "year": 1988,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1992": {
+    "year": 1992,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "1996": {
+    "year": 1996,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2000": {
+    "year": 2000,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2004": {
+    "year": 2004,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2008": {
+    "year": 2008,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2012": {
+    "year": 2012,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2016": {
+    "year": 2016,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2020": {
+    "year": 2020,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
+      }
+    }
+  },
+  "2024": {
+    "year": 2024,
+    "totalStates": 0,
+    "totalElectoralVotes": 0,
+    "totalPopulation": null,
+    "averagePopPerEV": null,
+    "minPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "maxPopPerEV": {
+      "state": null,
+      "value": null
+    },
+    "parties": {
+      "winner": {},
+      "runnerUp": {
+        "Unknown": 0
+      },
+      "stateCount": {
+        "winner": {},
+        "runnerUp": {
+          "Unknown": 0
+        }
       }
     }
   }

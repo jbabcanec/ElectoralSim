@@ -33,11 +33,11 @@ def load_data():
     print("📊 Loading electoral data...")
     
     # Read enhanced data from new raw data location
-    enhanced_df = pd.read_csv('../../data/raw/electoral_enhanced.csv')
+    enhanced_df = pd.read_csv('data/raw/electoral_enhanced.csv')
     
     # Read original Excel for any missing data
-    electoral_df = pd.read_excel('../../data/raw/electoral_data_final.xlsx', sheet_name='Electoral_Votes')
-    population_df = pd.read_excel('../../data/raw/electoral_data_final.xlsx', sheet_name='Population_Data')
+    electoral_df = pd.read_excel('data/raw/electoral_data_final.xlsx', sheet_name='Electoral_Votes')
+    population_df = pd.read_excel('data/raw/electoral_data_final.xlsx', sheet_name='Population_Data')
     
     return enhanced_df
 
@@ -97,7 +97,7 @@ def extract_party_from_notes(notes_str):
         if len(words) >= 2:
             last_word = words[-1]
             # Skip words that are clearly not parties
-            if last_word.lower() in ['electors', 'elector', 'vote', 'votes', 'district', 'state']:
+            if last_word.lower() in ['electors', 'elector', 'vote', 'votes', 'district', 'state', 'lost', 'won', 'split', 'home']:
                 return None
             return last_word
         return None
@@ -183,6 +183,9 @@ def create_state_timeline(df):
                 'winnerColor': PARTY_COLORS.get(row['Corrected_Winner_Party'], '#D3D3D3'),
                 'exists': row['Electoral_Votes'] > 0 if pd.notna(row['Electoral_Votes']) else False,
                 'isSplitState': bool(row.get('Is_Split_State', False)),
+                # Add candidate names
+                'winnerCandidate': str(row['Winner']).strip() if pd.notna(row['Winner']) else None,
+                'runnerUpCandidate': str(row['Runner_Up']).strip() if pd.notna(row['Runner_Up']) else None,
                 # Add split vote details for proportional stripes
                 'winnerEV': int(row['Winner_EV']) if pd.notna(row['Winner_EV']) else None,
                 'runnerUpEV': int(row['Runner_Up_EV']) if pd.notna(row['Runner_Up_EV']) else None,
@@ -221,8 +224,12 @@ def create_year_summaries(df):
                     'value': float(pop_per_ev_values.max()) if len(pop_per_ev_values) > 0 else None,
                 },
                 'parties': {
-                    'winner': participating['Corrected_Winner_Party'].value_counts().to_dict() if 'Corrected_Winner_Party' in participating else {},
-                    'runnerUp': participating['Corrected_RunnerUp_Party'].value_counts().to_dict() if 'Corrected_RunnerUp_Party' in participating else {},
+                    'winner': participating.groupby('Corrected_Winner_Party')['Electoral_Votes'].sum().to_dict() if 'Corrected_Winner_Party' in participating else {},
+                    'runnerUp': participating.groupby('Corrected_RunnerUp_Party')['Electoral_Votes'].sum().to_dict() if 'Corrected_RunnerUp_Party' in participating else {},
+                    'stateCount': {
+                        'winner': participating['Corrected_Winner_Party'].value_counts().to_dict() if 'Corrected_Winner_Party' in participating else {},
+                        'runnerUp': participating['Corrected_RunnerUp_Party'].value_counts().to_dict() if 'Corrected_RunnerUp_Party' in participating else {},
+                    }
                 }
             }
         else:
@@ -234,7 +241,7 @@ def create_year_summaries(df):
                 'averagePopPerEV': None,
                 'minPopPerEV': {'state': None, 'value': None},
                 'maxPopPerEV': {'state': None, 'value': None},
-                'parties': {'winner': {}, 'runnerUp': {}}
+                'parties': {'winner': {}, 'runnerUp': {}, 'stateCount': {'winner': {}, 'runnerUp': {}}}
             }
         
         year_summaries[int(year)] = summary
@@ -292,7 +299,7 @@ def save_json_files(timeline_data, year_summaries, state_metadata, df):
     """Save processed data as JSON files"""
     print("💾 Saving JSON files...")
     
-    output_dir = Path('../../data/outputs')
+    output_dir = Path('data/outputs')
     output_dir.mkdir(exist_ok=True, parents=True)
     
     # Save state timeline data

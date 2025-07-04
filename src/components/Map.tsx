@@ -101,7 +101,7 @@ const Map: React.FC<MapProps> = ({
     return calculator.calculateColor(stateName, viewMode);
   }, [colorCalculator, viewMode]);
 
-  // Create proportional striped pattern for split states
+  // Create proportional striped pattern for split states and faithless electors
   const createProportionalStripedPattern = useCallback((svg: SVGSVGElement, stateName: string, stateData: any) => {
     const patternId = `stripe-${stateName.replace(/\s+/g, '-').toLowerCase()}-${year}`;
     
@@ -113,20 +113,24 @@ const Map: React.FC<MapProps> = ({
     // Get split vote data
     const winnerEV = stateData.winnerEV || 0;
     const runnerUpEV = stateData.runnerUpEV || 0;
-    const totalEV = winnerEV + runnerUpEV;
+    const totalEV = stateData.electoralVotes;
+    const othersEV = totalEV - winnerEV - runnerUpEV;
     
-    if (totalEV === 0) {
-      // Fallback to solid color if no split data
+    // Check if we need a pattern (split state or faithless electors)
+    if (winnerEV === totalEV || (winnerEV === 0 && runnerUpEV === 0)) {
+      // No split or all votes to winner - use solid color
       return stateData.winnerColor;
     }
     
-    // Calculate proportions
+    // Calculate proportions based on total electoral votes
     const winnerPercent = winnerEV / totalEV;
     const runnerUpPercent = runnerUpEV / totalEV;
+    const othersPercent = othersEV / totalEV;
     
     // Get party colors
     const winnerColor = stateData.winnerColor;
     const runnerUpColor = PARTY_COLORS[stateData.runnerUp] || '#808080';
+    const othersColor = '#FCD34D'; // Yellow/amber for faithless electors
     
     // Get or create defs element
     let defs = svg.querySelector('defs');
@@ -142,24 +146,43 @@ const Map: React.FC<MapProps> = ({
     pattern.setAttribute('width', '20');
     pattern.setAttribute('height', '20');
     
+    let currentX = 0;
+    
     // Create winner section
-    const winnerRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-    winnerRect.setAttribute('x', '0');
-    winnerRect.setAttribute('y', '0');
-    winnerRect.setAttribute('width', (winnerPercent * 20).toString());
-    winnerRect.setAttribute('height', '20');
-    winnerRect.setAttribute('fill', winnerColor);
+    if (winnerEV > 0) {
+      const winnerRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      winnerRect.setAttribute('x', currentX.toString());
+      winnerRect.setAttribute('y', '0');
+      winnerRect.setAttribute('width', (winnerPercent * 20).toString());
+      winnerRect.setAttribute('height', '20');
+      winnerRect.setAttribute('fill', winnerColor);
+      pattern.appendChild(winnerRect);
+      currentX += winnerPercent * 20;
+    }
     
     // Create runner-up section
-    const runnerUpRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
-    runnerUpRect.setAttribute('x', (winnerPercent * 20).toString());
-    runnerUpRect.setAttribute('y', '0');
-    runnerUpRect.setAttribute('width', (runnerUpPercent * 20).toString());
-    runnerUpRect.setAttribute('height', '20');
-    runnerUpRect.setAttribute('fill', runnerUpColor);
+    if (runnerUpEV > 0) {
+      const runnerUpRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      runnerUpRect.setAttribute('x', currentX.toString());
+      runnerUpRect.setAttribute('y', '0');
+      runnerUpRect.setAttribute('width', (runnerUpPercent * 20).toString());
+      runnerUpRect.setAttribute('height', '20');
+      runnerUpRect.setAttribute('fill', runnerUpColor);
+      pattern.appendChild(runnerUpRect);
+      currentX += runnerUpPercent * 20;
+    }
     
-    pattern.appendChild(winnerRect);
-    pattern.appendChild(runnerUpRect);
+    // Create faithless electors section
+    if (othersEV > 0) {
+      const othersRect = document.createElementNS('http://www.w3.org/2000/svg', 'rect');
+      othersRect.setAttribute('x', currentX.toString());
+      othersRect.setAttribute('y', '0');
+      othersRect.setAttribute('width', (othersPercent * 20).toString());
+      othersRect.setAttribute('height', '20');
+      othersRect.setAttribute('fill', othersColor);
+      pattern.appendChild(othersRect);
+    }
+    
     defs.appendChild(pattern);
     
     return `url(#${patternId})`;
@@ -267,11 +290,17 @@ const Map: React.FC<MapProps> = ({
       // Set initial styles using enhanced color calculator
       const colorResult = getStateColor(stateName);
       
-      // Use proportional striped pattern for split states
-      if (isStateElectoralSplit(stateName) && viewMode === 'standard') {
-        const timeline = stateTimelines[stateName];
-        const stateData = timeline?.timeline.find(entry => entry.year === year);
-        if (stateData) {
+      // Use proportional striped pattern for split states or faithless electors
+      const timeline = stateTimelines[stateName];
+      const stateData = timeline?.timeline.find(entry => entry.year === year);
+      
+      if (viewMode === 'standard' && stateData) {
+        // Check if state has split votes or faithless electors
+        const hasSpecialVoting = stateData.isSplitState || 
+          (stateData.winnerEV !== null && stateData.runnerUpEV !== null && 
+           (stateData.winnerEV + stateData.runnerUpEV) !== stateData.electoralVotes);
+        
+        if (hasSpecialVoting) {
           element.style.fill = createProportionalStripedPattern(clonedSvg, stateName, stateData);
         } else {
           element.style.fill = colorResult.fill;
