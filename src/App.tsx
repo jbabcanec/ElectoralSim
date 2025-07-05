@@ -18,7 +18,7 @@ function App() {
   
   // Map state
   const [mapState, setMapState] = useState<MapState>({
-    year: 2020,
+    year: 2024,
     viewMode: 'standard',
     selectedState: null,
     hoveredState: null,

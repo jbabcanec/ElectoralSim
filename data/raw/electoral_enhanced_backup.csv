@@ -19,7 +19,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1792,Maryland,8,George Washington,8,,0,132,2 electors did not vote,,,324092.0,40511.5
 1792,Massachusetts,16,George Washington,16,,0,132,Included Maine district,,,387599.0,24224.9375
 1792,New Hampshire,6,George Washington,6,,0,132,All electors unanimous for Washington,,,150280.0,25046.666666666668
-1792,New Jersey,7,George Washington,7,,0,132,All electors unanimous for Washington,,,189541.0,27077.28571428572
+1792,New Jersey,7,George Washington,7,,0,132,All electors unanimous for Washington,,,189541.0,27077.285714285717
 1792,New York,12,George Washington,12,,0,132,All electors unanimous for Washington,,,389906.0,32492.166666666668
 1792,North Carolina,12,George Washington,12,,0,132,All electors unanimous for Washington,,,410621.0,34218.416666666664
 1792,Pennsylvania,15,George Washington,15,,0,132,All electors unanimous for Washington,,,468007.0,31200.466666666667
@@ -904,7 +904,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1908,Ohio,23,William Taft,23,William Bryan,0,483,Taft home state,Republican,Democratic,4645206.0,201965.4782608696
 1908,Oklahoma,7,William Bryan,7,William Taft,0,483,New state 1907,Republican,Democratic,1483802.0,211971.7142857143
 1908,Oregon,4,William Taft,4,William Bryan,0,483,Taft Republican,Republican,Democratic,620919.0,155229.75
-1908,Pennsylvania,34,William Taft,34,William Bryan,0,483,Taft Republican,Republican,Democratic,7392512.0,217426.8235294117
+1908,Pennsylvania,34,William Taft,34,William Bryan,0,483,Taft Republican,Republican,Democratic,7392512.0,217426.82352941175
 1908,Rhode Island,4,William Taft,4,William Bryan,0,483,Taft Republican,Republican,Democratic,519799.0,129949.75
 1908,South Carolina,9,William Bryan,9,William Taft,0,483,Bryan Democrat,Republican,Democratic,1480383.0,164487.0
 1908,South Dakota,4,William Taft,4,William Bryan,0,483,Taft Republican,Republican,Democratic,547424.0,136856.0
@@ -920,7 +920,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1912,Alabama,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,2180109.0,181675.75
 1912,Arizona,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,New state 1912,Democratic,Progressive,230316.0,76772.0
 1912,Arkansas,9,Woodrow Wilson,9,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,1610000.0,178888.88888888888
-1912,California,13,Theodore Roosevelt,11,Woodrow Wilson,2,531,Split vote,Progressive,Republican,2587411.0,199031.6153846153
+1912,California,13,Theodore Roosevelt,11,Woodrow Wilson,2,531,Split vote,Progressive,Republican,2587411.0,199031.61538461535
 1912,Colorado,6,Woodrow Wilson,6,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,827145.0,137857.5
 1912,Connecticut,7,Woodrow Wilson,7,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,1167931.0,166847.2857142857
 1912,Delaware,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,206458.0,68819.33333333333
@@ -939,7 +939,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1912,Michigan,15,Theodore Roosevelt,15,Woodrow Wilson,0,531,Roosevelt Progressive,Progressive,Democratic,2981821.0,198788.06666666668
 1912,Minnesota,12,Theodore Roosevelt,12,Woodrow Wilson,0,531,Roosevelt Progressive,Progressive,Democratic,2137991.0,178165.91666666666
 1912,Mississippi,10,Woodrow Wilson,10,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,1795815.0,179581.5
-1912,Missouri,18,Woodrow Wilson,18,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,3315479.0,184193.2777777777
+1912,Missouri,18,Woodrow Wilson,18,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,3315479.0,184193.27777777775
 1912,Montana,4,Woodrow Wilson,4,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,410620.0,102655.0
 1912,Nebraska,8,Woodrow Wilson,8,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,1213046.0,151630.75
 1912,Nevada,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,80981.0,26993.666666666668
@@ -963,7 +963,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1912,Virginia,12,Woodrow Wilson,12,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,2111127.0,175927.25
 1912,Washington,7,Theodore Roosevelt,7,Woodrow Wilson,0,531,Roosevelt Progressive,Progressive,Democratic,1184916.0,169273.7142857143
 1912,West Virginia,8,Woodrow Wilson,8,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,1269635.0,158704.375
-1912,Wisconsin,13,Woodrow Wilson,13,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,2393501.0,184115.4615384616
+1912,Wisconsin,13,Woodrow Wilson,13,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,2393501.0,184115.46153846156
 1912,Wyoming,3,Woodrow Wilson,3,Theodore Roosevelt,0,531,Wilson Democrat,Democratic,Progressive,155652.0,51884.0
 1916,Alabama,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,2264142.0,188678.5
 1916,Arizona,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,282239.0,94079.66666666669
@@ -973,7 +973,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1916,Connecticut,7,Charles Hughes,7,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,1274281.0,182040.14285714287
 1916,Delaware,3,Charles Hughes,3,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,214731.0,71577.0
 1916,Florida,6,Woodrow Wilson,6,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,882130.0,147021.66666666666
-1916,Georgia,14,Woodrow Wilson,14,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,2781148.0,198653.4285714285
+1916,Georgia,14,Woodrow Wilson,14,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,2781148.0,198653.42857142855
 1916,Idaho,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,389357.0,97339.25
 1916,Illinois,29,Charles Hughes,29,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,6146604.0,211951.8620689655
 1916,Indiana,15,Charles Hughes,15,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,2838584.0,189238.9333333333
@@ -992,7 +992,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1916,Nebraska,8,Woodrow Wilson,8,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,1254709.0,156838.625
 1916,Nevada,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,79194.0,26398.0
 1916,New Hampshire,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,438079.0,109519.75
-1916,New Jersey,14,Charles Hughes,14,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,2908407.0,207743.3571428572
+1916,New Jersey,14,Charles Hughes,14,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,2908407.0,207743.35714285716
 1916,New Mexico,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,347130.0,115710.0
 1916,New York,45,Charles Hughes,45,Woodrow Wilson,0,531,Hughes home state,Democratic,Republican,9876582.0,219479.6
 1916,North Carolina,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,2417989.0,201499.0833333333
@@ -1009,7 +1009,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1916,Utah,4,Woodrow Wilson,4,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,418978.0,104744.5
 1916,Vermont,4,Charles Hughes,4,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,353839.0,88459.75
 1916,Virginia,12,Woodrow Wilson,12,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,2210157.0,184179.75
-1916,Washington,7,Woodrow Wilson,7,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,1270769.0,181538.4285714285
+1916,Washington,7,Woodrow Wilson,7,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,1270769.0,181538.42857142855
 1916,West Virginia,8,Charles Hughes,7,Woodrow Wilson,1,531,Split vote,Democratic,Republican,1366668.0,170833.5
 1916,Wisconsin,13,Charles Hughes,13,Woodrow Wilson,0,531,Hughes Republican,Democratic,Republican,2512784.0,193291.0769230769
 1916,Wyoming,3,Woodrow Wilson,3,Charles Hughes,0,531,Wilson Democrat,Democratic,Republican,175027.0,58342.333333333336
@@ -1027,11 +1027,11 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1920,Indiana,15,Warren Harding,15,James Cox,0,531,Harding Republican,Republican,Democratic,2930390.0,195359.3333333333
 1920,Iowa,13,Warren Harding,13,James Cox,0,531,Harding Republican,Republican,Democratic,2404021.0,184924.6923076923
 1920,Kansas,10,Warren Harding,10,James Cox,0,531,Harding Republican,Republican,Democratic,1769257.0,176925.7
-1920,Kentucky,13,James Cox,13,Warren Harding,0,531,Cox Democrat,Republican,Democratic,2416630.0,185894.6153846153
+1920,Kentucky,13,James Cox,13,Warren Harding,0,531,Cox Democrat,Republican,Democratic,2416630.0,185894.61538461535
 1920,Louisiana,10,James Cox,10,Warren Harding,0,531,Cox Democrat,Republican,Democratic,1798509.0,179850.9
 1920,Maine,6,Warren Harding,6,James Cox,0,531,Harding Republican,Republican,Democratic,768014.0,128002.33333333331
 1920,Maryland,8,Warren Harding,8,James Cox,0,531,Harding Republican,Republican,Democratic,1449661.0,181207.625
-1920,Massachusetts,18,Warren Harding,18,James Cox,0,531,Harding Republican,Republican,Democratic,3852356.0,214019.7777777777
+1920,Massachusetts,18,Warren Harding,18,James Cox,0,531,Harding Republican,Republican,Democratic,3852356.0,214019.77777777775
 1920,Michigan,15,Warren Harding,15,James Cox,0,531,Harding Republican,Republican,Democratic,3668412.0,244560.8
 1920,Minnesota,12,Warren Harding,12,James Cox,0,531,Harding Republican,Republican,Democratic,2387125.0,198927.0833333333
 1920,Mississippi,10,James Cox,10,Warren Harding,0,531,Cox Democrat,Republican,Democratic,1790618.0,179061.8
@@ -1040,7 +1040,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1920,Nebraska,8,Warren Harding,8,James Cox,0,531,Harding Republican,Republican,Democratic,1296372.0,162046.5
 1920,Nevada,3,Warren Harding,3,James Cox,0,531,Harding Republican,Republican,Democratic,77407.0,25802.33333333333
 1920,New Hampshire,4,Warren Harding,4,James Cox,0,531,Harding Republican,Republican,Democratic,443083.0,110770.75
-1920,New Jersey,14,Warren Harding,14,James Cox,0,531,Harding Republican,Republican,Democratic,3155900.0,225421.4285714285
+1920,New Jersey,14,Warren Harding,14,James Cox,0,531,Harding Republican,Republican,Democratic,3155900.0,225421.42857142855
 1920,New Mexico,3,Warren Harding,3,James Cox,0,531,Harding Republican,Republican,Democratic,360350.0,120116.66666666669
 1920,New York,45,Warren Harding,45,James Cox,0,531,Harding Republican,Republican,Democratic,10385227.0,230782.82222222225
 1920,North Carolina,12,James Cox,12,Warren Harding,0,531,Cox Democrat,Republican,Democratic,2559123.0,213260.25
@@ -1066,7 +1066,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1924,Arkansas,9,John Davis,9,Calvin Coolidge,0,531,Davis Democrat,Republican,Democratic,1793115.0,199235.0
 1924,California,13,Calvin Coolidge,13,John Davis,0,531,Coolidge Republican,Republican,Democratic,4327017.0,332847.4615384616
 1924,Colorado,6,Calvin Coolidge,6,John Davis,0,531,Coolidge Republican,Republican,Democratic,978094.0,163015.66666666666
-1924,Connecticut,7,Calvin Coolidge,7,John Davis,0,531,Coolidge Republican,Republican,Democratic,1471140.0,210162.8571428572
+1924,Connecticut,7,Calvin Coolidge,7,John Davis,0,531,Coolidge Republican,Republican,Democratic,1471140.0,210162.85714285716
 1924,Delaware,3,Calvin Coolidge,3,John Davis,0,531,Coolidge Republican,Republican,Democratic,229154.0,76384.66666666667
 1924,Florida,6,John Davis,6,Calvin Coolidge,0,531,Davis Democrat,Republican,Democratic,1168366.0,194727.66666666663
 1924,Georgia,14,John Davis,14,Calvin Coolidge,0,531,Davis Democrat,Republican,Democratic,2900902.0,207207.2857142857
@@ -1117,7 +1117,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1928,Connecticut,7,Herbert Hoover,7,Al Smith,0,531,Hoover Republican,Republican,Democratic,1561649.0,223092.7142857143
 1928,Delaware,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican,Republican,Democratic,235305.0,78435.0
 1928,Florida,6,Herbert Hoover,6,Al Smith,0,531,Hoover Republican,Republican,Democratic,1368263.0,228043.8333333333
-1928,Georgia,14,Al Smith,14,Herbert Hoover,0,531,Smith Democrat,Republican,Democratic,2905971.0,207569.3571428572
+1928,Georgia,14,Al Smith,14,Herbert Hoover,0,531,Smith Democrat,Republican,Democratic,2905971.0,207569.35714285716
 1928,Idaho,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican,Republican,Democratic,442399.0,110599.75
 1928,Illinois,29,Herbert Hoover,29,Al Smith,0,531,Hoover Republican,Republican,Democratic,7401579.0,255226.8620689655
 1928,Indiana,15,Herbert Hoover,15,Al Smith,0,531,Hoover Republican,Republican,Democratic,3176880.0,211792.0
@@ -1153,27 +1153,27 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1928,Utah,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican,Republican,Democratic,496157.0,124039.25
 1928,Vermont,4,Herbert Hoover,4,Al Smith,0,531,Hoover Republican,Republican,Democratic,358174.0,89543.5
 1928,Virginia,12,Herbert Hoover,12,Al Smith,0,531,Hoover Republican,Republican,Democratic,2399318.0,199943.16666666663
-1928,Washington,7,Herbert Hoover,7,Al Smith,0,531,Hoover Republican,Republican,Democratic,1522041.0,217434.4285714285
+1928,Washington,7,Herbert Hoover,7,Al Smith,0,531,Hoover Republican,Republican,Democratic,1522041.0,217434.42857142855
 1928,West Virginia,8,Herbert Hoover,8,Al Smith,0,531,Hoover Republican,Republican,Democratic,1676104.0,209513.0
 1928,Wisconsin,13,Herbert Hoover,13,Al Smith,0,531,Hoover Republican,Republican,Democratic,2877618.0,221355.2307692308
 1928,Wyoming,3,Herbert Hoover,3,Al Smith,0,531,Hoover Republican,Republican,Democratic,219332.0,73110.66666666667
-1932,Alabama,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2683591.0,243962.8181818181
+1932,Alabama,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2683591.0,243962.81818181815
 1932,Arizona,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,448311.0,149437.0
 1932,Arkansas,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1873463.0,208162.5555555556
 1932,California,22,Franklin Roosevelt,22,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,5923278.0,269239.9090909091
 1932,Colorado,6,Franklin Roosevelt,6,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1053292.0,175548.66666666666
-1932,Connecticut,8,Herbert Hoover,8,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,1627371.0,203421.375
-1932,Delaware,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,244005.0,81335.0
-1932,Florida,7,Franklin Roosevelt,7,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1554052.0,222007.4285714285
+1932,Connecticut,8,Herbert Hoover,8,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,1627371.0,203421.375
+1932,Delaware,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,244005.0,81335.0
+1932,Florida,7,Franklin Roosevelt,7,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1554052.0,222007.42857142855
 1932,Georgia,12,Franklin Roosevelt,12,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2951549.0,245962.41666666663
 1932,Idaho,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,461000.0,115250.0
 1932,Illinois,29,Franklin Roosevelt,29,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,7683971.0,264964.5172413793
-1932,Indiana,14,Franklin Roosevelt,14,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,3276362.0,234025.8571428572
+1932,Indiana,14,Franklin Roosevelt,14,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,3276362.0,234025.85714285716
 1932,Iowa,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2484405.0,225855.0
-1932,Kansas,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1865005.0,207222.7777777777
+1932,Kansas,9,Franklin Roosevelt,9,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1865005.0,207222.77777777775
 1932,Kentucky,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2660797.0,241890.63636363635
 1932,Louisiana,10,Franklin Roosevelt,10,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2154050.0,215405.0
-1932,Maine,5,Herbert Hoover,5,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,807384.0,161476.8
+1932,Maine,5,Herbert Hoover,5,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,807384.0,161476.8
 1932,Maryland,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1669470.0,208683.75
 1932,Massachusetts,17,Franklin Roosevelt,17,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,4263035.0,250766.76470588235
 1932,Michigan,19,Franklin Roosevelt,19,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,4925081.0,259214.7894736842
@@ -1183,7 +1183,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1932,Montana,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,541976.0,135494.0
 1932,Nebraska,7,Franklin Roosevelt,7,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1365537.0,195076.7142857143
 1932,Nevada,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,94896.0,31632.0
-1932,New Hampshire,4,Herbert Hoover,4,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,470539.0,117634.75
+1932,New Hampshire,4,Herbert Hoover,4,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,470539.0,117634.75
 1932,New Jersey,16,Franklin Roosevelt,16,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,4065100.0,254068.75
 1932,New Mexico,3,Franklin Roosevelt,3,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,445017.0,148339.0
 1932,New York,47,Franklin Roosevelt,47,Herbert Hoover,0,531,Roosevelt home state,Democratic,Republican,12766279.0,271622.9574468085
@@ -1192,14 +1192,14 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1932,Ohio,26,Franklin Roosevelt,26,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,6698880.0,257649.2307692308
 1932,Oklahoma,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2384119.0,216738.0909090909
 1932,Oregon,5,Franklin Roosevelt,5,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,980966.0,196193.2
-1932,Pennsylvania,36,Herbert Hoover,36,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,9685116.0,269031.0
+1932,Pennsylvania,36,Herbert Hoover,36,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,9685116.0,269031.0
 1932,Rhode Island,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,692667.0,173166.75
 1932,South Carolina,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1770973.0,221371.625
 1932,South Dakota,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,682871.0,170717.75
-1932,Tennessee,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2676413.0,243310.2727272728
-1932,Texas,23,Franklin Roosevelt,23,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,5942737.0,258379.8695652173
+1932,Tennessee,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2676413.0,243310.27272727276
+1932,Texas,23,Franklin Roosevelt,23,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,5942737.0,258379.86956521735
 1932,Utah,4,Franklin Roosevelt,4,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,516340.0,129085.0
-1932,Vermont,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Democratic,359535.0,119845.0
+1932,Vermont,3,Herbert Hoover,3,Franklin Roosevelt,0,531,Hoover Republican,Democratic,Republican,359535.0,119845.0
 1932,Virginia,11,Franklin Roosevelt,11,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,2473035.0,224821.36363636365
 1932,Washington,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1597955.0,199744.375
 1932,West Virginia,8,Franklin Roosevelt,8,Herbert Hoover,0,531,Roosevelt Democrat,Democratic,Republican,1763759.0,220469.875
@@ -1217,16 +1217,16 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1936,Idaho,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,492937.0,123234.25
 1936,Illinois,29,Franklin Roosevelt,29,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,7790606.0,268641.5862068966
 1936,Indiana,14,Franklin Roosevelt,14,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,3352079.0,239434.2142857143
-1936,Iowa,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2511336.0,228303.2727272728
+1936,Iowa,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2511336.0,228303.27272727276
 1936,Kansas,9,Franklin Roosevelt,9,Alf Landon,0,531,Landon home state lost,Democratic,Republican,1833016.0,203668.44444444444
 1936,Kentucky,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2753212.0,250292.0
 1936,Louisiana,10,Franklin Roosevelt,10,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2258965.0,225896.5
-1936,Maine,5,Alf Landon,5,Franklin Roosevelt,0,531,Landon Republican,Democratic,Democratic,827305.0,165461.0
+1936,Maine,5,Alf Landon,5,Franklin Roosevelt,0,531,Landon Republican,Democratic,Republican,827305.0,165461.0
 1936,Maryland,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,1745357.0,218169.625
 1936,Massachusetts,17,Franklin Roosevelt,17,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,4289878.0,252345.76470588235
 1936,Michigan,19,Franklin Roosevelt,19,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,5090594.0,267926.0
 1936,Minnesota,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2700961.0,245541.9090909091
-1936,Mississippi,9,Franklin Roosevelt,9,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2114206.0,234911.7777777777
+1936,Mississippi,9,Franklin Roosevelt,9,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2114206.0,234911.77777777775
 1936,Missouri,15,Franklin Roosevelt,15,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,3722545.0,248169.66666666663
 1936,Montana,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,550716.0,137679.0
 1936,Nebraska,7,Franklin Roosevelt,7,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,1340686.0,191526.57142857145
@@ -1247,7 +1247,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1936,Tennessee,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2796127.0,254193.36363636365
 1936,Texas,23,Franklin Roosevelt,23,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,6178780.0,268642.60869565216
 1936,Utah,4,Franklin Roosevelt,4,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,533325.0,133331.25
-1936,Vermont,3,Alf Landon,3,Franklin Roosevelt,0,531,Landon Republican,Democratic,Democratic,359383.0,119794.33333333331
+1936,Vermont,3,Alf Landon,3,Franklin Roosevelt,0,531,Landon Republican,Democratic,Republican,359383.0,119794.33333333331
 1936,Virginia,11,Franklin Roosevelt,11,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,2575404.0,234127.63636363635
 1936,Washington,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,1667073.0,208384.125
 1936,West Virginia,8,Franklin Roosevelt,8,Alf Landon,0,531,Roosevelt Democrat,Democratic,Republican,1832866.0,229108.25
@@ -1257,45 +1257,45 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1940,Arizona,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,499261.0,166420.33333333334
 1940,Arkansas,9,Franklin Roosevelt,9,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1949387.0,216598.5555555556
 1940,California,22,Franklin Roosevelt,22,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,6907387.0,313972.13636363635
-1940,Colorado,6,Wendell Willkie,6,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,1123296.0,187216.0
+1940,Colorado,6,Wendell Willkie,6,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,1123296.0,187216.0
 1940,Connecticut,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1709242.0,213655.25
 1940,Delaware,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,266505.0,88835.0
 1940,Florida,7,Franklin Roosevelt,7,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1897414.0,271059.14285714284
 1940,Georgia,12,Franklin Roosevelt,12,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,3123723.0,260310.25
 1940,Idaho,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,524873.0,131218.25
 1940,Illinois,29,Franklin Roosevelt,29,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,7897241.0,272318.6551724138
-1940,Indiana,14,Wendell Willkie,14,Franklin Roosevelt,0,531,Willkie home state,Democratic,Democratic,3427796.0,244842.57142857145
-1940,Iowa,11,Wendell Willkie,11,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,2538268.0,230751.63636363635
-1940,Kansas,9,Wendell Willkie,9,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,1801028.0,200114.22222222225
+1940,Indiana,14,Wendell Willkie,14,Franklin Roosevelt,0,531,Willkie home state,Democratic,Republican,3427796.0,244842.57142857145
+1940,Iowa,11,Wendell Willkie,11,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,2538268.0,230751.63636363635
+1940,Kansas,9,Wendell Willkie,9,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,1801028.0,200114.22222222225
 1940,Kentucky,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2845627.0,258693.36363636365
 1940,Louisiana,10,Franklin Roosevelt,10,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2363880.0,236388.0
-1940,Maine,5,Wendell Willkie,5,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,847226.0,169445.2
+1940,Maine,5,Wendell Willkie,5,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,847226.0,169445.2
 1940,Maryland,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1821244.0,227655.5
 1940,Massachusetts,17,Franklin Roosevelt,17,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,4316721.0,253924.76470588235
-1940,Michigan,19,Wendell Willkie,19,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,5256106.0,276637.15789473685
+1940,Michigan,19,Wendell Willkie,19,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,5256106.0,276637.15789473685
 1940,Minnesota,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2792300.0,253845.45454545456
 1940,Mississippi,9,Franklin Roosevelt,9,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2183796.0,242644.0
 1940,Missouri,15,Franklin Roosevelt,15,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,3784664.0,252310.9333333333
 1940,Montana,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,559456.0,139864.0
-1940,Nebraska,7,Wendell Willkie,7,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,1315834.0,187976.2857142857
+1940,Nebraska,7,Wendell Willkie,7,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,1315834.0,187976.2857142857
 1940,Nevada,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,110247.0,36749.0
 1940,New Hampshire,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,491524.0,122881.0
 1940,New Jersey,16,Franklin Roosevelt,16,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,4160165.0,260010.3125
 1940,New Mexico,3,Franklin Roosevelt,3,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,531818.0,177272.66666666666
 1940,New York,47,Franklin Roosevelt,47,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,13479142.0,286790.25531914894
 1940,North Carolina,13,Franklin Roosevelt,13,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,3571623.0,274740.23076923075
-1940,North Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,641935.0,160483.75
+1940,North Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,641935.0,160483.75
 1940,Ohio,26,Franklin Roosevelt,26,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,6907612.0,265677.3846153846
 1940,Oklahoma,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2336434.0,212403.0909090909
 1940,Oregon,5,Franklin Roosevelt,5,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1089684.0,217936.8
 1940,Pennsylvania,36,Franklin Roosevelt,36,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,9900180.0,275005.0
 1940,Rhode Island,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,713346.0,178336.5
 1940,South Carolina,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1899804.0,237475.5
-1940,South Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,642961.0,160740.25
+1940,South Dakota,4,Wendell Willkie,4,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,642961.0,160740.25
 1940,Tennessee,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2915841.0,265076.45454545453
 1940,Texas,23,Franklin Roosevelt,23,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,6414824.0,278905.39130434784
 1940,Utah,4,Franklin Roosevelt,4,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,550310.0,137577.5
-1940,Vermont,3,Wendell Willkie,3,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Democratic,359231.0,119743.66666666669
+1940,Vermont,3,Wendell Willkie,3,Franklin Roosevelt,0,531,Willkie Republican,Democratic,Republican,359231.0,119743.66666666669
 1940,Virginia,11,Franklin Roosevelt,11,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,2677773.0,243433.9090909091
 1940,Washington,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1736191.0,217023.875
 1940,West Virginia,8,Franklin Roosevelt,8,Wendell Willkie,0,531,Roosevelt Democrat,Democratic,Republican,1901974.0,237746.75
@@ -1305,19 +1305,19 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1944,Arizona,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,599391.0,149847.75
 1944,Arkansas,9,Franklin Roosevelt,9,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1933437.0,214826.3333333333
 1944,California,25,Franklin Roosevelt,25,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,8378921.0,335156.84
-1944,Colorado,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,1204013.0,200668.8333333333
+1944,Colorado,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,1204013.0,200668.8333333333
 1944,Connecticut,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1828457.0,228557.125
 1944,Delaware,3,Franklin Roosevelt,3,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,287137.0,95712.33333333331
 1944,Florida,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2246970.0,280871.25
 1944,Georgia,12,Franklin Roosevelt,12,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,3252065.0,271005.4166666667
 1944,Idaho,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,550379.0,137594.75
 1944,Illinois,28,Franklin Roosevelt,28,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,8223215.0,293686.25
-1944,Indiana,13,Thomas Dewey,13,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,3630367.0,279259.0
-1944,Iowa,10,Thomas Dewey,10,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,2571390.0,257139.0
-1944,Kansas,8,Thomas Dewey,8,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,1842736.0,230342.0
+1944,Indiana,13,Thomas Dewey,13,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,3630367.0,279259.0
+1944,Iowa,10,Thomas Dewey,10,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,2571390.0,257139.0
+1944,Kansas,8,Thomas Dewey,8,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,1842736.0,230342.0
 1944,Kentucky,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2885299.0,262299.9090909091
 1944,Louisiana,10,Franklin Roosevelt,10,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2491734.0,249173.4
-1944,Maine,5,Thomas Dewey,5,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,873845.0,174769.0
+1944,Maine,5,Thomas Dewey,5,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,873845.0,174769.0
 1944,Maryland,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2029947.0,253743.375
 1944,Massachusetts,16,Franklin Roosevelt,16,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,4466238.0,279139.875
 1944,Michigan,19,Franklin Roosevelt,19,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,5702370.0,300124.7368421053
@@ -1325,100 +1325,100 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1944,Mississippi,9,Franklin Roosevelt,9,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2181843.0,242427.0
 1944,Missouri,15,Franklin Roosevelt,15,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,3852660.0,256844.0
 1944,Montana,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,572083.0,143020.75
-1944,Nebraska,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,1319704.0,219950.66666666663
+1944,Nebraska,6,Thomas Dewey,6,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,1319704.0,219950.66666666663
 1944,Nevada,3,Franklin Roosevelt,3,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,130181.0,43393.66666666666
 1944,New Hampshire,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,508211.0,127052.75
 1944,New Jersey,16,Franklin Roosevelt,16,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,4430231.0,276889.4375
 1944,New Mexico,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,591566.0,147891.5
 1944,New York,47,Franklin Roosevelt,47,Thomas Dewey,0,531,Dewey home state lost,Democratic,Republican,14019562.0,298288.55319148937
 1944,North Carolina,14,Franklin Roosevelt,14,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,3767745.0,269124.64285714284
-1944,North Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,633015.0,158253.75
-1944,Ohio,25,Thomas Dewey,25,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,7323218.0,292928.72
+1944,North Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,633015.0,158253.75
+1944,Ohio,25,Thomas Dewey,25,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,7323218.0,292928.72
 1944,Oklahoma,10,Franklin Roosevelt,10,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2295201.0,229520.1
 1944,Oregon,6,Franklin Roosevelt,6,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1262347.0,210391.16666666663
 1944,Pennsylvania,35,Franklin Roosevelt,35,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,10139313.0,289694.65714285715
 1944,Rhode Island,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,744766.0,186191.5
 1944,South Carolina,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1986693.0,248336.625
-1944,South Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,646873.0,161718.25
+1944,South Dakota,4,Thomas Dewey,4,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,646873.0,161718.25
 1944,Tennessee,12,Franklin Roosevelt,12,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,3066192.0,255516.0
 1944,Texas,23,Franklin Roosevelt,23,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,6933372.0,301450.95652173914
 1944,Utah,4,Franklin Roosevelt,4,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,605731.0,151432.75
-1944,Vermont,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,366637.0,122212.33333333331
+1944,Vermont,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,366637.0,122212.33333333331
 1944,Virginia,11,Franklin Roosevelt,11,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,2934136.0,266739.63636363635
 1944,Washington,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1993300.0,249162.5
 1944,West Virginia,8,Franklin Roosevelt,8,Thomas Dewey,0,531,Roosevelt Democrat,Democratic,Republican,1943405.0,242925.625
-1944,Wisconsin,12,Thomas Dewey,12,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,3256382.0,271365.1666666667
-1944,Wyoming,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican,Republican,Democratic,266657.0,88885.66666666667
+1944,Wisconsin,12,Thomas Dewey,12,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,3256382.0,271365.1666666667
+1944,Wyoming,3,Thomas Dewey,3,Franklin Roosevelt,0,531,Dewey Republican,Democratic,Republican,266657.0,88885.66666666667
 1948,Alabama,11,Strom Thurmond,11,Harry Truman,0,531,Thurmond States Rights,States Rights,Democratic,3015987.0,274180.63636363635
 1948,Arizona,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,699522.0,174880.5
 1948,Arkansas,9,Harry Truman,9,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,1917486.0,213054.0
 1948,California,25,Harry Truman,25,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,9850456.0,394018.24
 1948,Colorado,6,Harry Truman,6,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,1284730.0,214121.66666666663
-1948,Connecticut,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Republican,Democratic,1947672.0,243459.0
-1948,Delaware,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican,Republican,Democratic,307769.0,102589.66666666669
+1948,Connecticut,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Democratic,Republican,1947672.0,243459.0
+1948,Delaware,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican,Democratic,Republican,307769.0,102589.66666666669
 1948,Florida,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2596527.0,324565.875
 1948,Georgia,12,Harry Truman,12,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,3380407.0,281700.5833333333
 1948,Idaho,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,575884.0,143971.0
 1948,Illinois,28,Harry Truman,28,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,8549189.0,305328.1785714286
-1948,Indiana,13,Thomas Dewey,13,Harry Truman,0,531,Dewey Republican,Republican,Democratic,3832938.0,294841.3846153846
+1948,Indiana,13,Thomas Dewey,13,Harry Truman,0,531,Dewey Republican,Democratic,Republican,3832938.0,294841.3846153846
 1948,Iowa,10,Harry Truman,10,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2604512.0,260451.2
-1948,Kansas,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Republican,Democratic,1884445.0,235555.625
+1948,Kansas,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Democratic,Republican,1884445.0,235555.625
 1948,Kentucky,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2924970.0,265906.36363636365
 1948,Louisiana,10,Strom Thurmond,10,Harry Truman,0,531,Thurmond States Rights,States Rights,Democratic,2619589.0,261958.9
-1948,Maine,5,Thomas Dewey,5,Harry Truman,0,531,Dewey Republican,Republican,Democratic,900464.0,180092.8
-1948,Maryland,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Republican,Democratic,2238650.0,279831.25
+1948,Maine,5,Thomas Dewey,5,Harry Truman,0,531,Dewey Republican,Democratic,Republican,900464.0,180092.8
+1948,Maryland,8,Thomas Dewey,8,Harry Truman,0,531,Dewey Republican,Democratic,Republican,2238650.0,279831.25
 1948,Massachusetts,16,Harry Truman,16,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,4615755.0,288484.6875
-1948,Michigan,19,Thomas Dewey,19,Harry Truman,0,531,Dewey Republican,Republican,Democratic,6148634.0,323612.3157894737
+1948,Michigan,19,Thomas Dewey,19,Harry Truman,0,531,Dewey Republican,Democratic,Republican,6148634.0,323612.3157894737
 1948,Minnesota,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2944446.0,267676.9090909091
 1948,Mississippi,9,Strom Thurmond,9,Harry Truman,0,531,Thurmond States Rights,States Rights,Democratic,2179890.0,242210.0
 1948,Missouri,15,Harry Truman,15,Thomas Dewey,0,531,Truman home state,Democratic,Republican,3920655.0,261377.0
 1948,Montana,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,584710.0,146177.5
-1948,Nebraska,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican,Republican,Democratic,1323575.0,220595.8333333333
+1948,Nebraska,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican,Democratic,Republican,1323575.0,220595.8333333333
 1948,Nevada,3,Harry Truman,3,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,150116.0,50038.66666666666
-1948,New Hampshire,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Republican,Democratic,524898.0,131224.5
-1948,New Jersey,16,Thomas Dewey,16,Harry Truman,0,531,Dewey Republican,Republican,Democratic,4700296.0,293768.5
+1948,New Hampshire,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Democratic,Republican,524898.0,131224.5
+1948,New Jersey,16,Thomas Dewey,16,Harry Truman,0,531,Dewey Republican,Democratic,Republican,4700296.0,293768.5
 1948,New Mexico,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,651313.0,162828.25
-1948,New York,47,Thomas Dewey,47,Harry Truman,0,531,Dewey home state,Republican,Democratic,14559982.0,309786.8510638298
+1948,New York,47,Thomas Dewey,47,Harry Truman,0,531,Dewey home state,Democratic,Republican,14559982.0,309786.8510638298
 1948,North Carolina,14,Harry Truman,14,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,3963868.0,283133.4285714286
-1948,North Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Republican,Democratic,624096.0,156024.0
+1948,North Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Democratic,Republican,624096.0,156024.0
 1948,Ohio,25,Harry Truman,25,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,7738824.0,309552.96
 1948,Oklahoma,10,Harry Truman,10,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2253968.0,225396.8
-1948,Oregon,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican,Republican,Democratic,1435010.0,239168.3333333333
-1948,Pennsylvania,35,Thomas Dewey,35,Harry Truman,0,531,Dewey Republican,Republican,Democratic,10378446.0,296527.02857142856
+1948,Oregon,6,Thomas Dewey,6,Harry Truman,0,531,Dewey Republican,Democratic,Republican,1435010.0,239168.3333333333
+1948,Pennsylvania,35,Thomas Dewey,35,Harry Truman,0,531,Dewey Republican,Democratic,Republican,10378446.0,296527.02857142856
 1948,Rhode Island,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,776186.0,194046.5
 1948,South Carolina,8,Strom Thurmond,8,Harry Truman,0,531,Thurmond home state,States Rights,Democratic,2073582.0,259197.75
-1948,South Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Republican,Democratic,650784.0,162696.0
+1948,South Dakota,4,Thomas Dewey,4,Harry Truman,0,531,Dewey Republican,Democratic,Republican,650784.0,162696.0
 1948,Tennessee,12,Harry Truman,11,Strom Thurmond,1,531,Split vote,Democratic,Republican,3216543.0,268045.25
 1948,Texas,23,Harry Truman,23,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,7451920.0,323996.52173913043
 1948,Utah,4,Harry Truman,4,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,661152.0,165288.0
-1948,Vermont,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican,Republican,Democratic,374044.0,124681.33333333331
+1948,Vermont,3,Thomas Dewey,3,Harry Truman,0,531,Dewey Republican,Democratic,Republican,374044.0,124681.33333333331
 1948,Virginia,11,Harry Truman,11,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,3190499.0,290045.36363636365
 1948,Washington,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,2250409.0,281301.125
 1948,West Virginia,8,Harry Truman,8,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,1984836.0,248104.5
 1948,Wisconsin,12,Harry Truman,12,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,3375177.0,281264.75
 1948,Wyoming,3,Harry Truman,3,Thomas Dewey,0,531,Truman Democrat,Democratic,Republican,282572.0,94190.66666666669
-1952,Alabama,11,Adlai Stevenson,11,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,3102742.0,282067.45454545453
+1952,Alabama,11,Adlai Stevenson,11,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,3102742.0,282067.45454545453
 1952,Arizona,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,860102.0,215025.5
-1952,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,1884863.0,235607.875
+1952,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,1884863.0,235607.875
 1952,California,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,11612419.0,362888.09375
 1952,Colorado,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1410861.0,235143.5
 1952,Connecticut,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2112871.0,264108.875
 1952,Delaware,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,343726.0,114575.33333333331
 1952,Florida,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3207356.0,320735.6
-1952,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,3544286.0,295357.1666666667
+1952,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,3544286.0,295357.1666666667
 1952,Idaho,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,604348.0,151087.0
 1952,Illinois,27,Dwight Eisenhower,27,Adlai Stevenson,0,531,Stevenson home state lost,Republican,Democratic,8985972.0,332813.7777777777
 1952,Indiana,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4079879.0,313836.8461538461
 1952,Iowa,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2648366.0,264836.6
 1952,Kansas,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1959961.0,244995.125
-1952,Kentucky,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2963476.0,296347.6
-1952,Louisiana,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2798217.0,279821.7
+1952,Kentucky,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2963476.0,296347.6
+1952,Louisiana,10,Adlai Stevenson,10,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2798217.0,279821.7
 1952,Maine,5,Dwight Eisenhower,5,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,924872.0,184974.4
 1952,Maryland,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2494539.0,277171.0
 1952,Massachusetts,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4782127.0,298882.9375
 1952,Michigan,20,Dwight Eisenhower,20,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,6662052.0,333102.6
 1952,Minnesota,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3068759.0,278978.0909090909
-1952,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2178759.0,272344.875
+1952,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2178759.0,272344.875
 1952,Missouri,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4027685.0,309821.92307692306
 1952,Montana,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,607773.0,151943.25
 1952,Nebraska,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1342674.0,223779.0
@@ -1427,14 +1427,14 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1952,New Jersey,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,5081620.0,317601.25
 1952,New Mexico,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,735154.0,183788.5
 1952,New York,45,Dwight Eisenhower,45,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,15220614.0,338235.86666666664
-1952,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,4160774.0,297198.14285714284
+1952,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,4160774.0,297198.14285714284
 1952,North Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,622198.0,155549.5
 1952,Ohio,25,Dwight Eisenhower,25,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,8298581.0,331943.24
 1952,Oklahoma,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2252338.0,281542.25
 1952,Oregon,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1570810.0,261801.66666666663
 1952,Pennsylvania,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,10662283.0,333196.34375
 1952,Rhode Island,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,805414.0,201353.5
-1952,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2170140.0,271267.5
+1952,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2170140.0,271267.5
 1952,South Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,658295.0,164573.75
 1952,Tennessee,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3346792.0,304253.8181818182
 1952,Texas,24,Dwight Eisenhower,24,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,8084891.0,336870.4583333333
@@ -1442,18 +1442,18 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1952,Vermont,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,380174.0,126724.66666666669
 1952,Virginia,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3448334.0,287361.1666666667
 1952,Washington,9,Dwight Eisenhower,9,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2473813.0,274868.1111111111
-1952,West Virginia,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,1976526.0,247065.75
+1952,West Virginia,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,1976526.0,247065.75
 1952,Wisconsin,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3538015.0,294834.5833333333
 1952,Wyoming,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,298436.0,99478.66666666669
-1956,Alabama,11,Adlai Stevenson,10,Dwight Eisenhower,0,531,1 faithless elector,Democratic,Republican,3184741.0,289521.9090909091
+1956,Alabama,11,Adlai Stevenson,10,Dwight Eisenhower,0,531,1 faithless elector,Republican,Democratic,3184741.0,289521.9090909091
 1956,Arizona,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1081131.0,270282.75
-1956,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,1835568.0,229446.0
+1956,Arkansas,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,1835568.0,229446.0
 1956,California,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,13664812.0,427025.375
 1956,Colorado,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1582404.0,263734.0
 1956,Connecticut,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2324052.0,290506.5
 1956,Delaware,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,395009.0,131669.66666666666
 1956,Florida,10,Dwight Eisenhower,10,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4079458.0,407945.8
-1956,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,3743701.0,311975.0833333333
+1956,Georgia,12,Adlai Stevenson,12,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,3743701.0,311975.0833333333
 1956,Idaho,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,635769.0,158942.25
 1956,Illinois,27,Dwight Eisenhower,27,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,9533565.0,353095.0
 1956,Indiana,13,Dwight Eisenhower,13,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4371188.0,336245.23076923075
@@ -1466,8 +1466,8 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1956,Massachusetts,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,4965352.0,310334.5
 1956,Michigan,20,Dwight Eisenhower,20,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,7242623.0,362131.15
 1956,Minnesota,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3241312.0,294664.7272727273
-1956,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2178450.0,272306.25
-1956,Missouri,13,Adlai Stevenson,13,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,4173749.0,321057.6153846154
+1956,Mississippi,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2178450.0,272306.25
+1956,Missouri,13,Adlai Stevenson,13,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,4173749.0,321057.6153846154
 1956,Montana,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,641270.0,160317.5
 1956,Nebraska,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1377002.0,229500.3333333333
 1956,Nevada,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,235200.0,78400.0
@@ -1475,14 +1475,14 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1956,New Jersey,16,Dwight Eisenhower,16,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,5574201.0,348387.5625
 1956,New Mexico,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,843089.0,210772.25
 1956,New York,45,Dwight Eisenhower,45,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,16001459.0,355587.97777777776
-1956,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,4358465.0,311318.9285714286
+1956,North Carolina,14,Adlai Stevenson,14,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,4358465.0,311318.9285714286
 1956,North Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,627322.0,156830.5
 1956,Ohio,25,Dwight Eisenhower,25,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,9002489.0,360099.56
 1956,Oklahoma,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,2290311.0,286288.875
 1956,Oregon,6,Dwight Eisenhower,6,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1669749.0,278291.5
 1956,Pennsylvania,32,Dwight Eisenhower,32,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,10990824.0,343463.25
 1956,Rhode Island,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,832451.0,208112.75
-1956,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Democratic,Republican,2276367.0,284545.875
+1956,South Carolina,8,Adlai Stevenson,8,Dwight Eisenhower,0,531,Stevenson Democrat,Republican,Democratic,2276367.0,284545.875
 1956,South Dakota,4,Dwight Eisenhower,4,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,669404.0,167351.0
 1956,Tennessee,11,Dwight Eisenhower,11,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3456941.0,314267.36363636365
 1956,Texas,24,Dwight Eisenhower,24,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,8832284.0,368011.8333333333
@@ -1493,59 +1493,59 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1956,West Virginia,8,Dwight Eisenhower,8,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,1918473.0,239809.125
 1956,Wisconsin,12,Dwight Eisenhower,12,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,3744896.0,312074.6666666667
 1956,Wyoming,3,Dwight Eisenhower,3,Adlai Stevenson,0,531,Eisenhower Republican,Republican,Democratic,314251.0,104750.33333333331
-1960,Alabama,11,Harry Byrd,6,John Kennedy,5,537,Split vote,Democratic,Democratic,3266740.0,296976.36363636365
-1960,Alaska,3,Richard Nixon,3,John Kennedy,0,537,New state 1959,Republican,Democratic,226167.0,75389.0
-1960,Arizona,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,1302161.0,325540.25
+1960,Alabama,11,Harry Byrd,6,John Kennedy,5,537,Split vote,Democratic,Republican,3266740.0,296976.36363636365
+1960,Alaska,3,Richard Nixon,3,John Kennedy,0,537,New state 1959,Democratic,Republican,226167.0,75389.0
+1960,Arizona,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,1302161.0,325540.25
 1960,Arkansas,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,1786272.0,223284.0
-1960,California,32,Richard Nixon,32,John Kennedy,0,537,Nixon Republican,Republican,Democratic,15717204.0,491162.625
-1960,Colorado,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Republican,Democratic,1753947.0,292324.5
+1960,California,32,Richard Nixon,32,John Kennedy,0,537,Nixon Republican,Democratic,Republican,15717204.0,491162.625
+1960,Colorado,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Democratic,Republican,1753947.0,292324.5
 1960,Connecticut,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,2535234.0,316904.25
 1960,Delaware,3,John Kennedy,3,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,446292.0,148764.0
-1960,Florida,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Republican,Democratic,4951560.0,495156.0
+1960,Florida,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Democratic,Republican,4951560.0,495156.0
 1960,Georgia,12,John Kennedy,12,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,3943116.0,328593.0
 1960,Hawaii,3,John Kennedy,3,Richard Nixon,0,537,New state 1959,Democratic,Republican,632772.0,210924.0
-1960,Idaho,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,667191.0,166797.75
+1960,Idaho,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,667191.0,166797.75
 1960,Illinois,27,John Kennedy,27,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,10081158.0,373376.2222222223
-1960,Indiana,13,Richard Nixon,13,John Kennedy,0,537,Nixon Republican,Republican,Democratic,4662498.0,358653.6923076923
-1960,Iowa,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Republican,Democratic,2757537.0,275753.7
-1960,Kansas,8,Richard Nixon,8,John Kennedy,0,537,Nixon Republican,Republican,Democratic,2178611.0,272326.375
-1960,Kentucky,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Republican,Democratic,3038156.0,303815.6
+1960,Indiana,13,Richard Nixon,13,John Kennedy,0,537,Nixon Republican,Democratic,Republican,4662498.0,358653.6923076923
+1960,Iowa,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Democratic,Republican,2757537.0,275753.7
+1960,Kansas,8,Richard Nixon,8,John Kennedy,0,537,Nixon Republican,Democratic,Republican,2178611.0,272326.375
+1960,Kentucky,10,Richard Nixon,10,John Kennedy,0,537,Nixon Republican,Democratic,Republican,3038156.0,303815.6
 1960,Louisiana,10,John Kennedy,10,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,3257022.0,325702.2
-1960,Maine,5,Richard Nixon,5,John Kennedy,0,537,Nixon Republican,Republican,Democratic,969265.0,193853.0
+1960,Maine,5,Richard Nixon,5,John Kennedy,0,537,Nixon Republican,Democratic,Republican,969265.0,193853.0
 1960,Maryland,9,John Kennedy,9,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,3100689.0,344521.0
 1960,Massachusetts,16,John Kennedy,16,Richard Nixon,0,537,Kennedy home state,Democratic,Republican,5148578.0,321786.125
 1960,Michigan,20,John Kennedy,20,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,7823194.0,391159.7
 1960,Minnesota,11,John Kennedy,11,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,3413864.0,310351.2727272727
-1960,Mississippi,8,Harry Byrd,8,John Kennedy,0,537,Unpledged electors,Democratic,Democratic,2178141.0,272267.625
+1960,Mississippi,8,Harry Byrd,8,John Kennedy,0,537,Unpledged electors,Democratic,Unpledged,2178141.0,272267.625
 1960,Missouri,13,John Kennedy,13,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,4319813.0,332293.3076923077
-1960,Montana,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,674767.0,168691.75
-1960,Nebraska,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Republican,Democratic,1411330.0,235221.66666666663
+1960,Montana,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,674767.0,168691.75
+1960,Nebraska,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Democratic,Republican,1411330.0,235221.66666666663
 1960,Nevada,3,John Kennedy,3,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,285278.0,95092.66666666669
-1960,New Hampshire,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,606921.0,151730.25
+1960,New Hampshire,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,606921.0,151730.25
 1960,New Jersey,16,John Kennedy,16,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,6066782.0,379173.875
 1960,New Mexico,4,John Kennedy,4,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,951023.0,237755.75
 1960,New York,45,John Kennedy,45,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,16782304.0,372940.0888888889
 1960,North Carolina,14,John Kennedy,14,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,4556155.0,325439.64285714284
-1960,North Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,632446.0,158111.5
-1960,Ohio,25,Richard Nixon,25,John Kennedy,0,537,Nixon Republican,Republican,Democratic,9706397.0,388255.88
-1960,Oklahoma,8,Richard Nixon,7,John Kennedy,0,537,1 faithless elector,Republican,Democratic,2328284.0,291035.5
-1960,Oregon,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Republican,Democratic,1768687.0,294781.1666666667
+1960,North Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,632446.0,158111.5
+1960,Ohio,25,Richard Nixon,25,John Kennedy,0,537,Nixon Republican,Democratic,Republican,9706397.0,388255.88
+1960,Oklahoma,8,Richard Nixon,7,John Kennedy,0,537,1 faithless elector,Democratic,Republican,2328284.0,291035.5
+1960,Oregon,6,Richard Nixon,6,John Kennedy,0,537,Nixon Republican,Democratic,Republican,1768687.0,294781.1666666667
 1960,Pennsylvania,32,John Kennedy,32,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,11319366.0,353730.1875
 1960,Rhode Island,4,John Kennedy,4,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,859488.0,214872.0
 1960,South Carolina,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,2382594.0,297824.25
-1960,South Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,680514.0,170128.5
-1960,Tennessee,11,Richard Nixon,11,John Kennedy,0,537,Nixon Republican,Republican,Democratic,3567089.0,324280.8181818182
+1960,South Dakota,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,680514.0,170128.5
+1960,Tennessee,11,Richard Nixon,11,John Kennedy,0,537,Nixon Republican,Democratic,Republican,3567089.0,324280.8181818182
 1960,Texas,24,John Kennedy,24,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,9579677.0,399153.2083333333
-1960,Utah,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Republican,Democratic,890627.0,222656.75
-1960,Vermont,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican,Republican,Democratic,389881.0,129960.33333333331
-1960,Virginia,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican,Republican,Democratic,3966949.0,330579.0833333333
-1960,Washington,9,Richard Nixon,9,John Kennedy,0,537,Nixon Republican,Republican,Democratic,2853214.0,317023.7777777777
+1960,Utah,4,Richard Nixon,4,John Kennedy,0,537,Nixon Republican,Democratic,Republican,890627.0,222656.75
+1960,Vermont,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican,Democratic,Republican,389881.0,129960.33333333331
+1960,Virginia,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican,Democratic,Republican,3966949.0,330579.0833333333
+1960,Washington,9,Richard Nixon,9,John Kennedy,0,537,Nixon Republican,Democratic,Republican,2853214.0,317023.7777777777
 1960,West Virginia,8,John Kennedy,8,Richard Nixon,0,537,Kennedy Democrat,Democratic,Republican,1860421.0,232552.625
-1960,Wisconsin,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican,Republican,Democratic,3951777.0,329314.75
-1960,Wyoming,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican,Republican,Democratic,330066.0,110022.0
-1964,Alabama,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican,Republican,Democratic,3337710.0,333771.0
+1960,Wisconsin,12,Richard Nixon,12,John Kennedy,0,537,Nixon Republican,Democratic,Republican,3951777.0,329314.75
+1960,Wyoming,3,Richard Nixon,3,John Kennedy,0,537,Nixon Republican,Democratic,Republican,330066.0,110022.0
+1964,Alabama,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican,Democratic,Republican,3337710.0,333771.0
 1964,Alaska,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,256569.0,85523.0
-1964,Arizona,5,Barry Goldwater,5,Lyndon Johnson,0,538,Goldwater home state,Republican,Democratic,1489657.0,297931.4
+1964,Arizona,5,Barry Goldwater,5,Lyndon Johnson,0,538,Goldwater home state,Democratic,Republican,1489657.0,297931.4
 1964,Arkansas,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,1841081.0,306846.8333333333
 1964,California,40,Lyndon Johnson,40,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,17411576.0,435289.4
 1964,Colorado,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,1935272.0,322545.3333333333
@@ -1553,7 +1553,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1964,Delaware,3,Lyndon Johnson,3,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,487017.0,162339.0
 1964,District of Columbia,3,Lyndon Johnson,3,Barry Goldwater,0,538,First DC vote,Democratic,Republican,760000.0,253333.33
 1964,Florida,14,Lyndon Johnson,14,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,5686713.0,406193.78571428574
-1964,Georgia,12,Barry Goldwater,12,Lyndon Johnson,0,538,Goldwater Republican,Republican,Democratic,4201700.0,350141.6666666667
+1964,Georgia,12,Barry Goldwater,12,Lyndon Johnson,0,538,Goldwater Republican,Democratic,Republican,4201700.0,350141.6666666667
 1964,Hawaii,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,687628.0,171907.0
 1964,Idaho,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,685341.0,171335.25
 1964,Illinois,26,Lyndon Johnson,26,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,10494285.0,403626.3461538461
@@ -1561,13 +1561,13 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1964,Iowa,9,Lyndon Johnson,9,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,2784273.0,309363.6666666667
 1964,Kansas,7,Lyndon Johnson,7,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,2205798.0,315114.0
 1964,Kentucky,9,Lyndon Johnson,9,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,3110376.0,345597.3333333333
-1964,Louisiana,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican,Republican,Democratic,3410736.0,341073.6
+1964,Louisiana,10,Barry Goldwater,10,Lyndon Johnson,0,538,Goldwater Republican,Democratic,Republican,3410736.0,341073.6
 1964,Maine,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,978378.0,244594.5
 1964,Maryland,10,Lyndon Johnson,10,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,3429373.0,342937.3
 1964,Massachusetts,14,Lyndon Johnson,14,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,5364815.0,383201.0714285714
 1964,Michigan,21,Lyndon Johnson,21,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,8243950.0,392569.0476190476
 1964,Minnesota,10,Lyndon Johnson,10,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,3570307.0,357030.7
-1964,Mississippi,7,Barry Goldwater,7,Lyndon Johnson,0,538,Goldwater Republican,Republican,Democratic,2193649.0,313378.4285714286
+1964,Mississippi,7,Barry Goldwater,7,Lyndon Johnson,0,538,Goldwater Republican,Democratic,Republican,2193649.0,313378.4285714286
 1964,Missouri,12,Lyndon Johnson,12,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,4462488.0,371874.0
 1964,Montana,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,682624.0,170656.0
 1964,Nebraska,5,Lyndon Johnson,5,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,1440195.0,288039.0
@@ -1583,7 +1583,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1964,Oregon,6,Lyndon Johnson,6,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,1897766.0,316294.3333333333
 1964,Pennsylvania,29,Lyndon Johnson,29,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,11509183.0,396868.3793103448
 1964,Rhode Island,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,894383.0,223595.75
-1964,South Carolina,8,Barry Goldwater,8,Lyndon Johnson,0,538,Goldwater Republican,Republican,Democratic,2465763.0,308220.375
+1964,South Carolina,8,Barry Goldwater,8,Lyndon Johnson,0,538,Goldwater Republican,Democratic,Republican,2465763.0,308220.375
 1964,South Dakota,4,Lyndon Johnson,4,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,674511.0,168627.75
 1964,Tennessee,11,Lyndon Johnson,11,Barry Goldwater,0,538,Johnson Democrat,Democratic,Republican,3709728.0,337248.0
 1964,Texas,25,Lyndon Johnson,25,Barry Goldwater,0,538,Johnson home state,Democratic,Republican,10226498.0,409059.92
@@ -1597,27 +1597,27 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1968,Alabama,10,George Wallace,10,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Democratic,3408680.0,340868.0
 1968,Alaska,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,286972.0,95657.33333333331
 1968,Arizona,5,Richard Nixon,5,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,1677152.0,335430.4
-1968,Arkansas,6,George Wallace,6,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Democratic,1895890.0,315981.6666666667
+1968,Arkansas,6,George Wallace,6,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Republican,1895890.0,315981.6666666667
 1968,California,40,Richard Nixon,40,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,19105948.0,477648.7
 1968,Colorado,6,Richard Nixon,6,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2116597.0,352766.1666666667
-1968,Connecticut,8,Hubert Humphrey,8,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,2932414.0,366551.75
+1968,Connecticut,8,Hubert Humphrey,8,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,2932414.0,366551.75
 1968,Delaware,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,527742.0,175914.0
 1968,District of Columbia,3,Hubert Humphrey,3,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,757000.0,252333.33
 1968,Florida,14,Richard Nixon,14,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,6421866.0,458704.7142857143
 1968,Georgia,12,George Wallace,12,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Democratic,4460283.0,371690.25
-1968,Hawaii,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,742485.0,185621.25
+1968,Hawaii,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,742485.0,185621.25
 1968,Idaho,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,703492.0,175873.0
 1968,Illinois,26,Richard Nixon,26,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,10907412.0,419515.8461538461
 1968,Indiana,13,Richard Nixon,13,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,5087435.0,391341.1538461539
 1968,Iowa,9,Richard Nixon,9,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2811008.0,312334.22222222225
 1968,Kansas,7,Richard Nixon,7,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2232985.0,318997.8571428572
 1968,Kentucky,9,Richard Nixon,9,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,3182596.0,353621.7777777777
-1968,Louisiana,10,George Wallace,10,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Democratic,3564449.0,356444.9
-1968,Maine,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,987491.0,246872.75
-1968,Maryland,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,3758057.0,375805.7
-1968,Massachusetts,14,Hubert Humphrey,14,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,5581052.0,398646.5714285714
-1968,Michigan,21,Hubert Humphrey,21,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,8664705.0,412605.0
-1968,Minnesota,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey home state,Democratic,Republican,3726750.0,372675.0
+1968,Louisiana,10,George Wallace,10,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Republican,3564449.0,356444.9
+1968,Maine,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,987491.0,246872.75
+1968,Maryland,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,3758057.0,375805.7
+1968,Massachusetts,14,Hubert Humphrey,14,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,5581052.0,398646.5714285714
+1968,Michigan,21,Hubert Humphrey,21,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,8664705.0,412605.0
+1968,Minnesota,10,Hubert Humphrey,10,Richard Nixon,0,538,Humphrey home state,Republican,Democratic,3726750.0,372675.0
 1968,Mississippi,7,George Wallace,7,Hubert Humphrey,0,538,Wallace American Independent,American Independent,Democratic,2209158.0,315594.0
 1968,Missouri,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,4605163.0,383763.5833333333
 1968,Montana,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,690481.0,172620.25
@@ -1626,23 +1626,23 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1968,New Hampshire,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,711529.0,177882.25
 1968,New Jersey,17,Richard Nixon,17,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,6947888.0,408699.2941176471
 1968,New Mexico,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,1003005.0,250751.25
-1968,New York,43,Hubert Humphrey,43,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,17402918.0,404719.0232558139
+1968,New York,43,Hubert Humphrey,43,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,17402918.0,404719.0232558139
 1968,North Carolina,13,Richard Nixon,12,George Wallace,1,538,Split vote,Republican,Democratic,4976878.0,382836.7692307693
 1968,North Dakota,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,620698.0,155174.5
 1968,Ohio,26,Richard Nixon,26,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,10462893.0,402418.9615384616
 1968,Oklahoma,8,Richard Nixon,8,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2513040.0,314130.0
 1968,Oregon,6,Richard Nixon,6,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2026845.0,337807.5
-1968,Pennsylvania,29,Hubert Humphrey,29,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,11699000.0,403413.7931034483
-1968,Rhode Island,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,929278.0,232319.5
+1968,Pennsylvania,29,Hubert Humphrey,29,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,11699000.0,403413.7931034483
+1968,Rhode Island,4,Hubert Humphrey,4,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,929278.0,232319.5
 1968,South Carolina,8,Richard Nixon,8,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,2548932.0,318616.5
 1968,South Dakota,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,668508.0,167127.0
 1968,Tennessee,11,Richard Nixon,11,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,3852367.0,350215.1818181818
-1968,Texas,25,Hubert Humphrey,25,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,10873319.0,434932.76
+1968,Texas,25,Hubert Humphrey,25,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,10873319.0,434932.76
 1968,Utah,4,Richard Nixon,4,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,1025544.0,256386.0
 1968,Vermont,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,433440.0,144480.0
 1968,Virginia,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,4512185.0,376015.4166666667
-1968,Washington,9,Hubert Humphrey,9,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,3297978.0,366442.0
-1968,West Virginia,7,Hubert Humphrey,7,Richard Nixon,0,538,Humphrey Democrat,Democratic,Republican,1767474.0,252496.2857142857
+1968,Washington,9,Hubert Humphrey,9,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,3297978.0,366442.0
+1968,West Virginia,7,Hubert Humphrey,7,Richard Nixon,0,538,Humphrey Democrat,Republican,Democratic,1767474.0,252496.2857142857
 1968,Wisconsin,12,Richard Nixon,12,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,4324540.0,360378.3333333333
 1968,Wyoming,3,Richard Nixon,3,Hubert Humphrey,0,538,Nixon Republican,Republican,Democratic,331946.0,110648.66666666669
 1972,Alabama,9,Richard Nixon,9,George McGovern,0,538,Nixon Republican,Republican,Democratic,3534110.0,392678.8888888889
@@ -1666,7 +1666,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1972,Louisiana,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican,Republican,Democratic,3754225.0,375422.5
 1972,Maine,4,Richard Nixon,4,George McGovern,0,538,Nixon Republican,Republican,Democratic,1018570.0,254642.5
 1972,Maryland,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican,Republican,Democratic,3981314.0,398131.4
-1972,Massachusetts,14,George McGovern,14,Richard Nixon,0,538,McGovern Democrat,Democratic,Republican,5698743.0,407053.0714285714
+1972,Massachusetts,14,George McGovern,14,Richard Nixon,0,538,McGovern Democrat,Republican,Democratic,5698743.0,407053.0714285714
 1972,Michigan,21,Richard Nixon,21,George McGovern,0,538,Nixon Republican,Republican,Democratic,8952482.0,426308.6666666667
 1972,Minnesota,10,Richard Nixon,10,George McGovern,0,538,Nixon Republican,Republican,Democratic,3859171.0,385917.1
 1972,Mississippi,7,Richard Nixon,7,George McGovern,0,538,Nixon Republican,Republican,Democratic,2277657.0,325379.5714285714
@@ -1697,56 +1697,56 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1972,Wisconsin,11,Richard Nixon,11,George McGovern,0,538,Nixon Republican,Republican,Democratic,4475338.0,406848.9090909091
 1972,Wyoming,3,Richard Nixon,3,George McGovern,0,538,Nixon Republican,Republican,Democratic,359844.0,119948.0
 1976,Alabama,9,Jimmy Carter,9,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,3713999.0,412666.5555555556
-1976,Alaska,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,361980.0,120660.0
-1976,Arizona,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2339289.0,389881.5
+1976,Alaska,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,361980.0,120660.0
+1976,Arizona,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2339289.0,389881.5
 1976,Arkansas,6,Jimmy Carter,6,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,2141179.0,356863.1666666667
-1976,California,45,Gerald Ford,45,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,22181995.0,492933.2222222223
-1976,Colorado,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2616882.0,373840.28571428574
-1976,Connecticut,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,3077229.0,384653.625
+1976,California,45,Gerald Ford,45,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,22181995.0,492933.2222222223
+1976,Colorado,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2616882.0,373840.28571428574
+1976,Connecticut,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,3077229.0,384653.625
 1976,Delaware,3,Jimmy Carter,3,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,575844.0,191948.0
 1976,District of Columbia,3,Jimmy Carter,3,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,690000.0,230000.0
 1976,Florida,17,Jimmy Carter,17,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,8563572.0,503739.5294117647
 1976,Georgia,12,Jimmy Carter,12,Gerald Ford,0,538,Carter home state,Democratic,Republican,5113693.0,426141.0833333333
 1976,Hawaii,4,Jimmy Carter,4,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,886780.0,221695.0
-1976,Idaho,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,851388.0,212847.0
-1976,Illinois,26,Gerald Ford,26,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,11301501.0,434673.1153846154
-1976,Indiana,13,Gerald Ford,13,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,5371602.0,413200.1538461539
-1976,Iowa,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2878035.0,359754.375
-1976,Kansas,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2316839.0,330977.0
+1976,Idaho,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,851388.0,212847.0
+1976,Illinois,26,Gerald Ford,26,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,11301501.0,434673.1153846154
+1976,Indiana,13,Gerald Ford,13,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,5371602.0,413200.1538461539
+1976,Iowa,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2878035.0,359754.375
+1976,Kansas,7,Gerald Ford,7,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2316839.0,330977.0
 1976,Kentucky,9,Jimmy Carter,9,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,3483949.0,387105.4444444445
 1976,Louisiana,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,3980062.0,398006.2
-1976,Maine,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,1071615.0,267903.75
+1976,Maine,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,1071615.0,267903.75
 1976,Maryland,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,4099145.0,409914.5
 1976,Massachusetts,14,Jimmy Carter,14,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,5717890.0,408420.7142857143
-1976,Michigan,21,Gerald Ford,21,Jimmy Carter,0,538,Ford home state,Republican,Democratic,9107280.0,433680.0
+1976,Michigan,21,Gerald Ford,21,Jimmy Carter,0,538,Ford home state,Democratic,Republican,9107280.0,433680.0
 1976,Minnesota,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,3967570.0,396757.0
 1976,Mississippi,7,Jimmy Carter,7,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,2399148.0,342735.4285714286
 1976,Missouri,12,Jimmy Carter,12,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,4820612.0,401717.6666666667
-1976,Montana,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,749778.0,187444.5
-1976,Nebraska,5,Gerald Ford,5,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,1535292.0,307058.4
-1976,Nevada,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,675791.0,225263.66666666663
-1976,New Hampshire,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,847438.0,211859.5
-1976,New Jersey,17,Gerald Ford,17,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,7286159.0,428597.5882352941
-1976,New Mexico,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,1188136.0,297034.0
+1976,Montana,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,749778.0,187444.5
+1976,Nebraska,5,Gerald Ford,5,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,1535292.0,307058.4
+1976,Nevada,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,675791.0,225263.66666666663
+1976,New Hampshire,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,847438.0,211859.5
+1976,New Jersey,17,Gerald Ford,17,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,7286159.0,428597.5882352941
+1976,New Mexico,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,1188136.0,297034.0
 1976,New York,41,Jimmy Carter,41,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,17558072.0,428245.6585365853
 1976,North Carolina,13,Jimmy Carter,13,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,5561883.0,427837.1538461539
-1976,North Dakota,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,638735.0,212911.66666666663
+1976,North Dakota,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,638735.0,212911.66666666663
 1976,Ohio,25,Jimmy Carter,25,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,10739385.0,429575.4
-1976,Oklahoma,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2838866.0,354858.25
-1976,Oregon,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,2416417.0,402736.1666666667
+1976,Oklahoma,8,Gerald Ford,8,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2838866.0,354858.25
+1976,Oregon,6,Gerald Ford,6,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,2416417.0,402736.1666666667
 1976,Pennsylvania,27,Jimmy Carter,27,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,11835901.0,438366.7037037037
 1976,Rhode Island,4,Jimmy Carter,4,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,946982.0,236745.5
 1976,South Carolina,8,Jimmy Carter,8,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,2909298.0,363662.25
-1976,South Dakota,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,680664.0,170166.0
+1976,South Dakota,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,680664.0,170166.0
 1976,Tennessee,10,Jimmy Carter,10,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,4324147.0,432414.7
 1976,Texas,26,Jimmy Carter,26,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,13016207.0,500623.3461538461
-1976,Utah,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,1300331.0,325082.75
-1976,Vermont,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,484606.0,161535.33333333334
-1976,Virginia,12,Gerald Ford,12,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,5067488.0,422290.6666666667
+1976,Utah,4,Gerald Ford,4,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,1300331.0,325082.75
+1976,Vermont,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,484606.0,161535.33333333334
+1976,Virginia,12,Gerald Ford,12,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,5067488.0,422290.6666666667
 1976,Washington,9,Gerald Ford,8,Jimmy Carter,0,538,1 faithless elector,Republican,Democratic,3842961.0,426995.6666666667
 1976,West Virginia,6,Jimmy Carter,6,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,1867481.0,311246.8333333333
 1976,Wisconsin,11,Jimmy Carter,11,Gerald Ford,0,538,Carter Democrat,Democratic,Republican,4590553.0,417323.0
-1976,Wyoming,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Republican,Democratic,414701.0,138233.66666666666
+1976,Wyoming,3,Gerald Ford,3,Jimmy Carter,0,538,Ford Republican,Democratic,Republican,414701.0,138233.66666666666
 1980,Alabama,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,3893888.0,432654.2222222223
 1980,Alaska,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,401851.0,133950.33333333334
 1980,Arizona,6,Ronald Reagan,6,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,2718215.0,453035.8333333333
@@ -1757,8 +1757,8 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1980,Delaware,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,594338.0,198112.66666666663
 1980,District of Columbia,3,Jimmy Carter,3,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,638333.0,212777.67
 1980,Florida,17,Ronald Reagan,17,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,9746324.0,573313.1764705882
-1980,Georgia,12,Jimmy Carter,12,Ronald Reagan,0,538,Carter home state,Democratic,Republican,5463105.0,455258.75
-1980,Hawaii,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,964691.0,241172.75
+1980,Georgia,12,Jimmy Carter,12,Ronald Reagan,0,538,Carter home state,Republican,Democratic,5463105.0,455258.75
+1980,Hawaii,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat,Republican,Democratic,964691.0,241172.75
 1980,Idaho,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,943935.0,235983.75
 1980,Illinois,26,Ronald Reagan,26,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,11426518.0,439481.4615384616
 1980,Indiana,13,Ronald Reagan,13,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,5490224.0,422324.9230769231
@@ -1767,10 +1767,10 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1980,Kentucky,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,3660777.0,406753.0
 1980,Louisiana,10,Ronald Reagan,10,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,4205900.0,420590.0
 1980,Maine,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,1124660.0,281165.0
-1980,Maryland,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,4216975.0,421697.5
+1980,Maryland,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat,Republican,Democratic,4216975.0,421697.5
 1980,Massachusetts,14,Ronald Reagan,14,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,5737037.0,409788.3571428572
 1980,Michigan,21,Ronald Reagan,21,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,9262078.0,441051.3333333333
-1980,Minnesota,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,4075970.0,407597.0
+1980,Minnesota,10,Jimmy Carter,10,Ronald Reagan,0,538,Carter Democrat,Republican,Democratic,4075970.0,407597.0
 1980,Mississippi,7,Ronald Reagan,7,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,2520638.0,360091.14285714284
 1980,Missouri,12,Ronald Reagan,12,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,4916686.0,409723.8333333333
 1980,Montana,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,786690.0,196672.5
@@ -1786,7 +1786,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1980,Oklahoma,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,3025290.0,378161.25
 1980,Oregon,6,Ronald Reagan,6,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,2633105.0,438850.8333333333
 1980,Pennsylvania,27,Ronald Reagan,27,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,11863895.0,439403.51851851854
-1980,Rhode Island,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,947154.0,236788.5
+1980,Rhode Island,4,Jimmy Carter,4,Ronald Reagan,0,538,Carter Democrat,Republican,Democratic,947154.0,236788.5
 1980,South Carolina,8,Ronald Reagan,8,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,3121820.0,390227.5
 1980,South Dakota,4,Ronald Reagan,4,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,690768.0,172692.0
 1980,Tennessee,10,Ronald Reagan,10,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,4591120.0,459112.0
@@ -1795,7 +1795,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1980,Vermont,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,511456.0,170485.33333333334
 1980,Virginia,12,Ronald Reagan,12,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,5346818.0,445568.1666666667
 1980,Washington,9,Ronald Reagan,9,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,4132156.0,459128.4444444445
-1980,West Virginia,6,Jimmy Carter,6,Ronald Reagan,0,538,Carter Democrat,Democratic,Republican,1949644.0,324940.6666666667
+1980,West Virginia,6,Jimmy Carter,6,Ronald Reagan,0,538,Carter Democrat,Republican,Democratic,1949644.0,324940.6666666667
 1980,Wisconsin,11,Ronald Reagan,11,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,4705767.0,427797.0
 1980,Wyoming,3,Ronald Reagan,3,Jimmy Carter,0,538,Reagan Republican,Republican,Democratic,469557.0,156519.0
 1984,Alabama,9,Ronald Reagan,9,Walter Mondale,0,538,Reagan Republican,Republican,Democratic,3952568.0,439174.2222222223
@@ -1860,19 +1860,19 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,District of Columbia,3,Michael Dukakis,3,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Republican,620000.0,206666.67
 1988,Florida,21,George H.W. Bush,21,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,12299606.0,585695.5238095238
 1988,Georgia,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,6275194.0,522932.8333333333
-1988,Hawaii,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,1079521.0,269880.25
+1988,Hawaii,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,1079521.0,269880.25
 1988,Idaho,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,994186.0,248546.5
 1988,Illinois,24,George H.W. Bush,24,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,11429785.0,476241.0416666667
 1988,Indiana,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,5533372.0,461114.3333333333
-1988,Iowa,8,Michael Dukakis,7,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,2804166.0,350520.75
+1988,Iowa,8,Michael Dukakis,7,George H.W. Bush,0,538,1 faithless elector,Republican,Democratic,2804166.0,350520.75
 1988,Kansas,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,2454795.0,350685.0
 1988,Kentucky,9,George H.W. Bush,9,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,3680392.0,408932.4444444445
 1988,Louisiana,10,George H.W. Bush,10,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,4217158.0,421715.8
 1988,Maine,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,1207274.0,301818.5
 1988,Maryland,10,George H.W. Bush,10,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,4668569.0,466856.9
-1988,Massachusetts,13,Michael Dukakis,13,George H.W. Bush,0,538,Dukakis home state,Democratic,Democratic,5960547.0,458503.6153846154
+1988,Massachusetts,13,Michael Dukakis,13,George H.W. Bush,0,538,Dukakis home state,Republican,Democratic,5960547.0,458503.6153846154
 1988,Michigan,20,George H.W. Bush,20,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,9288653.0,464432.65
-1988,Minnesota,10,Michael Dukakis,10,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,4315273.0,431527.3
+1988,Minnesota,10,Michael Dukakis,10,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,4315273.0,431527.3
 1988,Mississippi,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,2562700.0,366100.0
 1988,Missouri,11,George H.W. Bush,11,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,5076996.0,461545.0909090909
 1988,Montana,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,796590.0,199147.5
@@ -1881,14 +1881,14 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,New Hampshire,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,1071524.0,267881.0
 1988,New Jersey,16,George H.W. Bush,16,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,7657115.0,478569.6875
 1988,New Mexico,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,1472634.0,294526.8
-1988,New York,36,Michael Dukakis,36,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,17903978.0,497332.7222222223
+1988,New York,36,Michael Dukakis,36,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,17903978.0,497332.7222222223
 1988,North Carolina,13,George H.W. Bush,13,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,6479263.0,498404.8461538461
 1988,North Dakota,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,641583.0,213861.0
 1988,Ohio,23,George H.W. Bush,23,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,10837218.0,471183.39130434784
 1988,Oklahoma,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,3121526.0,390190.75
-1988,Oregon,7,Michael Dukakis,7,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,2800478.0,400068.28571428574
+1988,Oregon,7,Michael Dukakis,7,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,2800478.0,400068.28571428574
 1988,Pennsylvania,25,George H.W. Bush,25,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,11878093.0,475123.72
-1988,Rhode Island,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,992202.0,248050.5
+1988,Rhode Island,4,Michael Dukakis,4,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,992202.0,248050.5
 1988,South Carolina,8,George H.W. Bush,8,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,3413726.0,426715.75
 1988,South Dakota,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,694957.0,231652.3333333333
 1988,Tennessee,11,George H.W. Bush,11,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,4819972.0,438179.2727272727
@@ -1896,27 +1896,27 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,Utah,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,1670487.0,334097.4
 1988,Vermont,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,552498.0,184166.0
 1988,Virginia,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,6019250.0,501604.1666666667
-1988,Washington,10,Michael Dukakis,9,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,4719785.0,471978.5
-1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,1824710.0,304118.3333333333
-1988,Wisconsin,11,Michael Dukakis,11,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,4854569.0,441324.4545454545
+1988,Washington,10,Michael Dukakis,9,George H.W. Bush,0,538,1 faithless elector,Republican,Democratic,4719785.0,471978.5
+1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector,Republican,Democratic,1824710.0,304118.3333333333
+1988,Wisconsin,11,Michael Dukakis,11,George H.W. Bush,0,538,Dukakis Democrat,Republican,Democratic,4854569.0,441324.4545454545
 1988,Wyoming,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,456782.0,152260.66666666666
-1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,4121890.0,457987.77777777775
-1992,Alaska,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,565421.0,188473.66666666663
-1992,Arizona,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3958309.0,494788.625
+1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican,Democratic,Republican,4121890.0,457987.77777777775
+1992,Alaska,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Republican,565421.0,188473.66666666663
+1992,Arizona,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Republican,3958309.0,494788.625
 1992,Arkansas,6,Bill Clinton,6,George H.W. Bush,0,538,Clinton home state,Democratic,Republican,2415260.0,402543.3333333333
 1992,California,54,Bill Clinton,54,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,30582346.0,566339.7407407408
 1992,Colorado,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3495767.0,436970.875
 1992,Connecticut,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3310806.0,413850.75
 1992,Delaware,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,689654.0,229884.66666666663
 1992,District of Columbia,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,607000.0,202333.33
-1992,Florida,25,George H.W. Bush,25,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,13546816.0,541872.64
+1992,Florida,25,George H.W. Bush,25,Bill Clinton,0,538,Bush Republican,Democratic,Republican,13546816.0,541872.64
 1992,Georgia,13,Bill Clinton,13,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,6819863.0,524604.8461538461
 1992,Hawaii,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1128891.0,282222.75
-1992,Idaho,4,George H.W. Bush,4,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1064190.0,266047.5
+1992,Idaho,4,George H.W. Bush,4,Bill Clinton,0,538,Bush Republican,Democratic,Republican,1064190.0,266047.5
 1992,Illinois,22,Bill Clinton,22,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,11628340.0,528560.9090909091
-1992,Indiana,12,George H.W. Bush,12,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,5651424.0,470952.0
+1992,Indiana,12,George H.W. Bush,12,Bill Clinton,0,538,Bush Republican,Democratic,Republican,5651424.0,470952.0
 1992,Iowa,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,2806669.0,400952.7142857143
-1992,Kansas,6,George H.W. Bush,6,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,2519743.0,419957.1666666667
+1992,Kansas,6,George H.W. Bush,6,Bill Clinton,0,538,Bush Republican,Democratic,Republican,2519743.0,419957.1666666667
 1992,Kentucky,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3756591.0,469573.875
 1992,Louisiana,9,Bill Clinton,9,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4269774.0,474419.3333333333
 1992,Maine,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1237327.0,309331.75
@@ -1924,50 +1924,50 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1992,Massachusetts,12,Bill Clinton,12,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,6082959.0,506913.25
 1992,Michigan,18,Bill Clinton,18,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,9423926.0,523551.4444444445
 1992,Minnesota,10,Bill Clinton,10,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4483975.0,448397.5
-1992,Mississippi,7,George H.W. Bush,7,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,2627504.0,375357.7142857143
+1992,Mississippi,7,George H.W. Bush,7,Bill Clinton,0,538,Bush Republican,Democratic,Republican,2627504.0,375357.7142857143
 1992,Missouri,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5212701.0,473881.9090909091
 1992,Montana,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,819691.0,273230.3333333333
-1992,Nebraska,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1604961.0,320992.2
+1992,Nebraska,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Republican,1604961.0,320992.2
 1992,Nevada,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1361118.0,340279.5
 1992,New Hampshire,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1134559.0,283639.75
 1992,New Jersey,15,Bill Clinton,15,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,7867020.0,524468.0
 1992,New Mexico,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1575864.0,315172.8
 1992,New York,33,Bill Clinton,33,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,18187655.0,551141.0606060605
-1992,North Carolina,14,George H.W. Bush,14,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,6912772.0,493769.4285714286
-1992,North Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,639480.0,213160.0
+1992,North Carolina,14,George H.W. Bush,14,Bill Clinton,0,538,Bush Republican,Democratic,Republican,6912772.0,493769.4285714286
+1992,North Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Republican,639480.0,213160.0
 1992,Ohio,21,Bill Clinton,21,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,10948320.0,521348.5714285714
-1992,Oklahoma,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3206599.0,400824.875
+1992,Oklahoma,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Republican,3206599.0,400824.875
 1992,Oregon,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,2958137.0,422591.0
 1992,Pennsylvania,23,Bill Clinton,23,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,11961525.0,520066.3043478261
 1992,Rhode Island,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1012435.0,253108.75
-1992,South Carolina,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3591765.0,448970.625
-1992,South Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,707772.0,235924.0
+1992,South Carolina,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Republican,3591765.0,448970.625
+1992,South Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Republican,707772.0,235924.0
 1992,Tennessee,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5039605.0,458145.9090909091
-1992,Texas,32,George H.W. Bush,32,Bill Clinton,0,538,Bush home state,Democratic,Democratic,17759572.0,554986.625
-1992,Utah,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1824914.0,364982.8
+1992,Texas,32,George H.W. Bush,32,Bill Clinton,0,538,Bush home state,Democratic,Republican,17759572.0,554986.625
+1992,Utah,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Republican,1824914.0,364982.8
 1992,Vermont,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,571972.0,190657.3333333333
-1992,Virginia,13,George H.W. Bush,13,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,6365589.0,489660.6923076923
+1992,Virginia,13,George H.W. Bush,13,Bill Clinton,0,538,Bush Republican,Democratic,Republican,6365589.0,489660.6923076923
 1992,Washington,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5072178.0,461107.0909090909
 1992,West Virginia,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1796450.0,359290.0
 1992,Wisconsin,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4986150.0,453286.3636363637
-1992,Wyoming,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,461627.0,153875.66666666666
-1996,Alabama,9,Bob Dole,9,Bill Clinton,0,538,Dole Republican,Republican,Democratic,4284495.0,476055.0
-1996,Alaska,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,596176.0,198725.3333333333
+1992,Wyoming,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Republican,461627.0,153875.66666666666
+1996,Alabama,9,Bob Dole,9,Bill Clinton,0,538,Dole Republican,Democratic,Republican,4284495.0,476055.0
+1996,Alaska,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Democratic,Republican,596176.0,198725.3333333333
 1996,Arizona,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,4544470.0,568058.75
 1996,Arkansas,6,Bill Clinton,6,Bob Dole,0,538,Clinton home state,Democratic,Republican,2544330.0,424055.0
 1996,California,54,Bill Clinton,54,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,32226997.0,596796.2407407408
-1996,Colorado,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Republican,Democratic,3898514.0,487314.25
+1996,Colorado,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Democratic,Republican,3898514.0,487314.25
 1996,Connecticut,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,3358185.0,419773.125
 1996,Delaware,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,736627.0,245542.3333333333
 1996,District of Columbia,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,590000.0,196666.67
 1996,Florida,25,Bill Clinton,25,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,14764597.0,590583.88
-1996,Georgia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican,Republican,Democratic,7503158.0,577166.0
+1996,Georgia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican,Democratic,Republican,7503158.0,577166.0
 1996,Hawaii,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1170214.0,292553.5
-1996,Idaho,4,Bob Dole,4,Bill Clinton,0,538,Dole Republican,Republican,Democratic,1179071.0,294767.75
+1996,Idaho,4,Bob Dole,4,Bill Clinton,0,538,Dole Republican,Democratic,Republican,1179071.0,294767.75
 1996,Illinois,22,Bill Clinton,22,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,12023817.0,546537.1363636364
-1996,Indiana,12,Bob Dole,12,Bill Clinton,0,538,Dole Republican,Republican,Democratic,5865955.0,488829.5833333333
+1996,Indiana,12,Bob Dole,12,Bill Clinton,0,538,Dole Republican,Democratic,Republican,5865955.0,488829.5833333333
 1996,Iowa,7,Bill Clinton,7,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,2866496.0,409499.4285714286
-1996,Kansas,6,Bob Dole,6,Bill Clinton,0,538,Dole home state,Republican,Democratic,2604080.0,434013.3333333333
+1996,Kansas,6,Bob Dole,6,Bill Clinton,0,538,Dole home state,Democratic,Republican,2604080.0,434013.3333333333
 1996,Kentucky,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,3899180.0,487397.5
 1996,Louisiana,9,Bill Clinton,9,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,4369375.0,485486.1111111111
 1996,Maine,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1256125.0,314031.25
@@ -1975,33 +1975,33 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1996,Massachusetts,12,Bill Clinton,12,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,6216028.0,518002.3333333333
 1996,Michigan,18,Bill Clinton,18,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,9681185.0,537843.6111111111
 1996,Minnesota,10,Bill Clinton,10,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,4701727.0,470172.7
-1996,Mississippi,7,Bob Dole,7,Bill Clinton,0,538,Dole Republican,Republican,Democratic,2736081.0,390868.7142857143
+1996,Mississippi,7,Bob Dole,7,Bill Clinton,0,538,Dole Republican,Democratic,Republican,2736081.0,390868.7142857143
 1996,Missouri,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,5403956.0,491268.7272727273
-1996,Montana,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,860943.0,286981.0
-1996,Nebraska,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican,Republican,Democratic,1658112.0,331622.4
+1996,Montana,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Democratic,Republican,860943.0,286981.0
+1996,Nebraska,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican,Democratic,Republican,1658112.0,331622.4
 1996,Nevada,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1679687.0,419921.75
 1996,New Hampshire,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1185172.0,296293.0
 1996,New Jersey,15,Bill Clinton,15,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,8140685.0,542712.3333333334
 1996,New Mexico,5,Bill Clinton,5,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1697455.0,339491.0
 1996,New York,33,Bill Clinton,33,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,18582056.0,563092.6060606061
-1996,North Carolina,14,Bob Dole,14,Bill Clinton,0,538,Dole Republican,Republican,Democratic,7481043.0,534360.2142857143
-1996,North Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,640840.0,213613.3333333333
+1996,North Carolina,14,Bob Dole,14,Bill Clinton,0,538,Dole Republican,Democratic,Republican,7481043.0,534360.2142857143
+1996,North Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Democratic,Republican,640840.0,213613.3333333333
 1996,Ohio,21,Bill Clinton,21,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,11150730.0,530987.1428571428
-1996,Oklahoma,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Republican,Democratic,3328626.0,416078.25
+1996,Oklahoma,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Democratic,Republican,3328626.0,416078.25
 1996,Oregon,7,Bill Clinton,7,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,3189768.0,455681.1428571429
 1996,Pennsylvania,23,Bill Clinton,23,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,12121290.0,527012.6086956522
 1996,Rhode Island,4,Bill Clinton,4,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1030377.0,257594.25
-1996,South Carolina,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Republican,Democratic,3801888.0,475236.0
-1996,South Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,731308.0,243769.3333333333
+1996,South Carolina,8,Bob Dole,8,Bill Clinton,0,538,Dole Republican,Democratic,Republican,3801888.0,475236.0
+1996,South Dakota,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Democratic,Republican,731308.0,243769.3333333333
 1996,Tennessee,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,5364444.0,487676.7272727273
-1996,Texas,32,Bob Dole,32,Bill Clinton,0,538,Dole Republican,Republican,Democratic,19305696.0,603303.0
-1996,Utah,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican,Republican,Democratic,2029041.0,405808.2
+1996,Texas,32,Bob Dole,32,Bill Clinton,0,538,Dole Republican,Democratic,Republican,19305696.0,603303.0
+1996,Utah,5,Bob Dole,5,Bill Clinton,0,538,Dole Republican,Democratic,Republican,2029041.0,405808.2
 1996,Vermont,3,Bill Clinton,3,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,590399.0,196799.66666666663
-1996,Virginia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican,Republican,Democratic,6722052.0,517080.9230769231
+1996,Virginia,13,Bob Dole,13,Bill Clinton,0,538,Dole Republican,Democratic,Republican,6722052.0,517080.9230769231
 1996,Washington,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,5483149.0,498468.0909090909
 1996,West Virginia,5,Bill Clinton,5,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,1802397.0,360479.4
 1996,Wisconsin,11,Bill Clinton,11,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,5174913.0,470446.6363636364
-1996,Wyoming,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,477704.0,159234.66666666666
+1996,Wyoming,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Democratic,Republican,477704.0,159234.66666666666
 2000,Alabama,9,George W. Bush,9,Al Gore,0,538,Bush Republican,Republican,Democratic,4447100.0,494122.2222222223
 2000,Alaska,3,George W. Bush,3,Al Gore,0,538,Bush Republican,Republican,Democratic,626932.0,208977.3333333333
 2000,Arizona,8,George W. Bush,8,Al Gore,0,538,Bush Republican,Republican,Democratic,5130632.0,641329.0
@@ -2104,258 +2104,258 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 2004,West Virginia,5,George W. Bush,5,John Kerry,0,538,Bush Republican,Republican,Democratic,1826204.0,365240.8
 2004,Wisconsin,10,John Kerry,10,George W. Bush,0,538,Kerry Democrat,Democratic,Republican,5492999.0,549299.9
 2004,Wyoming,3,George W. Bush,3,John Kerry,0,538,Bush Republican,Republican,Democratic,521720.0,173906.66666666666
-2008,Alabama,9,John McCain,9,Barack Obama,0,538,McCain Republican,Republican,Democratic,4713209.0,523689.8888888889
-2008,Alaska,3,John McCain,3,Barack Obama,0,538,McCain Republican,Republican,Democratic,693571.0,231190.3333333333
-2008,Arizona,10,John McCain,10,Barack Obama,0,538,McCain home state,Republican,Democratic,6139740.0,613974.0
-2008,Arkansas,6,John McCain,6,Barack Obama,0,538,McCain Republican,Republican,Democratic,2867414.0,477902.3333333333
+2008,Alabama,9,John McCain,9,Barack Obama,0,538,McCain Republican,Democratic,Republican,4713209.0,523689.8888888889
+2008,Alaska,3,John McCain,3,Barack Obama,0,538,McCain Republican,Democratic,Republican,693571.0,231190.3333333333
+2008,Arizona,10,John McCain,10,Barack Obama,0,538,McCain home state,Democratic,Republican,6139740.0,613974.0
+2008,Arkansas,6,John McCain,6,Barack Obama,0,538,McCain Republican,Democratic,Republican,2867414.0,477902.3333333333
 2008,California,55,Barack Obama,55,John McCain,0,538,Obama Democrat,Democratic,Republican,36577494.0,665045.3454545455
 2008,Colorado,9,Barack Obama,9,John McCain,0,538,Obama Democrat,Democratic,Republican,4883609.0,542623.2222222222
 2008,Connecticut,7,Barack Obama,7,John McCain,0,538,Obama Democrat,Democratic,Republican,3540391.0,505770.1428571429
 2008,Delaware,3,Barack Obama,3,John McCain,0,538,Obama Democrat,Democratic,Republican,875067.0,291689.0
 2008,District of Columbia,3,Barack Obama,3,John McCain,0,538,Obama Democrat,Democratic,Republican,590000.0,196666.67
 2008,Florida,27,Barack Obama,27,John McCain,0,538,Obama Democrat,Democratic,Republican,18237524.0,675463.8518518518
-2008,Georgia,15,John McCain,15,Barack Obama,0,538,McCain Republican,Republican,Democratic,9387413.0,625827.5333333333
+2008,Georgia,15,John McCain,15,Barack Obama,0,538,McCain Republican,Democratic,Republican,9387413.0,625827.5333333333
 2008,Hawaii,4,Barack Obama,4,John McCain,0,538,Obama Democrat,Democratic,Republican,1330548.0,332637.0
-2008,Idaho,4,John McCain,4,Barack Obama,0,538,McCain Republican,Republican,Democratic,1512856.0,378214.0
+2008,Idaho,4,John McCain,4,Barack Obama,0,538,McCain Republican,Democratic,Republican,1512856.0,378214.0
 2008,Illinois,21,Barack Obama,21,John McCain,0,538,Obama home state,Democratic,Republican,12748364.0,607064.9523809524
 2008,Indiana,11,Barack Obama,11,John McCain,0,538,Obama Democrat,Democratic,Republican,6403139.0,582103.5454545454
 2008,Iowa,7,Barack Obama,7,John McCain,0,538,Obama Democrat,Democratic,Republican,3022349.0,431764.1428571429
-2008,Kansas,6,John McCain,6,Barack Obama,0,538,McCain Republican,Republican,Democratic,2820178.0,470029.6666666667
-2008,Kentucky,8,John McCain,8,Barack Obama,0,538,McCain Republican,Republican,Democratic,4279847.0,534980.875
-2008,Louisiana,9,John McCain,9,Barack Obama,0,538,McCain Republican,Republican,Democratic,4520493.0,502277.0
+2008,Kansas,6,John McCain,6,Barack Obama,0,538,McCain Republican,Democratic,Republican,2820178.0,470029.6666666667
+2008,Kentucky,8,John McCain,8,Barack Obama,0,538,McCain Republican,Democratic,Republican,4279847.0,534980.875
+2008,Louisiana,9,John McCain,9,Barack Obama,0,538,McCain Republican,Democratic,Republican,4520493.0,502277.0
 2008,Maine,4,Barack Obama,4,John McCain,0,538,Obama Democrat,Democratic,Republican,1317673.0,329418.25
 2008,Maryland,10,Barack Obama,10,John McCain,0,538,Obama Democrat,Democratic,Republican,5678139.0,567813.9
 2008,Massachusetts,12,Barack Obama,12,John McCain,0,538,Obama Democrat,Democratic,Republican,6507923.0,542326.9166666666
 2008,Michigan,17,Barack Obama,17,John McCain,0,538,Obama Democrat,Democratic,Republican,9894601.0,582035.3529411765
 2008,Minnesota,10,Barack Obama,10,John McCain,0,538,Obama Democrat,Democratic,Republican,5227036.0,522703.6
-2008,Mississippi,6,John McCain,6,Barack Obama,0,538,McCain Republican,Republican,Democratic,2942769.0,490461.5
-2008,Missouri,11,John McCain,11,Barack Obama,0,538,McCain Republican,Republican,Democratic,5910184.0,537289.4545454546
-2008,Montana,3,John McCain,3,Barack Obama,0,538,McCain Republican,Republican,Democratic,971971.0,323990.3333333333
-2008,Nebraska,5,John McCain,4,Barack Obama,1,538,Split by district,Republican,Democratic,1803325.0,360665.0
+2008,Mississippi,6,John McCain,6,Barack Obama,0,538,McCain Republican,Democratic,Republican,2942769.0,490461.5
+2008,Missouri,11,John McCain,11,Barack Obama,0,538,McCain Republican,Democratic,Republican,5910184.0,537289.4545454546
+2008,Montana,3,John McCain,3,Barack Obama,0,538,McCain Republican,Democratic,Republican,971971.0,323990.3333333333
+2008,Nebraska,5,John McCain,4,Barack Obama,1,538,Split by district,Democratic,Republican,1803325.0,360665.0
 2008,Nevada,5,Barack Obama,5,John McCain,0,538,Obama Democrat,Democratic,Republican,2560092.0,512018.4
 2008,New Hampshire,4,Barack Obama,4,John McCain,0,538,Obama Democrat,Democratic,Republican,1300333.0,325083.25
 2008,New Jersey,15,Barack Obama,15,John McCain,0,538,Obama Democrat,Democratic,Republican,8716385.0,581092.3333333334
 2008,New Mexico,5,Barack Obama,5,John McCain,0,538,Obama Democrat,Democratic,Republican,2011152.0,402230.4
 2008,New York,31,Barack Obama,31,John McCain,0,538,Obama Democrat,Democratic,Republican,19297773.0,622508.8064516129
 2008,North Carolina,15,Barack Obama,15,John McCain,0,538,Obama Democrat,Democratic,Republican,9238249.0,615883.2666666667
-2008,North Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican,Republican,Democratic,666513.0,222171.0
+2008,North Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican,Democratic,Republican,666513.0,222171.0
 2008,Ohio,20,Barack Obama,20,John McCain,0,538,Obama Democrat,Democratic,Republican,11499831.0,574991.55
-2008,Oklahoma,7,John McCain,7,Barack Obama,0,538,McCain Republican,Republican,Democratic,3691212.0,527316.0
+2008,Oklahoma,7,John McCain,7,Barack Obama,0,538,McCain Republican,Democratic,Republican,3691212.0,527316.0
 2008,Oregon,7,Barack Obama,7,John McCain,0,538,Obama Democrat,Democratic,Republican,3749139.0,535591.2857142857
 2008,Pennsylvania,21,Barack Obama,21,John McCain,0,538,Obama Democrat,Democratic,Republican,12618114.0,600862.5714285715
 2008,Rhode Island,4,Barack Obama,4,John McCain,0,538,Obama Democrat,Democratic,Republican,1051717.0,262929.25
-2008,South Carolina,8,John McCain,8,Barack Obama,0,538,McCain Republican,Republican,Democratic,4502694.0,562836.75
-2008,South Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican,Republican,Democratic,802313.0,267437.6666666667
-2008,Tennessee,11,John McCain,11,Barack Obama,0,538,McCain Republican,Republican,Democratic,6214741.0,564976.4545454546
-2008,Texas,34,John McCain,34,Barack Obama,0,538,McCain Republican,Republican,Democratic,24286813.0,714318.0294117647
-2008,Utah,5,John McCain,5,Barack Obama,0,538,McCain Republican,Republican,Democratic,2657742.0,531548.4
+2008,South Carolina,8,John McCain,8,Barack Obama,0,538,McCain Republican,Democratic,Republican,4502694.0,562836.75
+2008,South Dakota,3,John McCain,3,Barack Obama,0,538,McCain Republican,Democratic,Republican,802313.0,267437.6666666667
+2008,Tennessee,11,John McCain,11,Barack Obama,0,538,McCain Republican,Democratic,Republican,6214741.0,564976.4545454546
+2008,Texas,34,John McCain,34,Barack Obama,0,538,McCain Republican,Democratic,Republican,24286813.0,714318.0294117647
+2008,Utah,5,John McCain,5,Barack Obama,0,538,McCain Republican,Democratic,Republican,2657742.0,531548.4
 2008,Vermont,3,Barack Obama,3,John McCain,0,538,Obama Democrat,Democratic,Republican,622358.0,207452.66666666663
 2008,Virginia,13,Barack Obama,13,John McCain,0,538,Obama Democrat,Democratic,Republican,7816522.0,601270.9230769231
 2008,Washington,11,Barack Obama,11,John McCain,0,538,Obama Democrat,Democratic,Republican,6558456.0,596223.2727272727
-2008,West Virginia,5,John McCain,5,Barack Obama,0,538,McCain Republican,Republican,Democratic,1844064.0,368812.8
+2008,West Virginia,5,John McCain,5,Barack Obama,0,538,McCain Republican,Democratic,Republican,1844064.0,368812.8
 2008,Wisconsin,10,Barack Obama,10,John McCain,0,538,Obama Democrat,Democratic,Republican,5622324.0,562232.4
-2008,Wyoming,3,John McCain,3,Barack Obama,0,538,McCain Republican,Republican,Democratic,549657.0,183219.0
-2012,Alabama,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican,Republican,Democratic,4828645.0,536516.1111111111
-2012,Alaska,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Republican,Democratic,714863.0,238287.66666666663
-2012,Arizona,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Republican,Democratic,6543914.0,594901.2727272727
-2012,Arkansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Republican,Democratic,2935039.0,489173.1666666667
+2008,Wyoming,3,John McCain,3,Barack Obama,0,538,McCain Republican,Democratic,Republican,549657.0,183219.0
+2012,Alabama,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican,Democratic,Republican,4828645.0,536516.1111111111
+2012,Alaska,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Democratic,Republican,714863.0,238287.66666666663
+2012,Arizona,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Democratic,Republican,6543914.0,594901.2727272727
+2012,Arkansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Democratic,Republican,2935039.0,489173.1666666667
 2012,California,55,Barack Obama,55,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,37710809.0,685651.0727272728
 2012,Colorado,9,Barack Obama,9,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,5178100.0,575344.4444444445
 2012,Connecticut,7,Barack Obama,7,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,3580466.0,511495.1428571429
 2012,Delaware,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,916337.0,305445.6666666667
 2012,District of Columbia,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,635000.0,211666.67
 2012,Florida,29,Barack Obama,29,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,19348685.0,667196.0344827586
-2012,Georgia,16,Mitt Romney,16,Barack Obama,0,538,Romney Republican,Republican,Democratic,9892504.0,618281.5
+2012,Georgia,16,Mitt Romney,16,Barack Obama,0,538,Romney Republican,Democratic,Republican,9892504.0,618281.5
 2012,Hawaii,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,1379295.0,344823.75
-2012,Idaho,4,Mitt Romney,4,Barack Obama,0,538,Romney Republican,Republican,Democratic,1621887.0,405471.75
+2012,Idaho,4,Mitt Romney,4,Barack Obama,0,538,Romney Republican,Democratic,Republican,1621887.0,405471.75
 2012,Illinois,20,Barack Obama,20,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,12827007.0,641350.35
-2012,Indiana,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Republican,Democratic,6544147.0,594922.4545454546
+2012,Indiana,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Democratic,Republican,6544147.0,594922.4545454546
 2012,Iowa,6,Barack Obama,6,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,3075158.0,512526.3333333333
-2012,Kansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Republican,Democratic,2870070.0,478345.0
-2012,Kentucky,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican,Republican,Democratic,4372661.0,546582.625
-2012,Louisiana,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican,Republican,Democratic,4558249.0,569781.125
+2012,Kansas,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Democratic,Republican,2870070.0,478345.0
+2012,Kentucky,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican,Democratic,Republican,4372661.0,546582.625
+2012,Louisiana,8,Mitt Romney,8,Barack Obama,0,538,Romney Republican,Democratic,Republican,4558249.0,569781.125
 2012,Maine,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,1335161.0,333790.25
 2012,Maryland,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,5854286.0,585428.6
 2012,Massachusetts,11,Barack Obama,11,Mitt Romney,0,538,Romney home state lost,Democratic,Republican,6644087.0,604007.9090909091
 2012,Michigan,16,Barack Obama,16,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,9922378.0,620148.625
 2012,Minnesota,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,5384439.0,538443.9
-2012,Mississippi,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Republican,Democratic,2966093.0,494348.8333333333
-2012,Missouri,10,Mitt Romney,10,Barack Obama,0,538,Romney Republican,Republican,Democratic,6022124.0,602212.4
-2012,Montana,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Republican,Democratic,1008377.0,336125.6666666667
-2012,Nebraska,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican,Republican,Democratic,1853374.0,370674.8
+2012,Mississippi,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Democratic,Republican,2966093.0,494348.8333333333
+2012,Missouri,10,Mitt Romney,10,Barack Obama,0,538,Romney Republican,Democratic,Republican,6022124.0,602212.4
+2012,Montana,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Democratic,Republican,1008377.0,336125.6666666667
+2012,Nebraska,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican,Democratic,Republican,1853374.0,370674.8
 2012,Nevada,6,Barack Obama,6,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,2781364.0,463560.6666666667
 2012,New Hampshire,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,1328682.0,332170.5
 2012,New Jersey,14,Barack Obama,14,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,8891314.0,635093.8571428572
 2012,New Mexico,5,Barack Obama,5,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,2070848.0,414169.6
 2012,New York,29,Barack Obama,29,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,19542731.0,673887.275862069
-2012,North Carolina,15,Mitt Romney,15,Barack Obama,0,538,Romney Republican,Republican,Democratic,9716264.0,647750.9333333333
-2012,North Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Republican,Democratic,693892.0,231297.3333333333
+2012,North Carolina,15,Mitt Romney,15,Barack Obama,0,538,Romney Republican,Democratic,Republican,9716264.0,647750.9333333333
+2012,North Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Democratic,Republican,693892.0,231297.3333333333
 2012,Ohio,18,Barack Obama,18,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,11589093.0,643838.5
-2012,Oklahoma,7,Mitt Romney,7,Barack Obama,0,538,Romney Republican,Republican,Democratic,3792951.0,541850.1428571428
+2012,Oklahoma,7,Mitt Romney,7,Barack Obama,0,538,Romney Republican,Democratic,Republican,3792951.0,541850.1428571428
 2012,Oregon,7,Barack Obama,7,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,3912310.0,558901.4285714285
 2012,Pennsylvania,20,Barack Obama,20,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,12762443.0,638122.15
 2012,Rhode Island,4,Barack Obama,4,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,1061529.0,265382.25
-2012,South Carolina,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican,Republican,Democratic,4723976.0,524886.2222222222
-2012,South Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Republican,Democratic,828677.0,276225.6666666667
-2012,Tennessee,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Republican,Democratic,6459052.0,587186.5454545454
-2012,Texas,38,Mitt Romney,38,Barack Obama,0,538,Romney Republican,Republican,Democratic,25945550.0,682777.6315789474
-2012,Utah,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Republican,Democratic,2865431.0,477571.8333333333
+2012,South Carolina,9,Mitt Romney,9,Barack Obama,0,538,Romney Republican,Democratic,Republican,4723976.0,524886.2222222222
+2012,South Dakota,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Democratic,Republican,828677.0,276225.6666666667
+2012,Tennessee,11,Mitt Romney,11,Barack Obama,0,538,Romney Republican,Democratic,Republican,6459052.0,587186.5454545454
+2012,Texas,38,Mitt Romney,38,Barack Obama,0,538,Romney Republican,Democratic,Republican,25945550.0,682777.6315789474
+2012,Utah,6,Mitt Romney,6,Barack Obama,0,538,Romney Republican,Democratic,Republican,2865431.0,477571.8333333333
 2012,Vermont,3,Barack Obama,3,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,629208.0,209736.0
 2012,Virginia,13,Barack Obama,13,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,8127098.0,625161.3846153846
 2012,Washington,12,Barack Obama,12,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,6920688.0,576724.0
-2012,West Virginia,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican,Republican,Democratic,1841138.0,368227.6
+2012,West Virginia,5,Mitt Romney,5,Barack Obama,0,538,Romney Republican,Democratic,Republican,1841138.0,368227.6
 2012,Wisconsin,10,Barack Obama,10,Mitt Romney,0,538,Obama Democrat,Democratic,Republican,5728332.0,572833.2
-2012,Wyoming,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Republican,Democratic,566271.0,188757.0
+2012,Wyoming,3,Mitt Romney,3,Barack Obama,0,538,Romney Republican,Democratic,Republican,566271.0,188757.0
 2016,Alabama,9,Donald Trump,9,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,4926462.0,547384.6666666666
 2016,Alaska,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,724127.0,241375.66666666663
 2016,Arizona,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,6847708.0,622518.9090909091
 2016,Arkansas,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,2973282.0,495547.0
-2016,California,55,Hillary Clinton,55,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,38624516.0,702263.9272727272
-2016,Colorado,9,Hillary Clinton,9,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,5475907.0,608434.1111111111
-2016,Connecticut,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,3593205.0,513315.0
-2016,Delaware,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,953142.0,317714.0
+2016,California,55,Hillary Clinton,55,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,38624516.0,702263.9272727272
+2016,Colorado,9,Hillary Clinton,9,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,5475907.0,608434.1111111111
+2016,Connecticut,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,3593205.0,513315.0
+2016,Delaware,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,953142.0,317714.0
 2016,District of Columbia,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,670000.0,223333.33
 2016,Florida,29,Donald Trump,29,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,20443436.0,704946.0689655172
 2016,Georgia,16,Donald Trump,16,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,10302206.0,643887.875
-2016,Hawaii,4,Hillary Clinton,3,Donald Trump,0,538,1 faithless elector,Democratic,Republican,1417283.0,354320.75
+2016,Hawaii,4,Hillary Clinton,3,Donald Trump,0,538,1 faithless elector,Republican,Democratic,1417283.0,354320.75
 2016,Idaho,4,Donald Trump,4,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,1730496.0,432624.0
-2016,Illinois,20,Hillary Clinton,20,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,12819758.0,640987.9
+2016,Illinois,20,Hillary Clinton,20,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,12819758.0,640987.9
 2016,Indiana,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,6664838.0,605894.3636363636
 2016,Iowa,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,3132763.0,522127.1666666667
 2016,Kansas,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,2903975.0,483995.8333333333
 2016,Kentucky,8,Donald Trump,8,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,4439248.0,554906.0
 2016,Louisiana,8,Donald Trump,8,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,4608003.0,576000.375
-2016,Maine,4,Hillary Clinton,3,Donald Trump,1,538,Split by district,Democratic,Republican,1348760.0,337190.0
-2016,Maryland,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,6015755.0,601575.5
-2016,Massachusetts,11,Hillary Clinton,11,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,6837002.0,621545.6363636364
+2016,Maine,4,Hillary Clinton,3,Donald Trump,1,538,Split by district,Republican,Democratic,1348760.0,337190.0
+2016,Maryland,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,6015755.0,601575.5
+2016,Massachusetts,11,Hillary Clinton,11,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,6837002.0,621545.6363636364
 2016,Michigan,16,Donald Trump,16,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,9999855.0,624990.9375
-2016,Minnesota,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,5545466.0,554546.6
+2016,Minnesota,10,Hillary Clinton,10,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,5545466.0,554546.6
 2016,Mississippi,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,2963686.0,493947.6666666667
 2016,Missouri,10,Donald Trump,10,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,6088519.0,608851.9
 2016,Montana,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,1046301.0,348767.0
 2016,Nebraska,5,Donald Trump,5,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,1907439.0,381487.8
-2016,Nevada,6,Hillary Clinton,6,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,2942989.0,490498.1666666667
-2016,New Hampshire,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,1353105.0,338276.25
-2016,New Jersey,14,Hillary Clinton,14,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,9090154.0,649296.7142857143
-2016,New Mexico,5,Hillary Clinton,5,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,2094185.0,418837.0
-2016,New York,29,Hillary Clinton,29,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,19871990.0,685241.0344827586
+2016,Nevada,6,Hillary Clinton,6,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,2942989.0,490498.1666666667
+2016,New Hampshire,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,1353105.0,338276.25
+2016,New Jersey,14,Hillary Clinton,14,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,9090154.0,649296.7142857143
+2016,New Mexico,5,Hillary Clinton,5,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,2094185.0,418837.0
+2016,New York,29,Hillary Clinton,29,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,19871990.0,685241.0344827586
 2016,North Carolina,15,Donald Trump,15,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,10077826.0,671855.0666666667
 2016,North Dakota,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,736493.0,245497.66666666663
 2016,Ohio,18,Donald Trump,18,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,11694270.0,649681.6666666666
 2016,Oklahoma,7,Donald Trump,7,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,3876152.0,553736.0
-2016,Oregon,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,4074783.0,582111.8571428572
+2016,Oregon,7,Hillary Clinton,7,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,4074783.0,582111.8571428572
 2016,Pennsylvania,20,Donald Trump,20,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,12882572.0,644128.6
-2016,Rhode Island,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,1079454.0,269863.5
+2016,Rhode Island,4,Hillary Clinton,4,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,1079454.0,269863.5
 2016,South Carolina,9,Donald Trump,9,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,4921201.0,546800.1111111111
 2016,South Dakota,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,857672.0,285890.6666666667
 2016,Tennessee,11,Donald Trump,11,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,6684946.0,607722.3636363636
 2016,Texas,38,Donald Trump,36,Hillary Clinton,0,538,2 faithless electors,Republican,Democratic,27545527.0,724882.2894736842
 2016,Utah,6,Donald Trump,6,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,3068524.0,511420.6666666667
-2016,Vermont,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,636143.0,212047.66666666663
-2016,Virginia,13,Hillary Clinton,13,Donald Trump,0,538,Clinton Democrat,Democratic,Republican,8379245.0,644557.3076923077
-2016,Washington,12,Hillary Clinton,8,Colin Powell,3,538,4 faithless electors,Democratic,Democratic,7312985.0,609415.4166666666
+2016,Vermont,3,Hillary Clinton,3,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,636143.0,212047.66666666663
+2016,Virginia,13,Hillary Clinton,13,Donald Trump,0,538,Clinton Democrat,Republican,Democratic,8379245.0,644557.3076923077
+2016,Washington,12,Hillary Clinton,8,Colin Powell,3,538,4 faithless electors,Republican,Democratic,7312985.0,609415.4166666666
 2016,West Virginia,5,Donald Trump,5,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,1817427.0,363485.4
 2016,Wisconsin,10,Donald Trump,10,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,5811025.0,581102.5
 2016,Wyoming,3,Donald Trump,3,Hillary Clinton,0,538,Trump Republican,Republican,Democratic,571561.0,190520.3333333333
-2020,Alabama,9,Donald Trump,9,Joe Biden,0,538,Trump Republican,Republican,Democratic,5024279.0,558253.2222222222
-2020,Alaska,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Republican,Democratic,733391.0,244463.66666666663
+2020,Alabama,9,Donald Trump,9,Joe Biden,0,538,Trump Republican,Democratic,Republican,5024279.0,558253.2222222222
+2020,Alaska,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Democratic,Republican,733391.0,244463.66666666663
 2020,Arizona,11,Joe Biden,11,Donald Trump,0,538,Biden Democrat,Democratic,Republican,7151502.0,650136.5454545454
-2020,Arkansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Republican,Democratic,3011524.0,501920.6666666667
+2020,Arkansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Democratic,Republican,3011524.0,501920.6666666667
 2020,California,55,Joe Biden,55,Donald Trump,0,538,Biden Democrat,Democratic,Republican,39538223.0,718876.7818181819
 2020,Colorado,9,Joe Biden,9,Donald Trump,0,538,Biden Democrat,Democratic,Republican,5773714.0,641523.7777777778
 2020,Connecticut,7,Joe Biden,7,Donald Trump,0,538,Biden Democrat,Democratic,Republican,3605944.0,515134.8571428572
 2020,Delaware,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat,Democratic,Republican,989948.0,329982.6666666667
 2020,District of Columbia,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat,Democratic,Republican,689545.0,229848.33
-2020,Florida,29,Donald Trump,29,Joe Biden,0,538,Trump Republican,Republican,Democratic,21538187.0,742696.1034482758
+2020,Florida,29,Donald Trump,29,Joe Biden,0,538,Trump Republican,Democratic,Republican,21538187.0,742696.1034482758
 2020,Georgia,16,Joe Biden,16,Donald Trump,0,538,Biden Democrat,Democratic,Republican,10711908.0,669494.25
 2020,Hawaii,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat,Democratic,Republican,1455271.0,363817.75
-2020,Idaho,4,Donald Trump,4,Joe Biden,0,538,Trump Republican,Republican,Democratic,1839106.0,459776.5
+2020,Idaho,4,Donald Trump,4,Joe Biden,0,538,Trump Republican,Democratic,Republican,1839106.0,459776.5
 2020,Illinois,20,Joe Biden,20,Donald Trump,0,538,Biden Democrat,Democratic,Republican,12812508.0,640625.4
-2020,Indiana,11,Donald Trump,11,Joe Biden,0,538,Trump Republican,Republican,Democratic,6785528.0,616866.1818181818
-2020,Iowa,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Republican,Democratic,3190369.0,531728.1666666666
-2020,Kansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Republican,Democratic,2937880.0,489646.6666666667
-2020,Kentucky,8,Donald Trump,8,Joe Biden,0,538,Trump Republican,Republican,Democratic,4505836.0,563229.5
-2020,Louisiana,8,Donald Trump,8,Joe Biden,0,538,Trump Republican,Republican,Democratic,4657757.0,582219.625
+2020,Indiana,11,Donald Trump,11,Joe Biden,0,538,Trump Republican,Democratic,Republican,6785528.0,616866.1818181818
+2020,Iowa,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Democratic,Republican,3190369.0,531728.1666666666
+2020,Kansas,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Democratic,Republican,2937880.0,489646.6666666667
+2020,Kentucky,8,Donald Trump,8,Joe Biden,0,538,Trump Republican,Democratic,Republican,4505836.0,563229.5
+2020,Louisiana,8,Donald Trump,8,Joe Biden,0,538,Trump Republican,Democratic,Republican,4657757.0,582219.625
 2020,Maine,4,Joe Biden,3,Donald Trump,1,538,Split by district,Democratic,Republican,1362359.0,340589.75
 2020,Maryland,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat,Democratic,Republican,6177224.0,617722.4
 2020,Massachusetts,11,Joe Biden,11,Donald Trump,0,538,Biden Democrat,Democratic,Republican,7029917.0,639083.3636363636
 2020,Michigan,16,Joe Biden,16,Donald Trump,0,538,Biden Democrat,Democratic,Republican,10077331.0,629833.1875
 2020,Minnesota,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat,Democratic,Republican,5706494.0,570649.4
-2020,Mississippi,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Republican,Democratic,2961279.0,493546.5
-2020,Missouri,10,Donald Trump,10,Joe Biden,0,538,Trump Republican,Republican,Democratic,6154913.0,615491.3
-2020,Montana,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Republican,Democratic,1084225.0,361408.3333333333
-2020,Nebraska,5,Donald Trump,4,Joe Biden,1,538,Split by district,Republican,Democratic,1961504.0,392300.8
+2020,Mississippi,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Democratic,Republican,2961279.0,493546.5
+2020,Missouri,10,Donald Trump,10,Joe Biden,0,538,Trump Republican,Democratic,Republican,6154913.0,615491.3
+2020,Montana,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Democratic,Republican,1084225.0,361408.3333333333
+2020,Nebraska,5,Donald Trump,4,Joe Biden,1,538,Split by district,Democratic,Republican,1961504.0,392300.8
 2020,Nevada,6,Joe Biden,6,Donald Trump,0,538,Biden Democrat,Democratic,Republican,3104614.0,517435.6666666667
 2020,New Hampshire,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat,Democratic,Republican,1377529.0,344382.25
 2020,New Jersey,14,Joe Biden,14,Donald Trump,0,538,Biden Democrat,Democratic,Republican,9288994.0,663499.5714285715
 2020,New Mexico,5,Joe Biden,5,Donald Trump,0,538,Biden Democrat,Democratic,Republican,2117522.0,423504.4
 2020,New York,29,Joe Biden,29,Donald Trump,0,538,Biden Democrat,Democratic,Republican,20201249.0,696594.7931034482
-2020,North Carolina,15,Donald Trump,15,Joe Biden,0,538,Trump Republican,Republican,Democratic,10439388.0,695959.2
-2020,North Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Republican,Democratic,779094.0,259698.0
-2020,Ohio,18,Donald Trump,18,Joe Biden,0,538,Trump Republican,Republican,Democratic,11799448.0,655524.8888888889
-2020,Oklahoma,7,Donald Trump,7,Joe Biden,0,538,Trump Republican,Republican,Democratic,3959353.0,565621.8571428572
+2020,North Carolina,15,Donald Trump,15,Joe Biden,0,538,Trump Republican,Democratic,Republican,10439388.0,695959.2
+2020,North Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Democratic,Republican,779094.0,259698.0
+2020,Ohio,18,Donald Trump,18,Joe Biden,0,538,Trump Republican,Democratic,Republican,11799448.0,655524.8888888889
+2020,Oklahoma,7,Donald Trump,7,Joe Biden,0,538,Trump Republican,Democratic,Republican,3959353.0,565621.8571428572
 2020,Oregon,7,Joe Biden,7,Donald Trump,0,538,Biden Democrat,Democratic,Republican,4237256.0,605322.2857142857
 2020,Pennsylvania,20,Joe Biden,20,Donald Trump,0,538,Biden Democrat,Democratic,Republican,13002700.0,650135.0
 2020,Rhode Island,4,Joe Biden,4,Donald Trump,0,538,Biden Democrat,Democratic,Republican,1097379.0,274344.75
-2020,South Carolina,9,Donald Trump,9,Joe Biden,0,538,Trump Republican,Republican,Democratic,5118425.0,568713.8888888889
-2020,South Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Republican,Democratic,886667.0,295555.6666666667
-2020,Tennessee,11,Donald Trump,11,Joe Biden,0,538,Trump Republican,Republican,Democratic,6910840.0,628258.1818181818
-2020,Texas,38,Donald Trump,38,Joe Biden,0,538,Trump Republican,Republican,Democratic,29145505.0,766986.9736842106
-2020,Utah,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Republican,Democratic,3271616.0,545269.3333333334
+2020,South Carolina,9,Donald Trump,9,Joe Biden,0,538,Trump Republican,Democratic,Republican,5118425.0,568713.8888888889
+2020,South Dakota,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Democratic,Republican,886667.0,295555.6666666667
+2020,Tennessee,11,Donald Trump,11,Joe Biden,0,538,Trump Republican,Democratic,Republican,6910840.0,628258.1818181818
+2020,Texas,38,Donald Trump,38,Joe Biden,0,538,Trump Republican,Democratic,Republican,29145505.0,766986.9736842106
+2020,Utah,6,Donald Trump,6,Joe Biden,0,538,Trump Republican,Democratic,Republican,3271616.0,545269.3333333334
 2020,Vermont,3,Joe Biden,3,Donald Trump,0,538,Biden Democrat,Democratic,Republican,643077.0,214359.0
 2020,Virginia,13,Joe Biden,13,Donald Trump,0,538,Biden Democrat,Democratic,Republican,8631393.0,663953.3076923077
 2020,Washington,12,Joe Biden,12,Donald Trump,0,538,Biden Democrat,Democratic,Republican,7705281.0,642106.75
-2020,West Virginia,5,Donald Trump,5,Joe Biden,0,538,Trump Republican,Republican,Democratic,1793716.0,358743.2
+2020,West Virginia,5,Donald Trump,5,Joe Biden,0,538,Trump Republican,Democratic,Republican,1793716.0,358743.2
 2020,Wisconsin,10,Joe Biden,10,Donald Trump,0,538,Biden Democrat,Democratic,Republican,5893718.0,589371.8
-2020,Wyoming,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Republican,Democratic,576851.0,192283.66666666663
-2024,Alabama,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican,Republican,Democratic,5157699.0,573077.6666666666
-2024,Alaska,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,733536.0,244512.0
-2024,Arizona,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,7582384.0,689307.6363636364
-2024,Arkansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,3088354.0,514725.6666666667
-2024,California,54,Kamala Harris,54,Donald Trump,0,538,Harris Democrat,Democratic,Republican,39431263.0,730208.574074074
-2024,Colorado,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Democratic,Republican,5957493.0,595749.3
-2024,Connecticut,7,Kamala Harris,7,Donald Trump,0,538,Harris Democrat,Democratic,Republican,3675069.0,525009.8571428572
-2024,Delaware,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1044321.0,348107.0
-2024,District of Columbia,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,705749.0,235249.66666666666
-2024,Florida,30,Donald Trump,30,Kamala Harris,0,538,Trump Republican,Republican,Democratic,23372215.0,779073.8333333334
-2024,Georgia,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican,Republican,Democratic,11180878.0,698804.875
-2024,Hawaii,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1446146.0,361536.5
-2024,Idaho,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,2001619.0,500404.75
-2024,Illinois,19,Kamala Harris,19,Donald Trump,0,538,Harris Democrat,Democratic,Republican,12710158.0,668955.6842105263
-2024,Indiana,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,6924275.0,629479.5454545454
-2024,Iowa,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,3241488.0,540248.0
-2024,Kansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,2970606.0,495101.0
-2024,Kentucky,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican,Republican,Democratic,4588372.0,573546.5
-2024,Louisiana,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican,Republican,Democratic,4597740.0,574717.5
-2024,Maine,4,Kamala Harris,3,Donald Trump,1,538,Split by district,Democratic,Republican,1405012.0,351253.0
-2024,Maryland,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Democratic,Republican,6263220.0,626322.0
-2024,Massachusetts,11,Kamala Harris,11,Donald Trump,0,538,Harris Democrat,Democratic,Republican,7136171.0,648742.8181818182
-2024,Michigan,15,Donald Trump,15,Kamala Harris,0,538,Trump Republican,Republican,Democratic,10140459.0,676030.6
-2024,Minnesota,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Democratic,Republican,5790773.0,579077.3
-2024,Mississippi,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,2943045.0,490507.5
-2024,Missouri,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican,Republican,Democratic,6245466.0,624546.6
-2024,Montana,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,1137233.0,284308.25
-2024,Nebraska,5,Donald Trump,4,Kamala Harris,1,538,Split by district,Republican,Democratic,2005465.0,401093.0
-2024,Nevada,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,3267467.0,544577.8333333334
-2024,New Hampshire,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1409032.0,352258.0
-2024,New Jersey,14,Kamala Harris,14,Donald Trump,0,538,Harris Democrat,Democratic,Republican,9500851.0,678632.2142857143
-2024,New Mexico,5,Kamala Harris,5,Donald Trump,0,538,Harris Democrat,Democratic,Republican,2130256.0,426051.2
-2024,New York,28,Kamala Harris,28,Donald Trump,0,538,Harris Democrat,Democratic,Republican,19867248.0,709544.5714285715
-2024,North Carolina,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican,Republican,Democratic,11046024.0,690376.5
-2024,North Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,788940.0,262980.0
-2024,Ohio,17,Donald Trump,17,Kamala Harris,0,538,Trump Republican,Republican,Democratic,11883304.0,699017.8823529412
-2024,Oklahoma,7,Donald Trump,7,Kamala Harris,0,538,Trump Republican,Republican,Democratic,4095393.0,585056.1428571428
-2024,Oregon,8,Kamala Harris,8,Donald Trump,0,538,Harris Democrat,Democratic,Republican,4272371.0,534046.375
-2024,Pennsylvania,19,Donald Trump,19,Kamala Harris,0,538,Trump Republican,Republican,Democratic,13078751.0,688355.3157894737
-2024,Rhode Island,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1112308.0,278077.0
-2024,South Carolina,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican,Republican,Democratic,5478831.0,608759.0
-2024,South Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,928767.0,309589.0
-2024,Tennessee,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,7227750.0,657068.1818181818
-2024,Texas,40,Donald Trump,40,Kamala Harris,0,538,Trump Republican,Republican,Democratic,31290831.0,782270.775
-2024,Utah,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,3503613.0,583935.5
-2024,Vermont,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,647818.0,215939.33333333334
-2024,Virginia,13,Kamala Harris,13,Donald Trump,0,538,Harris Democrat,Democratic,Republican,8811195.0,677784.2307692308
-2024,Washington,12,Kamala Harris,12,Donald Trump,0,538,Harris Democrat,Democratic,Republican,7958180.0,663181.6666666666
-2024,West Virginia,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,1769979.0,442494.75
-2024,Wisconsin,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican,Republican,Democratic,5960975.0,596097.5
-2024,Wyoming,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,586485.0,195495.0
+2020,Wyoming,3,Donald Trump,3,Joe Biden,0,538,Trump Republican,Democratic,Republican,576851.0,192283.66666666663
+2024,Alabama,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Alaska,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Arizona,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Arkansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,California,54,Kamala Harris,54,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Colorado,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Connecticut,7,Kamala Harris,7,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Delaware,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,District of Columbia,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Florida,30,Donald Trump,30,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Georgia,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Hawaii,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Idaho,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Illinois,19,Kamala Harris,19,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Indiana,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Iowa,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Kansas,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Kentucky,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Louisiana,8,Donald Trump,8,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Maine,4,Kamala Harris,3,Donald Trump,1,538,Split by district,Republican,Democratic,,
+2024,Maryland,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Massachusetts,11,Kamala Harris,11,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Michigan,15,Donald Trump,15,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Minnesota,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Mississippi,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Missouri,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Montana,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Nebraska,5,Donald Trump,4,Kamala Harris,1,538,Split by district,Republican,Democratic,,
+2024,Nevada,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,New Hampshire,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,New Jersey,14,Kamala Harris,14,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,New Mexico,5,Kamala Harris,5,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,New York,28,Kamala Harris,28,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,North Carolina,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,North Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Ohio,17,Donald Trump,17,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Oklahoma,7,Donald Trump,7,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Oregon,8,Kamala Harris,8,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Pennsylvania,19,Donald Trump,19,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Rhode Island,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,South Carolina,9,Donald Trump,9,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,South Dakota,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Tennessee,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Texas,40,Donald Trump,40,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Utah,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Vermont,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Virginia,13,Kamala Harris,13,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,Washington,12,Kamala Harris,12,Donald Trump,0,538,Harris Democrat,Republican,Democratic,,
+2024,West Virginia,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Wisconsin,10,Donald Trump,10,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,
+2024,Wyoming,3,Donald Trump,3,Kamala Harris,0,538,Trump Republican,Republican,Democratic,,

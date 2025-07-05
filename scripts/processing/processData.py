@@ -9,35 +9,74 @@ import json
 import numpy as np
 from pathlib import Path
 
-# Party color mappings
-PARTY_COLORS = {
-    'Republican': '#E81B23',
-    'Democratic': '#3333FF',
-    'Democratic-Republican': '#008000',
-    'Federalist': '#EA9978',
-    'Whig': '#F0DC82',
-    'National Republican': '#E0CDA9',
-    'Progressive': '#FF6347',
-    'American Independent': '#808080',
-    'States Rights': '#F4C430',
-    'Liberal Republican': '#FFD700',
-    'Populist': '#ACE1AF',
-    'Liberal Republican/Democratic': '#4682B4',
-    'None': '#D3D3D3',
-    'Did Not Vote': '#808080',
-    'Unknown': '#C0C0C0',
-}
+# Comprehensive party color mappings (self-contained)
+def get_party_colors():
+    """Return comprehensive party colors - self-contained, no external files"""
+    return {
+        'Democratic': '#3333FF',
+        'Republican': '#E81B23',
+        'Democratic-Republican': '#008000',
+        'Federalist': '#EA9978',
+        'Whig': '#F0DC82',
+        'National Republican': '#E0CDA9',
+        'Anti-Masonic': '#8B4513',
+        'Free Soil': '#D2691E',
+        'American': '#CD853F',
+        'Know Nothing': '#CD853F',
+        'Constitutional Union': '#DDA0DD',
+        'Liberal Republican': '#FFD700',
+        'Populist': '#ACE1AF',
+        'People\'s': '#ACE1AF',
+        'Greenback': '#228B22',
+        'Greenback-Labor': '#228B22',
+        'Prohibition': '#4B0082',
+        'Liberty': '#32CD32',
+        'Silver Republican': '#C0C0C0',
+        'National Democratic': '#6495ED',
+        'Gold Democratic': '#FFD700',
+        'Progressive': '#FF7F50',
+        'Bull Moose': '#FF7F50',
+        'Socialist': '#DC143C',
+        'Socialist Labor': '#B22222',
+        'Communist': '#8B0000',
+        'Farmer-Labor': '#8FBC8F',
+        'Union': '#4169E1',
+        'States Rights': '#DAA520',
+        'States Rights Democratic': '#DAA520',
+        'Dixiecrat': '#DAA520',
+        'American Independent': '#808080',
+        'America First': '#483D8B',
+        'Reform': '#FF1493',
+        'Libertarian': '#FED700',
+        'Green': '#00FF00',
+        'Constitution': '#800080',
+        'Natural Law': '#FFB6C1',
+        'American Taxpayer': '#800080',
+        'Peace and Freedom': '#FF69B4',
+        'Workers World': '#8B0000',
+        'Socialist Workers': '#B22222',
+        'Party for Socialism and Liberation': '#FF0000',
+        'Socialist Party USA': '#DC143C',
+        'Socialist Equality': '#8B0000',
+        'Independent': '#708090',
+        'Liberal Republican/Democratic': '#4682B4',
+        'Rights': '#DAA520',
+        'Unpledged': '#708090',
+        'None': '#D3D3D3',
+        'Did Not Vote': '#696969',
+        'Unknown': '#C0C0C0',
+    }
+
+PARTY_COLORS = get_party_colors()
 
 def load_data():
-    """Load electoral and population data"""
-    print("📊 Loading electoral data...")
+    """Load electoral data from single source of truth"""
+    print("📊 Loading electoral data from single source...")
     
-    # Read enhanced data from new raw data location
+    # Single source of truth: enhanced CSV contains ALL data 1789-2024
     enhanced_df = pd.read_csv('data/raw/electoral_enhanced.csv')
     
-    # Read original Excel for any missing data
-    electoral_df = pd.read_excel('data/raw/electoral_data_final.xlsx', sheet_name='Electoral_Votes')
-    population_df = pd.read_excel('data/raw/electoral_data_final.xlsx', sheet_name='Population_Data')
+    print(f"✅ Loaded {len(enhanced_df)} records from {enhanced_df['Year'].min()}-{enhanced_df['Year'].max()}")
     
     return enhanced_df
 
@@ -78,6 +117,10 @@ def extract_party_from_notes(notes_str):
     if 'faithless electors' in notes_str.lower():
         return None  # Will fall back to Winner_Party column
     
+    # Handle disputed cases like "Disputed; awarded to Bush" - should use Winner_Party column
+    if 'disputed' in notes_str.lower() and 'awarded' in notes_str.lower():
+        return None  # Will fall back to Winner_Party column
+    
     # Common patterns in notes
     if 'Republican' in notes_str:
         return 'Republican'
@@ -106,29 +149,53 @@ def calculate_metrics(df):
     """Calculate additional metrics for visualization"""
     print("🔧 Calculating metrics...")
     
-    # Fix party data by parsing from Notes column (which is correct)
-    print("🔧 Fixing party data from Notes column...")
-    df['Corrected_Winner_Party'] = df['Notes'].apply(extract_party_from_notes)
+    # Use actual party data from each state's Winner_Party and RunnerUp_Party columns
+    print("🔧 Using actual party data from each row...")
     
-    # Fall back to Winner_Party column where Notes parsing failed
-    null_mask = df['Corrected_Winner_Party'].isna()
-    df.loc[null_mask, 'Corrected_Winner_Party'] = df.loc[null_mask, 'Winner_Party']
+    # Each row has its own winner and runner-up party - use them directly per state
+    df['Corrected_Winner_Party'] = df['Winner_Party'].fillna('Unknown')
+    df['Corrected_RunnerUp_Party'] = df['RunnerUp_Party'].fillna('Unknown')
     
-    # Initialize split state column
+    # For rows where party data might be missing, try to extract from candidate names
+    missing_winner_party = df['Corrected_Winner_Party'].isin(['Unknown', '', None]) | df['Corrected_Winner_Party'].isna()
+    missing_runner_party = df['Corrected_RunnerUp_Party'].isin(['Unknown', '', None]) | df['Corrected_RunnerUp_Party'].isna()
+    
+    if missing_winner_party.any():
+        print(f"🔧 Found {missing_winner_party.sum()} rows with missing winner party data, trying candidate name inference...")
+        # Try to infer from candidate names for missing data only
+        for idx in df[missing_winner_party].index:
+            row = df.loc[idx]
+            winner_name = str(row['Winner']).strip().lower()
+            
+            # Infer party from well-known candidate names
+            if any(name in winner_name for name in ['biden', 'harris', 'obama', 'clinton', 'gore', 'kerry', 'dukakis', 'mondale']):
+                df.loc[idx, 'Corrected_Winner_Party'] = 'Democratic'
+            elif any(name in winner_name for name in ['trump', 'bush', 'reagan', 'romney', 'mccain', 'dole']):
+                df.loc[idx, 'Corrected_Winner_Party'] = 'Republican'
+            elif 'washington' in winner_name:
+                df.loc[idx, 'Corrected_Winner_Party'] = 'Independent'  # Washington was non-partisan
+    
+    if missing_runner_party.any():
+        print(f"🔧 Found {missing_runner_party.sum()} rows with missing runner-up party data, trying candidate name inference...")
+        # Try to infer from candidate names for missing data only
+        for idx in df[missing_runner_party].index:
+            row = df.loc[idx]
+            runner_name = str(row['Runner_Up']).strip().lower() if pd.notna(row['Runner_Up']) else ''
+            
+            # Infer party from well-known candidate names  
+            if any(name in runner_name for name in ['biden', 'harris', 'obama', 'clinton', 'gore', 'kerry', 'dukakis', 'mondale']):
+                df.loc[idx, 'Corrected_RunnerUp_Party'] = 'Democratic'
+            elif any(name in runner_name for name in ['trump', 'bush', 'reagan', 'romney', 'mccain', 'dole']):
+                df.loc[idx, 'Corrected_RunnerUp_Party'] = 'Republican'
+    
+    # Initialize split state column - detect from actual split vote data
     df['Is_Split_State'] = False
     
-    # Handle split states specially
+    # Handle split states based on actual electoral vote splits (not party inference)
     print("🔧 Handling split electoral states...")
-    split_mask = df['Corrected_Winner_Party'] == 'Split'
-    df.loc[split_mask, 'Corrected_Winner_Party'] = df[split_mask].apply(extract_party_from_split_state, axis=1)
+    # A state is split if winner didn't get all EVs and there are runner-up EVs
+    split_mask = (df['Winner_EV'] < df['Electoral_Votes']) & (df['Runner_Up_EV'] > 0)
     df.loc[split_mask, 'Is_Split_State'] = True
-    
-    # For runner-up, we need to infer from the election context
-    # For now, set a reasonable default (will be overridden by actual data where available)
-    df['Corrected_RunnerUp_Party'] = df.apply(lambda row: 
-        'Republican' if row['Corrected_Winner_Party'] == 'Democratic' 
-        else 'Democratic' if row['Corrected_Winner_Party'] == 'Republican'
-        else 'Unknown', axis=1)
     
     # Ensure population per EV is calculated
     df['Population_Per_EV'] = df['Population'] / df['Electoral_Votes']
@@ -170,25 +237,56 @@ def create_state_timeline(df):
         }
         
         for _, row in state_data.iterrows():
+            # Determine colors - NEVER grey unless state doesn't exist or doesn't vote
+            winner_party = row['Corrected_Winner_Party'] if pd.notna(row['Corrected_Winner_Party']) else 'Unknown'
+            runner_up_party = row['Corrected_RunnerUp_Party'] if pd.notna(row['Corrected_RunnerUp_Party']) else 'Unknown'
+            
+            # Get colors from party mapping
+            winner_color = PARTY_COLORS.get(winner_party, '#708090')  # Default to slate gray for unknown
+            runner_up_color = PARTY_COLORS.get(runner_up_party, '#708090')
+            
+            # ONLY use grey if the state doesn't exist or doesn't vote
+            electoral_votes = int(row['Electoral_Votes']) if pd.notna(row['Electoral_Votes']) else 0
+            state_exists = electoral_votes > 0
+            
+            # Override color to grey ONLY for non-participating states
+            if not state_exists:
+                if winner_party in ['Did Not Vote', 'None']:
+                    winner_color = PARTY_COLORS.get(winner_party, '#696969')
+                else:
+                    winner_color = '#696969'  # Non-participating state
+            
+            # Calculate weighted stripe proportions for split states
+            winner_ev = int(row['Winner_EV']) if pd.notna(row['Winner_EV']) else electoral_votes
+            runner_up_ev = int(row['Runner_Up_EV']) if pd.notna(row['Runner_Up_EV']) else 0
+            
+            # Calculate stripe weights (percentage of total EVs)
+            total_split_evs = winner_ev + runner_up_ev
+            winner_weight = winner_ev / total_split_evs if total_split_evs > 0 else 1.0
+            runner_up_weight = runner_up_ev / total_split_evs if total_split_evs > 0 else 0.0
+            
             year_data = {
                 'year': int(row['Year']),
-                'electoralVotes': int(row['Electoral_Votes']) if pd.notna(row['Electoral_Votes']) else 0,
+                'electoralVotes': electoral_votes,
                 'population': int(row['Population']) if pd.notna(row['Population']) else None,
                 'populationPerEV': float(row['Population_Per_EV']) if pd.notna(row['Population_Per_EV']) else None,
                 'representationRatio': float(row['Representation_Ratio']) if pd.notna(row['Representation_Ratio']) else None,
                 'hypotheticalEVs': int(row['Hypothetical_EVs']) if pd.notna(row['Hypothetical_EVs']) else None,
                 'evDifference': int(row['EV_Difference']) if pd.notna(row['EV_Difference']) else None,
-                'winner': row['Corrected_Winner_Party'] if pd.notna(row['Corrected_Winner_Party']) else None,
-                'runnerUp': row['Corrected_RunnerUp_Party'] if pd.notna(row['Corrected_RunnerUp_Party']) else None,
-                'winnerColor': PARTY_COLORS.get(row['Corrected_Winner_Party'], '#D3D3D3'),
-                'exists': row['Electoral_Votes'] > 0 if pd.notna(row['Electoral_Votes']) else False,
+                'winner': winner_party,
+                'runnerUp': runner_up_party,
+                'winnerColor': winner_color,
+                'runnerUpColor': runner_up_color,
+                'exists': state_exists,
                 'isSplitState': bool(row.get('Is_Split_State', False)),
                 # Add candidate names
                 'winnerCandidate': str(row['Winner']).strip() if pd.notna(row['Winner']) else None,
                 'runnerUpCandidate': str(row['Runner_Up']).strip() if pd.notna(row['Runner_Up']) else None,
-                # Add split vote details for proportional stripes
-                'winnerEV': int(row['Winner_EV']) if pd.notna(row['Winner_EV']) else None,
-                'runnerUpEV': int(row['Runner_Up_EV']) if pd.notna(row['Runner_Up_EV']) else None,
+                # Add weighted split vote details for proportional stripes
+                'winnerEV': winner_ev,
+                'runnerUpEV': runner_up_ev,
+                'winnerWeight': round(winner_weight, 3),  # Percentage as decimal (0.0-1.0)
+                'runnerUpWeight': round(runner_up_weight, 3)
             }
             timeline_data[state]['timeline'].append(year_data)
     
