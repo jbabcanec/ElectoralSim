@@ -15,7 +15,6 @@ interface MapMobileProps {
 
 const MapMobile: React.FC<MapMobileProps> = (props) => {
   const [scale, setScale] = useState(1);
-  const [position, setPosition] = useState({ x: 0, y: 0 });
   const containerRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -78,7 +77,7 @@ const MapMobile: React.FC<MapMobileProps> = (props) => {
     >
       <div
         style={{
-          transform: `scale(${scale}) translate(${position.x}px, ${position.y}px)`,
+          transform: `scale(${scale})`,
           transformOrigin: 'center center',
           transition: 'transform 0.1s',
         }}

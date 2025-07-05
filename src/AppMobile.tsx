@@ -134,7 +134,7 @@ function AppMobile() {
       <div className="fixed top-4 left-4 bg-white rounded-lg shadow-lg px-4 py-2 z-30">
         <div className="text-2xl font-bold">{mapState.year}</div>
         <div className="text-sm text-neutral-600">
-          {currentYearSummary?.winner} ({currentYearSummary?.winnerEV || 0} EVs)
+          {currentYearSummary?.totalElectoralVotes || 0} Total EVs
         </div>
       </div>
 
@@ -186,7 +186,6 @@ function AppMobile() {
               hoveredState={mapState.hoveredState}
               stateTimelines={stateTimelines}
               yearSummary={currentYearSummary}
-              config={config}
             />
           )}
 
@@ -194,7 +193,7 @@ function AppMobile() {
             <div className="space-y-4">
               <h3 className="text-lg font-semibold">Timeline</h3>
               <Timeline
-                year={mapState.year}
+                currentYear={mapState.year}
                 years={config?.years || []}
                 isPlaying={mapState.isPlaying}
                 onYearChange={handleYearChange}
