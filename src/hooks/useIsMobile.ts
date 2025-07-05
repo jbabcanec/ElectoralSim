@@ -1,9 +1,19 @@
 import { useState, useEffect } from 'react';
 
 export function useIsMobile(breakpoint: number = 768) {
-  const [isMobile, setIsMobile] = useState(false);
+  // Check for forced mobile mode via URL parameter
+  const urlParams = new URLSearchParams(window.location.search);
+  const forceMobile = urlParams.get('mobile') === 'true';
+  
+  const [isMobile, setIsMobile] = useState(forceMobile);
 
   useEffect(() => {
+    // If forced mobile, always return true
+    if (forceMobile) {
+      setIsMobile(true);
+      return;
+    }
+
     const checkIsMobile = () => {
       setIsMobile(window.innerWidth < breakpoint);
     };
@@ -17,7 +27,7 @@ export function useIsMobile(breakpoint: number = 768) {
     return () => {
       window.removeEventListener('resize', checkIsMobile);
     };
-  }, [breakpoint]);
+  }, [breakpoint, forceMobile]);
 
   return isMobile;
 }
