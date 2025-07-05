@@ -10,9 +10,9 @@ export async function loadData(): Promise<LoadedData> {
   try {
     // Load all data files in parallel
     const [stateTimelines, yearSummaries, config] = await Promise.all([
-      import('../data/stateTimelines.json').then(module => module.default),
-      import('../data/yearSummaries.json').then(module => module.default),
-      import('../data/config.json').then(module => module.default),
+      import('../../data/outputs/stateTimelines.json').then(module => module.default),
+      import('../../data/outputs/yearSummaries.json').then(module => module.default),
+      import('../../data/outputs/config.json').then(module => module.default),
     ]);
 
     return {
