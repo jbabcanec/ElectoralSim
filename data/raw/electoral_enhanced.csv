@@ -1900,23 +1900,23 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,1824710.0,304118.3333333333
 1988,Wisconsin,11,Michael Dukakis,11,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,4854569.0,441324.4545454545
 1988,Wyoming,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,456782.0,152260.66666666666
-1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,4121890.0,457987.77777777775
-1992,Alaska,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,565421.0,188473.66666666663
-1992,Arizona,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3958309.0,494788.625
+1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican,Republican,Democratic,4121890.0,457987.77777777775
+1992,Alaska,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Republican,Democratic,565421.0,188473.66666666663
+1992,Arizona,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Republican,Democratic,3958309.0,494788.625
 1992,Arkansas,6,Bill Clinton,6,George H.W. Bush,0,538,Clinton home state,Democratic,Republican,2415260.0,402543.3333333333
 1992,California,54,Bill Clinton,54,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,30582346.0,566339.7407407408
 1992,Colorado,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3495767.0,436970.875
 1992,Connecticut,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3310806.0,413850.75
 1992,Delaware,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,689654.0,229884.66666666663
 1992,District of Columbia,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,607000.0,202333.33
-1992,Florida,25,George H.W. Bush,25,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,13546816.0,541872.64
+1992,Florida,25,George H.W. Bush,25,Bill Clinton,0,538,Bush Republican,Republican,Democratic,13546816.0,541872.64
 1992,Georgia,13,Bill Clinton,13,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,6819863.0,524604.8461538461
 1992,Hawaii,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1128891.0,282222.75
-1992,Idaho,4,George H.W. Bush,4,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1064190.0,266047.5
+1992,Idaho,4,George H.W. Bush,4,Bill Clinton,0,538,Bush Republican,Republican,Democratic,1064190.0,266047.5
 1992,Illinois,22,Bill Clinton,22,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,11628340.0,528560.9090909091
-1992,Indiana,12,George H.W. Bush,12,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,5651424.0,470952.0
+1992,Indiana,12,George H.W. Bush,12,Bill Clinton,0,538,Bush Republican,Republican,Democratic,5651424.0,470952.0
 1992,Iowa,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,2806669.0,400952.7142857143
-1992,Kansas,6,George H.W. Bush,6,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,2519743.0,419957.1666666667
+1992,Kansas,6,George H.W. Bush,6,Bill Clinton,0,538,Bush Republican,Republican,Democratic,2519743.0,419957.1666666667
 1992,Kentucky,8,Bill Clinton,8,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,3756591.0,469573.875
 1992,Louisiana,9,Bill Clinton,9,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4269774.0,474419.3333333333
 1992,Maine,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1237327.0,309331.75
@@ -1924,33 +1924,33 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1992,Massachusetts,12,Bill Clinton,12,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,6082959.0,506913.25
 1992,Michigan,18,Bill Clinton,18,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,9423926.0,523551.4444444445
 1992,Minnesota,10,Bill Clinton,10,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4483975.0,448397.5
-1992,Mississippi,7,George H.W. Bush,7,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,2627504.0,375357.7142857143
+1992,Mississippi,7,George H.W. Bush,7,Bill Clinton,0,538,Bush Republican,Republican,Democratic,2627504.0,375357.7142857143
 1992,Missouri,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5212701.0,473881.9090909091
 1992,Montana,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,819691.0,273230.3333333333
-1992,Nebraska,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1604961.0,320992.2
+1992,Nebraska,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Republican,Democratic,1604961.0,320992.2
 1992,Nevada,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1361118.0,340279.5
 1992,New Hampshire,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1134559.0,283639.75
 1992,New Jersey,15,Bill Clinton,15,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,7867020.0,524468.0
 1992,New Mexico,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1575864.0,315172.8
 1992,New York,33,Bill Clinton,33,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,18187655.0,551141.0606060605
-1992,North Carolina,14,George H.W. Bush,14,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,6912772.0,493769.4285714286
-1992,North Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,639480.0,213160.0
+1992,North Carolina,14,George H.W. Bush,14,Bill Clinton,0,538,Bush Republican,Republican,Democratic,6912772.0,493769.4285714286
+1992,North Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Republican,Democratic,639480.0,213160.0
 1992,Ohio,21,Bill Clinton,21,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,10948320.0,521348.5714285714
-1992,Oklahoma,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3206599.0,400824.875
+1992,Oklahoma,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Republican,Democratic,3206599.0,400824.875
 1992,Oregon,7,Bill Clinton,7,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,2958137.0,422591.0
 1992,Pennsylvania,23,Bill Clinton,23,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,11961525.0,520066.3043478261
 1992,Rhode Island,4,Bill Clinton,4,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1012435.0,253108.75
-1992,South Carolina,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,3591765.0,448970.625
-1992,South Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,707772.0,235924.0
+1992,South Carolina,8,George H.W. Bush,8,Bill Clinton,0,538,Bush Republican,Republican,Democratic,3591765.0,448970.625
+1992,South Dakota,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Republican,Democratic,707772.0,235924.0
 1992,Tennessee,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5039605.0,458145.9090909091
-1992,Texas,32,George H.W. Bush,32,Bill Clinton,0,538,Bush home state,Democratic,Democratic,17759572.0,554986.625
-1992,Utah,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,1824914.0,364982.8
+1992,Texas,32,George H.W. Bush,32,Bill Clinton,0,538,Bush home state,Republican,Democratic,17759572.0,554986.625
+1992,Utah,5,George H.W. Bush,5,Bill Clinton,0,538,Bush Republican,Republican,Democratic,1824914.0,364982.8
 1992,Vermont,3,Bill Clinton,3,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,571972.0,190657.3333333333
-1992,Virginia,13,George H.W. Bush,13,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,6365589.0,489660.6923076923
+1992,Virginia,13,George H.W. Bush,13,Bill Clinton,0,538,Bush Republican,Republican,Democratic,6365589.0,489660.6923076923
 1992,Washington,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,5072178.0,461107.0909090909
 1992,West Virginia,5,Bill Clinton,5,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,1796450.0,359290.0
 1992,Wisconsin,11,Bill Clinton,11,George H.W. Bush,0,538,Clinton Democrat,Democratic,Republican,4986150.0,453286.3636363637
-1992,Wyoming,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Democratic,Democratic,461627.0,153875.66666666666
+1992,Wyoming,3,George H.W. Bush,3,Bill Clinton,0,538,Bush Republican,Republican,Democratic,461627.0,153875.66666666666
 1996,Alabama,9,Bob Dole,9,Bill Clinton,0,538,Dole Republican,Republican,Democratic,4284495.0,476055.0
 1996,Alaska,3,Bob Dole,3,Bill Clinton,0,538,Dole Republican,Republican,Democratic,596176.0,198725.3333333333
 1996,Arizona,8,Bill Clinton,8,Bob Dole,0,538,Clinton Democrat,Democratic,Republican,4544470.0,568058.75
@@ -2316,7 +2316,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 2024,Colorado,10,Kamala Harris,10,Donald Trump,0,538,Harris Democrat,Democratic,Republican,5957493.0,595749.3
 2024,Connecticut,7,Kamala Harris,7,Donald Trump,0,538,Harris Democrat,Democratic,Republican,3675069.0,525009.8571428572
 2024,Delaware,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1044321.0,348107.0
-2024,District of Columbia,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,705749.0,235249.66666666666
+2024,District of Columbia,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,705749.0,235249.66666666663
 2024,Florida,30,Donald Trump,30,Kamala Harris,0,538,Trump Republican,Republican,Democratic,23372215.0,779073.8333333334
 2024,Georgia,16,Donald Trump,16,Kamala Harris,0,538,Trump Republican,Republican,Democratic,11180878.0,698804.875
 2024,Hawaii,4,Kamala Harris,4,Donald Trump,0,538,Harris Democrat,Democratic,Republican,1446146.0,361536.5
@@ -2353,7 +2353,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 2024,Tennessee,11,Donald Trump,11,Kamala Harris,0,538,Trump Republican,Republican,Democratic,7227750.0,657068.1818181818
 2024,Texas,40,Donald Trump,40,Kamala Harris,0,538,Trump Republican,Republican,Democratic,31290831.0,782270.775
 2024,Utah,6,Donald Trump,6,Kamala Harris,0,538,Trump Republican,Republican,Democratic,3503613.0,583935.5
-2024,Vermont,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,647818.0,215939.33333333334
+2024,Vermont,3,Kamala Harris,3,Donald Trump,0,538,Harris Democrat,Democratic,Republican,647818.0,215939.3333333333
 2024,Virginia,13,Kamala Harris,13,Donald Trump,0,538,Harris Democrat,Democratic,Republican,8811195.0,677784.2307692308
 2024,Washington,12,Kamala Harris,12,Donald Trump,0,538,Harris Democrat,Democratic,Republican,7958180.0,663181.6666666666
 2024,West Virginia,4,Donald Trump,4,Kamala Harris,0,538,Trump Republican,Republican,Democratic,1769979.0,442494.75
