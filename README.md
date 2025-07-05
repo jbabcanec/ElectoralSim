@@ -1,6 +1,6 @@
 # 🗳️ Electoral Representation Visualizer
 
-**Live Site: [https://jbabcanec.github.io/electoral-visualizer/](https://jbabcanec.github.io/electoral-visualizer/)**
+**Live Site: [https://jbabcanec.github.io/ElectoralSim/](https://jbabcanec.github.io/ElectoralSim/)**
 
 Interactive visualization of U.S. electoral votes relative to population from 1789 to 2024.
 
@@ -65,7 +65,7 @@ python3 scripts/validation/validate_data.py  # Validate data integrity
 
 ## 🌐 Deployment
 
-Automatically deployed to GitHub Pages via GitHub Actions. Every push to `main` triggers a new deployment.
+Automatically deployed to GitHub Pages via GitHub Actions. Every push to `master` triggers a new deployment.
 
 **Tech Stack**: React + TypeScript + Vite + TailwindCSS + D3.js
 

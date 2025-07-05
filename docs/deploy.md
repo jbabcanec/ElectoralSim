@@ -31,7 +31,7 @@ git push origin master
 ### 3. Your Live Site
 After ~2-3 minutes, your site will be live at:
 ```
-https://jbabcanec.github.io/electoral-visualizer/
+https://jbabcanec.github.io/ElectoralSim/
 ```
 
 ## 🔄 Automatic Deployment
@@ -60,7 +60,7 @@ python3 scripts/validation/validate_data.py  # Validate integrity
 ## 📂 Clean Project Structure
 
 ```
-electoral-visualizer/
+ElectoralSim/
 ├── 📱 Frontend
 │   ├── src/                # React/TypeScript app
 │   ├── public/            # Static assets
