@@ -196,7 +196,8 @@ const Map: React.FC<MapProps> = ({
       try {
         console.log('🔍 Loading Blank_USA.svg...');
         
-        const response = await fetch('/assets/Blank_USA.svg');
+        const basePath = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${basePath}assets/Blank_USA.svg`);
         if (!response.ok) {
           throw new Error(`HTTP ${response.status}: ${response.statusText}`);
         }
