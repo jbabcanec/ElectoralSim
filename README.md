@@ -1,156 +1,115 @@
-# Electoral Representation Visualizer
+# 🗳️ Electoral Representation Visualizer
 
-An interactive visualization tool that explores the relationship between population and electoral votes in U.S. presidential elections from 1789 to 2024.
+**Live Site: [https://YOUR_USERNAME.github.io/electoral-visualizer/](https://YOUR_USERNAME.github.io/electoral-visualizer/)**
 
-## Overview
+Interactive visualization of U.S. electoral votes relative to population from 1789 to 2024.
 
-This project provides an interactive map-based visualization of U.S. electoral data, allowing users to:
-- Explore historical electoral vote allocations relative to state populations
-- Visualize representation disparities across states
-- View hypothetical scenarios with equal population-to-electoral vote ratios
-- Analyze state-specific electoral data through interactive tooltips
-- Compare different election years and see state admission timelines
+## ✨ Features
 
-## Features
+- **Complete Historical Data**: Every presidential election from 1789-2024 (60 elections)
+- **2024 Election Results**: Trump 312 EVs (31 states) vs Harris 226 EVs (20 states)
+- **Official 2024 Population Data**: US Census Bureau estimates for all 51 jurisdictions
+- **Interactive Map**: Click states to explore detailed electoral and population data  
+- **Dynamic Timeline**: Scrub through history or play animations
+- **Multiple View Modes**: 
+  - Standard electoral map with party colors
+  - Population-normalized representation analysis
+  - What-if scenarios and redistricting tools
+- **Rich Analytics**: Population per electoral vote, representation ratios, historical trends
 
-### Core Visualizations
-- **Population per Electoral Vote**: Color-coded map showing representation levels
-- **Electoral Vote Size Scaling**: States sized by their electoral vote count
-- **Historical Timeline**: Navigate through all presidential elections (1789-2024)
-- **Equal Representation Mode**: View hypothetical electoral distributions
-- **State-Based Normalization**: Set any state as the baseline for electoral vote calculations
+## 🚀 Quick Start
 
-### Interactive Elements
-- **Hover Information**: Detailed state data including:
-  - Electoral votes and population
-  - Winner and runner-up parties
-  - Population per electoral vote
-  - Representation ratio compared to national average
-- **Time Slider**: Smoothly transition between election years
-- **View Modes**: 
-  - Standard view
-  - Population-weighted view
-  - Equal representation hypothesis
-  - State-normalized view
-- **Party Coloring**: Traditional red/blue/other party colors
-
-### Data Features
-- Non-existent states are greyed out for historical accuracy
-- Special handling for Civil War and Reconstruction periods
-- Third-party victories properly displayed
-- Split electoral votes indicated
-
-## Technology Stack
-
-- **Frontend**: React.js with TypeScript
-- **Visualization**: D3.js for map rendering and interactions
-- **Styling**: Tailwind CSS for modern UI
-- **Data Processing**: Python for data preparation
-- **Build Tool**: Vite for fast development
-
-## Installation
-
+### Development
 ```bash
-# Clone the repository
-git clone https://github.com/yourusername/electoral-visualizer.git
-cd electoral-visualizer
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
+npm install        # Install dependencies
+npm run dev        # Start development server (localhost:5173)
+npm run build      # Build for production
+npm run preview    # Preview production build
 ```
 
-## Project Structure
+### Data Management
+```bash
+python3 scripts/processing/processData.py    # Regenerate all data
+python3 scripts/validation/validate_data.py  # Validate data integrity
+```
+
+## 📊 Data Architecture
+
+- **Single Source of Truth**: `data/raw/electoral_enhanced.csv`
+- **Complete Dataset**: 2,360 records covering all states and elections
+- **Official Sources**: US Census Bureau, state election records
+- **Automated Processing**: Python pipeline generates optimized JSON for frontend
+- **Data Validation**: Comprehensive integrity checks
+
+## 🏛️ 2024 Election Highlights
+
+- **Total US Population**: 340,092,578
+- **Most Represented**: Wyoming (195k people per EV)
+- **Least Represented**: Texas (782k people per EV)
+- **Battleground States**: All 7 swing states won by Trump
+- **Split Votes**: Maine (3 Harris, 1 Trump), Nebraska (4 Trump, 1 Harris)
+
+## 📁 Project Structure
 
 ```
-electoral-visualizer/
-├── src/
-│   ├── components/
-│   │   ├── Map.tsx              # Main map component
-│   │   ├── Timeline.tsx         # Year selector
-│   │   ├── Tooltip.tsx          # State information display
-│   │   ├── Controls.tsx         # View mode controls
-│   │   └── Legend.tsx           # Map legend
-│   ├── utils/
-│   │   ├── dataProcessor.ts     # Data transformation utilities
-│   │   ├── colorScales.ts       # Color mapping functions
-│   │   └── calculations.ts      # Electoral math utilities
-│   ├── data/
-│   │   └── processedData.json   # Preprocessed electoral data
-│   └── styles/
-│       └── main.css             # Global styles
-├── public/
-│   └── assets/
-│       └── us-states.svg        # U.S. map SVG
+├── src/                    # React/TypeScript frontend
 ├── data/
-│   ├── electoral_data_final.xlsx # Source data
-│   └── electoral_enhanced.csv    # Enhanced data with calculations
-└── scripts/
-    └── processData.py           # Data preprocessing script
+│   ├── raw/               # Single source of truth CSV
+│   └── outputs/           # Generated JSON files
+├── scripts/
+│   ├── processing/        # Data processing pipeline
+│   └── validation/        # Data integrity checks
+├── docs/                  # Documentation
+└── .github/workflows/     # GitHub Actions deployment
 ```
 
-## Data Sources
+## 🌐 Deployment
 
-- Electoral vote allocations: Historical records (1789-2024)
-- Population data: U.S. Census Bureau
-- State boundaries: Standard U.S. map projection
-- Party affiliations: Historical election results
+Automatically deployed to GitHub Pages via GitHub Actions. Every push to `main` triggers a new deployment.
 
-## Usage
+**Tech Stack**: React + TypeScript + Vite + TailwindCSS + D3.js
 
-### Basic Navigation
-1. Use the timeline slider to select an election year
-2. Hover over states to see detailed information
-3. Click view mode buttons to switch visualizations
+## 📈 Navigation
 
 ### View Modes
 - **Standard**: Traditional electoral map with party colors
-- **Representation**: Color gradient showing population per electoral vote
-- **Scaled**: States sized by electoral vote count
+- **Representation**: Color gradient showing population per electoral vote  
 - **Equal**: Hypothetical equal representation scenario
-- **Normalized**: Select a state to recalculate all electoral votes based on its ratio
+- **Normalized**: Compare all states to a selected baseline
 
-### Keyboard Shortcuts
-- `←/→`: Navigate between election years
-- `Space`: Play/pause animation through years
-- `1-5`: Switch between view modes
-- `R`: Reset to default view
+### Interactive Features
+- **Timeline Scrubber**: Navigate between 1789-2024
+- **State Details**: Click any state for detailed information
+- **Play Animation**: Watch electoral history unfold over time
+- **What-If Analysis**: Explore alternative representation scenarios
 
-## Development
+## 🔧 Development
 
-### Running Tests
+### Commands
 ```bash
-npm run test
+npm run dev        # Development server
+npm run build      # Production build
+npm run lint       # Code linting
+npm run preview    # Preview build
 ```
 
-### Building for Production
+### Data Pipeline
 ```bash
-npm run build
+# Update data and regenerate outputs
+python3 scripts/processing/processData.py
+
+# Validate data integrity
+python3 scripts/validation/validate_data.py
 ```
 
-### Data Updates
-To update the electoral data:
-```bash
-cd scripts
-python processData.py --input ../data/electoral_data_final.xlsx
-```
+## 🎯 Key Insights
 
-## Contributing
+Explore fascinating patterns in American electoral history:
+- **Wyoming Effect**: Small states get outsized representation
+- **Texas Scale**: Large states are underrepresented per capita
+- **Historical Shifts**: See how population and power evolved
+- **Modern Elections**: Analyze contemporary political geography
 
-Contributions are welcome! Please read our contributing guidelines and submit pull requests to our repository.
+---
 
-## License
-
-MIT License - see LICENSE file for details
-
-## Acknowledgments
-
-- Historical electoral data compiled from National Archives
-- Population data from U.S. Census Bureau
-- Map SVG adapted from public domain sources
-
-## Contact
-
-For questions or feedback, please open an issue on GitHub.
+Built with comprehensive historical data and modern web technologies for an engaging exploration of American democracy.
