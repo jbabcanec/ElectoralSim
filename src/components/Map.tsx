@@ -297,7 +297,8 @@ const Map: React.FC<MapProps> = ({
       if (viewMode === 'standard' && stateData) {
         // Check if state has split votes or faithless electors
         const hasSpecialVoting = stateData.isSplitState || 
-          (stateData.winnerEV !== null && stateData.runnerUpEV !== null && 
+          (stateData.winnerEV !== null && stateData.winnerEV !== undefined && 
+           stateData.runnerUpEV !== null && stateData.runnerUpEV !== undefined && 
            (stateData.winnerEV + stateData.runnerUpEV) !== stateData.electoralVotes);
         
         if (hasSpecialVoting) {

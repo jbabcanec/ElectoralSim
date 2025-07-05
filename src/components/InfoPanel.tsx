@@ -92,7 +92,7 @@ const InfoPanel: React.FC<InfoPanelProps> = ({
                           {stateData.winnerCandidate || stateData.winner}: {stateData.winnerEV} EVs
                         </div>
                       )}
-                      {stateData.runnerUpEV !== null && stateData.runnerUpEV > 0 && (
+                      {stateData.runnerUpEV !== null && stateData.runnerUpEV !== undefined && stateData.runnerUpEV > 0 && (
                         <div className="text-xs text-neutral-600">
                           {stateData.runnerUpCandidate || stateData.runnerUp}: {stateData.runnerUpEV} EVs
                         </div>
