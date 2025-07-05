@@ -31,14 +31,17 @@ function App() {
 
   // Load data on mount
   useEffect(() => {
+    console.log('App: Starting data load...');
     loadData()
       .then(({ stateTimelines, yearSummaries, config }) => {
+        console.log('App: Data loaded successfully');
         setStateTimelines(stateTimelines);
         setYearSummaries(yearSummaries);
         setConfig(config);
         setIsLoading(false);
       })
       .catch(err => {
+        console.error('App: Failed to load data:', err);
         setError(err.message);
         setIsLoading(false);
       });
