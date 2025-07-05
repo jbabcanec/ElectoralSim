@@ -18,7 +18,7 @@ git add .
 git commit -m "Ready for deployment"
 
 # Push to your GitHub repository
-git push origin main
+git push origin master
 ```
 
 ### 2. Enable GitHub Pages
@@ -31,12 +31,12 @@ git push origin main
 ### 3. Your Live Site
 After ~2-3 minutes, your site will be live at:
 ```
-https://YOUR_USERNAME.github.io/electoral-visualizer/
+https://jbabcanec.github.io/electoral-visualizer/
 ```
 
 ## 🔄 Automatic Deployment
 
-Every push to `main` branch automatically:
+Every push to `master` branch automatically:
 1. ✅ Builds the React application
 2. ✅ Runs TypeScript compilation  
 3. ✅ Deploys to GitHub Pages

@@ -1,6 +1,6 @@
 # 🗳️ Electoral Representation Visualizer
 
-**Live Site: [https://YOUR_USERNAME.github.io/electoral-visualizer/](https://YOUR_USERNAME.github.io/electoral-visualizer/)**
+**Live Site: [https://jbabcanec.github.io/electoral-visualizer/](https://jbabcanec.github.io/electoral-visualizer/)**
 
 Interactive visualization of U.S. electoral votes relative to population from 1789 to 2024.
 

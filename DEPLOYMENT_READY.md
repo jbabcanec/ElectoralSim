@@ -29,7 +29,7 @@
 
 ### 1. Push to GitHub
 ```bash
-git push origin main
+git push origin master
 ```
 
 ### 2. Enable GitHub Pages
@@ -40,7 +40,7 @@ git push origin main
 
 ### 3. Your Live Site
 ```
-https://YOUR_USERNAME.github.io/electoral-visualizer/
+https://jbabcanec.github.io/electoral-visualizer/
 ```
 
 ## 📊 What Users Will See
