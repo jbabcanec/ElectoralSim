@@ -1649,8 +1649,8 @@
         "Republican": 426
       },
       "runnerUp": {
-        "Democratic": 535,
-        "Republican": 3
+        "Democratic": 511,
+        "Republican": 27
       },
       "stateCount": {
         "winner": {
@@ -1658,8 +1658,8 @@
           "Democratic": 11
         },
         "runnerUp": {
-          "Democratic": 50,
-          "Republican": 1
+          "Democratic": 47,
+          "Republican": 4
         }
       }
     }

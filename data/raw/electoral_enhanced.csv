@@ -1864,7 +1864,7 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,Idaho,4,George H.W. Bush,4,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,994186.0,248546.5
 1988,Illinois,24,George H.W. Bush,24,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,11429785.0,476241.0416666667
 1988,Indiana,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,5533372.0,461114.3333333333
-1988,Iowa,8,Michael Dukakis,7,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,2804166.0,350520.75
+1988,Iowa,8,Michael Dukakis,8,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Republican,2804166.0,350520.75
 1988,Kansas,7,George H.W. Bush,7,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,2454795.0,350685.0
 1988,Kentucky,9,George H.W. Bush,9,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,3680392.0,408932.4444444445
 1988,Louisiana,10,George H.W. Bush,10,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,4217158.0,421715.8
@@ -1896,8 +1896,8 @@ Year,State,Electoral_Votes,Winner,Winner_EV,Runner_Up,Runner_Up_EV,Total_EV_Cast
 1988,Utah,5,George H.W. Bush,5,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,1670487.0,334097.4
 1988,Vermont,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,552498.0,184166.0
 1988,Virginia,12,George H.W. Bush,12,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,6019250.0,501604.1666666667
-1988,Washington,10,Michael Dukakis,9,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,4719785.0,471978.5
-1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector,Democratic,Democratic,1824710.0,304118.3333333333
+1988,Washington,10,Michael Dukakis,10,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Republican,4719785.0,471978.5
+1988,West Virginia,6,Michael Dukakis,5,George H.W. Bush,0,538,1 faithless elector voted Bentsen,Democratic,Republican,1824710.0,304118.3333333333
 1988,Wisconsin,11,Michael Dukakis,11,George H.W. Bush,0,538,Dukakis Democrat,Democratic,Democratic,4854569.0,441324.4545454545
 1988,Wyoming,3,George H.W. Bush,3,Michael Dukakis,0,538,Bush Republican,Republican,Democratic,456782.0,152260.66666666666
 1992,Alabama,9,George H.W. Bush,9,Bill Clinton,0,538,Bush Republican,Republican,Democratic,4121890.0,457987.77777777775
