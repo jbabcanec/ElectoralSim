@@ -6,8 +6,11 @@ import InfoPanel from './components/InfoPanel';
 import RightPanel from './components/RightPanel';
 import { MapState, StateTimeline, YearSummary, Config } from './types';
 import { loadData } from './utils/dataLoader';
+import { useIsMobile } from './hooks/useIsMobile';
+import AppMobile from './AppMobile';
 
 function App() {
+  const isMobile = useIsMobile();
   const [isLoading, setIsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   
@@ -84,6 +87,11 @@ function App() {
   const handlePlayPause = useCallback(() => {
     setMapState(prev => ({ ...prev, isPlaying: !prev.isPlaying }));
   }, []);
+
+  // If mobile, render mobile version
+  if (isMobile) {
+    return <AppMobile />;
+  }
 
   if (isLoading) {
     return (

@@ -73,12 +73,49 @@
     0% { transform: rotate(0deg); }
     100% { transform: rotate(360deg); }
   }
+  
+  /* Mobile-specific styles */
+  @media (max-width: 768px) {
+    .mobile-panel {
+      @apply fixed bottom-0 left-0 right-0 bg-white rounded-t-2xl shadow-xl;
+      @apply transform transition-transform duration-300 z-40;
+      max-height: 70vh;
+    }
+    
+    .mobile-panel.collapsed {
+      transform: translateY(calc(100% - 60px));
+    }
+    
+    .mobile-tab-bar {
+      @apply fixed bottom-0 left-0 right-0 bg-white border-t border-neutral-200;
+      @apply flex justify-around items-center h-16 z-50;
+    }
+    
+    .mobile-tab {
+      @apply flex-1 h-full flex flex-col items-center justify-center;
+      @apply text-neutral-600 text-xs font-medium;
+    }
+    
+    .mobile-tab.active {
+      @apply text-blue-600;
+    }
+  }
 }
 
 @layer utilities {
   /* Custom utilities for D3 integration */
   .svg-container {
     @apply w-full h-full;
+  }
+  
+  /* Mobile viewport fix */
+  @media (max-width: 768px) {
+    .mobile-map-container {
+      @apply fixed inset-0;
+      /* Account for mobile browser chrome */
+      height: 100vh;
+      height: -webkit-fill-available;
+    }
   }
   
   .no-select {
