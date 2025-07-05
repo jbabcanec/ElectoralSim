@@ -11,6 +11,7 @@ function AppMobile() {
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'map' | 'info' | 'timeline'>('map');
   const [isPanelExpanded, setIsPanelExpanded] = useState(false);
+  const [panelHeight, setPanelHeight] = useState(40); // percentage of screen height
   
   // Data
   const [stateTimelines, setStateTimelines] = useState<Record<string, StateTimeline>>({});
@@ -75,6 +76,7 @@ function AppMobile() {
     if (state) {
       setActiveTab('info');
       setIsPanelExpanded(true);
+      setPanelHeight(50); // Open to medium height for info
     }
   }, []);
 
@@ -152,13 +154,65 @@ function AppMobile() {
       </div>
 
       {/* Bottom Panel */}
-      <div className={`mobile-panel ${!isPanelExpanded ? 'collapsed' : ''}`}>
+      <div 
+        className="mobile-panel"
+        style={{
+          height: isPanelExpanded ? `${panelHeight}vh` : '60px',
+          transform: 'translateY(0)',
+        }}
+      >
         {/* Panel Header */}
-        <div 
-          className="flex items-center justify-center p-2 cursor-pointer"
-          onClick={() => setIsPanelExpanded(!isPanelExpanded)}
-        >
-          <div className="w-12 h-1 bg-neutral-300 rounded-full"></div>
+        <div className="flex items-center justify-between p-4 border-b border-neutral-200">
+          <div 
+            className="flex items-center justify-center cursor-pointer flex-1"
+            onTouchStart={(e) => {
+              const startY = e.touches[0].clientY;
+              const startHeight = panelHeight;
+              
+              const handleTouchMove = (e: TouchEvent) => {
+                const currentY = e.touches[0].clientY;
+                const deltaY = startY - currentY;
+                const viewportHeight = window.innerHeight;
+                const deltaPercent = (deltaY / viewportHeight) * 100;
+                const newHeight = Math.max(15, Math.min(80, startHeight + deltaPercent));
+                setPanelHeight(newHeight);
+                
+                // Auto-expand if dragging up
+                if (newHeight > 20 && !isPanelExpanded) {
+                  setIsPanelExpanded(true);
+                }
+              };
+              
+              const handleTouchEnd = () => {
+                document.removeEventListener('touchmove', handleTouchMove);
+                document.removeEventListener('touchend', handleTouchEnd);
+                
+                // Auto-collapse if very small
+                if (panelHeight < 25) {
+                  setIsPanelExpanded(false);
+                  setPanelHeight(40);
+                }
+              };
+              
+              document.addEventListener('touchmove', handleTouchMove);
+              document.addEventListener('touchend', handleTouchEnd);
+            }}
+          >
+            <div className="w-12 h-1 bg-neutral-300 rounded-full"></div>
+          </div>
+          
+          {/* Close button */}
+          <button
+            onClick={() => {
+              setIsPanelExpanded(false);
+              setMapState(prev => ({ ...prev, selectedState: null }));
+            }}
+            className="p-1 text-neutral-500 hover:text-neutral-700"
+          >
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
         </div>
 
         {/* Panel Content */}
@@ -215,20 +269,26 @@ function AppMobile() {
           className={`mobile-tab ${activeTab === 'map' ? 'active' : ''}`}
           onClick={() => {
             setActiveTab('map');
-            setIsPanelExpanded(true);
+            if (!isPanelExpanded) {
+              setIsPanelExpanded(true);
+              setPanelHeight(40);
+            }
           }}
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
           </svg>
-          <span>Map</span>
+          <span>Controls</span>
         </button>
         
         <button
           className={`mobile-tab ${activeTab === 'info' ? 'active' : ''}`}
           onClick={() => {
             setActiveTab('info');
-            setIsPanelExpanded(true);
+            if (!isPanelExpanded) {
+              setIsPanelExpanded(true);
+              setPanelHeight(50);
+            }
           }}
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -241,7 +301,10 @@ function AppMobile() {
           className={`mobile-tab ${activeTab === 'timeline' ? 'active' : ''}`}
           onClick={() => {
             setActiveTab('timeline');
-            setIsPanelExpanded(true);
+            if (!isPanelExpanded) {
+              setIsPanelExpanded(true);
+              setPanelHeight(45);
+            }
           }}
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
